@@ -15,12 +15,9 @@ from utils.general import check_img_size, check_requirements, check_imshow, non_
 from utils.plots import plot_one_box
 from utils.torch_utils import select_device, load_classifier, time_synchronized, TracedModel
 
-def save_cropped_image(img_array, box, save_dir, frame):
-    image = Image.fromarray(img_array)
-    cropped_image = image.crop(box)
-
+def save_cropped_image(cropped_image, save_dir, frame):
     save_path = save_dir / f"crop_{frame}.jpg"
-    cropped_image.save(save_path)
+    cv2.imwrite(str(save_path), cropped_image)
 
 def detect(save_img=False):
     source, weights, view_img, save_txt, imgsz, trace = opt.source, opt.weights, opt.view_img, opt.save_txt, opt.img_size, not opt.no_trace
@@ -75,6 +72,7 @@ def detect(save_img=False):
 
     t0 = time.time()
     frame_index = 0 
+
     for path, img, im0s, vid_cap in dataset:
         img = torch.from_numpy(img).to(device)
         img = img.half() if half else img.float()  # uint8 to fp16/32
@@ -109,7 +107,6 @@ def detect(save_img=False):
 
         # Process detections
         for i, det in enumerate(pred):  # detections per image
-            im0_backup = im0s.copy()
             if webcam:  # batch_size >= 1
                 p, s, im0, frame = path[i], '%g: ' % i, im0s[i].copy(), dataset.count
             else:
@@ -119,17 +116,17 @@ def detect(save_img=False):
             save_path = str(save_dir / p.name)  # img.jpg
             txt_path = str(save_dir / 'labels' / p.stem) + ('' if dataset.mode == 'image' else f'_{frame}')  # img.txt
             gn = torch.tensor(im0.shape)[[1, 0, 1, 0]]  # normalization gain whwh
+            
             if len(det):
-                for *xyxy, conf, cls in reversed(det):
-                    if int(cls) == 9: 
-                        box = im0_backup[int(xyxy[1]):int(xyxy[3]), int(xyxy[0]):int(xyxy[2])]
-                        # box = [xyxy[0].item(), xyxy[1].item(), xyxy[2].item(), xyxy[3].item()]
-                        save_cropped_image(im0, box, cropped_dir, frame_index)
-                        frame_index += 1
-               
                 # Rescale boxes from img_size to im0 size
                 det[:, :4] = scale_coords(img.shape[2:], det[:, :4], im0.shape).round()
-
+                for *xyxy, conf, cls in reversed(det):
+                    if int(cls) == 9: 
+                        x_min, y_min, x_max, y_max = map(int, xyxy)
+                        cropped_image = im0[y_min:y_max, x_min:x_max]
+                        save_cropped_image(cropped_image, cropped_dir, frame_index)
+                        frame_index += 1
+                        
                 # Print results
                 for c in det[:, -1].unique():
                     n = (det[:, -1] == c).sum()  # detections per class
