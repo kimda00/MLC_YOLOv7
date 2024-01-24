@@ -19,12 +19,12 @@ python train.py --workers 8 --device 0 --batch-size 32 --data data/coco.yaml --i
 
 On video:
 ``` shell
-python detect_and_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source yourvideo.mp4
+python tl_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source yourvideo.mp4
 ```
 
 On image:
 ``` shell
-python detect_and_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source inference/testset
+python tl_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source inference/testset
 ```
 
 
