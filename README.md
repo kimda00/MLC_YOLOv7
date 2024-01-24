@@ -15,18 +15,19 @@ python train.py --workers 8 --device 0 --batch-size 32 --data data/coco.yaml --i
 
 ```
 
-## Inference
-
-On video:
-``` shell
-python tl_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source yourvideo.mp4
-```
+## Crop the traffic light images
 
 On image:
 ``` shell
 python tl_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source inference/testset
 ```
+## Get results MLC
 
+TODO : MLC 결과의 컨피던스를 설정하는 부분 추가 
+
+``` shell
+python detect_with_MLC.py --weights weights/onlytl.pt --conf 0.25 --save-txt --save-conf --img-size 640 --source inference/testset
+```
 
 ## Export
 
@@ -57,9 +58,7 @@ python ./tensorrt-python/export.py -o yolov7-tiny.onnx -e yolov7-tiny-nms.trt -p
 /usr/src/tensorrt/bin/trtexec --onnx=yolov7-tiny.onnx --saveEngine=yolov7-tiny-nms.trt --fp16
 ```
 
-</details>
 
-Tested with: Python 3.7.13, Pytorch 1.12.0+cu113
 
 
 
