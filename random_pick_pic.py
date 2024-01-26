@@ -26,6 +26,11 @@ def copy_or_select_images(source_folder, target_folder, num_images=150):
                 dst_path = os.path.join(target_folder, image)
                 shutil.copy2(src_path, dst_path)
 
+def extract_states(filename):
+    parts = re.split(r'_', filename)
+    states = [part for part in parts if not any(char.isdigit() for char in part)]
+    return states
+
 def save_to_csv(target_folder, csv_file):
     headers = ["Id", "State", "black", "green", "arrow", "red", "yellow", "right"]
     with open(csv_file, 'w', newline='', encoding='utf-8') as file:
@@ -33,19 +38,11 @@ def save_to_csv(target_folder, csv_file):
         writer.writerow(headers) 
         images = [img for img in os.listdir(target_folder) if img.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp'))]
         for image in sorted(images, key=natural_sort_key):
-            state = re.match(r"([a-z]+)_", image, re.I)
-            state_formatted = "['{}']".format(state.group(1)) if state else ""
+            states = extract_states(image)
+            state_formatted = "['{}']".format("', '".join(states))
 
-            if state.group(1) == 'black':
-                writer.writerow([image[:-4], state_formatted, 1,0,0,0,0,0]) 
-            elif state.group(1) == 'red':
-                writer.writerow([image[:-4], state_formatted, 0,0,0,1,0,0]) 
-            elif state.group(1) == 'yellow':
-                writer.writerow([image[:-4], state_formatted, 0,0,0,0,1,0]) 
-            elif state.group(1) == 'green':
-                writer.writerow([image[:-4], state_formatted, 0,1,0,0,0,0]) 
-            else:
-                writer.writerow([image[:-4], state_formatted]) 
+            row = [image[:-4], state_formatted] + [1 if state in states else 0 for state in headers[2:]]
+            writer.writerow(row) 
 
 source_folder = 'croped'
 target_folder = 'pick_150'
