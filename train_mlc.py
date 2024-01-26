@@ -27,7 +27,7 @@ def load_data(label_path, image_dir):
 
     # Load and preprocess images
     for i in tqdm(range(data.shape[0])):
-        path = os.path.join('only_songdo_cropp_datset/integrate_only_songdo', data['Id'][i] + '.jpg')
+        path = os.path.join('inference/pick_1000', data['Id'][i] + '.jpg')
         img = image.load_img(path, target_size=(img_width, img_height, 3))
         img = image.img_to_array(img)
         img = img / 255.0
@@ -73,7 +73,7 @@ def build_model(input_shape, num_classes):
 
     return model
 
-def train_model(model, X_train, y_train, epochs=16, batch_size=16, X_test=None, y_test=None):
+def train_model(model, X_train, y_train, epochs=32, batch_size=16, X_test=None, y_test=None):
     history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_data=(X_test, y_test))
     return history
 
@@ -82,9 +82,9 @@ def save_model(model, save_directory, model_weights_filename):
     model.save(os.path.join(save_directory, model_weights_filename))
     print(f"Model weights saved as '{model_weights_filename}'")
 
-label_path = 'only_songdo_cropp_datset/only_songdo.csv'
-image_dir = 'only_songdo_cropp_datset/integrate_only_songdo'
-model_weights_filename = 'songdo_images_weight.h5'
+label_path = 'inference/1000_selected_images.csv'
+image_dir = 'inference/pick_1000'
+model_weights_filename = 'pick_1000_E32.h5'
 
 
 X, y = load_data(label_path, image_dir)
@@ -94,7 +94,7 @@ gpu_check()
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0, test_size=0.15)
 # print(X_train)
 model = build_model(X_train[0].shape, y_train.shape[1])
-history = train_model(model, X_train, y_train, epochs=16, batch_size=32, X_test=X_test, y_test=y_test)
+history = train_model(model, X_train, y_train, epochs=32, batch_size=32, X_test=X_test, y_test=y_test)
 save_model(model, 'weights', model_weights_filename)
 
 

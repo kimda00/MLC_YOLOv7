@@ -20,16 +20,15 @@ from utils.general import check_img_size, check_requirements, check_imshow, non_
 from utils.plots import plot_one_box
 from utils.torch_utils import select_device, load_classifier, time_synchronized, TracedModel
 os.environ['CUDA_VISIBLE_DEVICES'] = ''
-model = load_model('weights/500_model_weights.h5')
+model = load_model('weights/pick_500.h5')
 
 
 def run_testing(cropped_img):
-    # model = load_model('weights/500_model_weights.h5')  
 
     img_width = 150
     img_height = 150
 
-    data = pd.read_csv('500_label_table_1030.csv')
+    data = pd.read_csv('inference/500_selected_images.csv')
     classes = data.columns[2:]
 
     img_resized = cv2.resize(cropped_img, (img_width, img_height))
@@ -47,13 +46,13 @@ def run_testing(cropped_img):
 
     # percentage가 10% 이상인 예측이 하나만 있고, 그 예측이 'red'인 경우
     if len(over_percent) == 1 and predictions[0] == 'red':
-        return 6 , predictions, percentage # 4번 클래스 반환
+        return 7 , predictions, percentage # 4번 클래스 반환
     if len(over_percent) == 1 and predictions[0] == 'green':
-        return 4, predictions, percentage # 4번 클래스 반환
+        return 6, predictions, percentage # 4번 클래스 반환
     if len(over_percent) == 1 and predictions[0] == 'yellow':
         return 8, predictions, percentage # 4번 클래스 반환
     if len(over_percent) == 1 and predictions[0] == 'black':
-        return 12, predictions, percentage # 4번 클래스 반환
+        return 15, predictions, percentage # 4번 클래스 반환
 
     # percentage가 10% 이상인 예측이 두 개 있고, 가장 높은 확률의 예측이 'red'이며, 다음으로 높은 확률의 예측이 'arrow'인 경우
     if len(over_percent) == 2 and predictions[0] == 'red' and predictions[1] == 'arrow':
@@ -62,6 +61,12 @@ def run_testing(cropped_img):
         return 10, predictions, percentage  # 12번 클래스 반환
     if len(over_percent) == 2 and predictions[0] == 'green' and predictions[1] == 'arrow':
         return 11, predictions, percentage # 12번 클래스 반환
+    
+    if len(over_percent) == 2 and predictions[0] == 'green' and predictions[1] == 'yellow':
+        return 12, predictions, percentage  # 12번 클래스 반환
+    if len(over_percent) == 2 and predictions[0] == 'green' and predictions[1] == 'right':
+        return 13, predictions, percentage  # 12번 클래스 반환
+    
 
     # 위 조건에 해당하지 않는 경우
     else:
@@ -75,7 +80,11 @@ def detect(save_img=False):
 
     # Directories
     save_dir = Path(increment_path(Path(opt.project) / opt.name, exist_ok=opt.exist_ok))  # increment run
-    (save_dir / 'labels' if save_txt else save_dir).mkdir(parents=True, exist_ok=True)  # make dir
+    save_images_dir = save_dir / 'images'  # 결과 이미지를 'images' 폴더 안에 저장
+    save_labels_dir = save_dir / 'labels'  # 라벨을 'labels' 폴더 안에 저장
+    save_images_dir.mkdir(parents=True, exist_ok=True)  # 이미지 저장 폴더 생성
+    save_labels_dir.mkdir(parents=True, exist_ok=True) 
+    # (save_dir / 'labels' if save_txt else save_dir).mkdir(parents=True, exist_ok=True)  # make dir
 
     # Initialize
     set_logging()
@@ -156,8 +165,9 @@ def detect(save_img=False):
                 p, s, im0, frame = path, '', im0s, getattr(dataset, 'frame', 0)
 
             p = Path(p)  # to Path
-            save_path = str(save_dir / p.name)  # img.jpg
-            txt_path = str(save_dir / 'labels' / p.stem) + ('' if dataset.mode == 'image' else f'_{frame}')  # img.txt
+            save_path = str(save_images_dir / p.name)  # img.jpg
+            # txt_path = str(save_dir / 'labels' / p.stem) + ('' if dataset.mode == 'image' else f'_{frame}')  # img.txt
+            txt_path = save_labels_dir / (p.stem + ('' if dataset.mode == 'image' else f'_{frame}')) 
             gn = torch.tensor(im0.shape)[[1, 0, 1, 0]]  # normalization gain whwh
             
             old_labels = []
@@ -173,7 +183,7 @@ def detect(save_img=False):
                 # 결과를 처리하는 부분
                 for j, (*xyxy, conf, cls) in enumerate(det):
                     old_labels.append([cls, *xyxy, conf])
-                    if cls in [4,6,8,9,10,11,12]:
+                    if cls in [9]:
 
                         # 감지된 객체를 잘라내기
                         crop_img = im0[int(xyxy[1]):int(xyxy[3]), int(xyxy[0]):int(xyxy[2])]
@@ -189,7 +199,9 @@ def detect(save_img=False):
 
             # Write the updated labels to the file
             if save_txt and old_labels:
-                with open(txt_path + '.txt', 'w') as file:
+                # with open(save_labels_dir / (txt_path + '.txt'), 'w') as file:
+                # txt_file_path = save_labels_dir / (p.stem + ('' if dataset.mode == 'image' else f'_{frame}'))
+                with open(txt_path.with_suffix('.txt'), 'w') as file:
                     for label in old_labels:
                         # Convert Tensor to float if necessary
                         class_id = int(label[0]) if isinstance(label[0], torch.Tensor) else int(label[0])

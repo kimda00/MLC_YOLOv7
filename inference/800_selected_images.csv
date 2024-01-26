@@ -1,0 +1,5066 @@
+Id,State,black,green,arrow,red,yellow,right
+black_1,['black'],1,0,0,0,0,0
+black_4,['black'],1,0,0,0,0,0
+black_5,['black'],1,0,0,0,0,0
+black_8,['black'],1,0,0,0,0,0
+black_9,['black'],1,0,0,0,0,0
+black_11,['black'],1,0,0,0,0,0
+black_12,['black'],1,0,0,0,0,0
+black_15,['black'],1,0,0,0,0,0
+black_16,['black'],1,0,0,0,0,0
+black_17,['black'],1,0,0,0,0,0
+black_18,['black'],1,0,0,0,0,0
+black_19,['black'],1,0,0,0,0,0
+black_20,['black'],1,0,0,0,0,0
+black_21,['black'],1,0,0,0,0,0
+black_22,['black'],1,0,0,0,0,0
+black_24,['black'],1,0,0,0,0,0
+black_25,['black'],1,0,0,0,0,0
+black_28,['black'],1,0,0,0,0,0
+black_29,['black'],1,0,0,0,0,0
+black_31,['black'],1,0,0,0,0,0
+black_33,['black'],1,0,0,0,0,0
+black_34,['black'],1,0,0,0,0,0
+black_37,['black'],1,0,0,0,0,0
+black_39,['black'],1,0,0,0,0,0
+black_40,['black'],1,0,0,0,0,0
+black_41,['black'],1,0,0,0,0,0
+black_42,['black'],1,0,0,0,0,0
+black_44,['black'],1,0,0,0,0,0
+black_45,['black'],1,0,0,0,0,0
+black_47,['black'],1,0,0,0,0,0
+black_48,['black'],1,0,0,0,0,0
+black_49,['black'],1,0,0,0,0,0
+black_51,['black'],1,0,0,0,0,0
+black_52,['black'],1,0,0,0,0,0
+black_55,['black'],1,0,0,0,0,0
+black_56,['black'],1,0,0,0,0,0
+black_57,['black'],1,0,0,0,0,0
+black_58,['black'],1,0,0,0,0,0
+black_59,['black'],1,0,0,0,0,0
+black_62,['black'],1,0,0,0,0,0
+black_66,['black'],1,0,0,0,0,0
+black_68,['black'],1,0,0,0,0,0
+black_70,['black'],1,0,0,0,0,0
+black_71,['black'],1,0,0,0,0,0
+black_72,['black'],1,0,0,0,0,0
+black_74,['black'],1,0,0,0,0,0
+black_75,['black'],1,0,0,0,0,0
+black_77,['black'],1,0,0,0,0,0
+black_79,['black'],1,0,0,0,0,0
+black_80,['black'],1,0,0,0,0,0
+black_83,['black'],1,0,0,0,0,0
+black_90,['black'],1,0,0,0,0,0
+black_91,['black'],1,0,0,0,0,0
+black_95,['black'],1,0,0,0,0,0
+black_97,['black'],1,0,0,0,0,0
+black_101,['black'],1,0,0,0,0,0
+black_103,['black'],1,0,0,0,0,0
+black_105,['black'],1,0,0,0,0,0
+black_106,['black'],1,0,0,0,0,0
+black_109,['black'],1,0,0,0,0,0
+black_110,['black'],1,0,0,0,0,0
+black_111,['black'],1,0,0,0,0,0
+black_113,['black'],1,0,0,0,0,0
+black_114,['black'],1,0,0,0,0,0
+black_115,['black'],1,0,0,0,0,0
+black_116,['black'],1,0,0,0,0,0
+black_117,['black'],1,0,0,0,0,0
+black_119,['black'],1,0,0,0,0,0
+black_120,['black'],1,0,0,0,0,0
+black_121,['black'],1,0,0,0,0,0
+black_122,['black'],1,0,0,0,0,0
+black_124,['black'],1,0,0,0,0,0
+black_127,['black'],1,0,0,0,0,0
+black_128,['black'],1,0,0,0,0,0
+black_133,['black'],1,0,0,0,0,0
+black_135,['black'],1,0,0,0,0,0
+black_136,['black'],1,0,0,0,0,0
+black_137,['black'],1,0,0,0,0,0
+black_139,['black'],1,0,0,0,0,0
+black_140,['black'],1,0,0,0,0,0
+black_141,['black'],1,0,0,0,0,0
+black_142,['black'],1,0,0,0,0,0
+black_147,['black'],1,0,0,0,0,0
+black_150,['black'],1,0,0,0,0,0
+black_152,['black'],1,0,0,0,0,0
+black_154,['black'],1,0,0,0,0,0
+black_155,['black'],1,0,0,0,0,0
+black_156,['black'],1,0,0,0,0,0
+black_157,['black'],1,0,0,0,0,0
+black_159,['black'],1,0,0,0,0,0
+black_160,['black'],1,0,0,0,0,0
+black_162,['black'],1,0,0,0,0,0
+black_163,['black'],1,0,0,0,0,0
+black_164,['black'],1,0,0,0,0,0
+black_165,['black'],1,0,0,0,0,0
+black_168,['black'],1,0,0,0,0,0
+black_169,['black'],1,0,0,0,0,0
+black_171,['black'],1,0,0,0,0,0
+black_174,['black'],1,0,0,0,0,0
+black_176,['black'],1,0,0,0,0,0
+black_178,['black'],1,0,0,0,0,0
+black_179,['black'],1,0,0,0,0,0
+black_182,['black'],1,0,0,0,0,0
+black_183,['black'],1,0,0,0,0,0
+black_184,['black'],1,0,0,0,0,0
+black_187,['black'],1,0,0,0,0,0
+black_191,['black'],1,0,0,0,0,0
+black_193,['black'],1,0,0,0,0,0
+black_194,['black'],1,0,0,0,0,0
+black_196,['black'],1,0,0,0,0,0
+black_199,['black'],1,0,0,0,0,0
+black_203,['black'],1,0,0,0,0,0
+black_205,['black'],1,0,0,0,0,0
+black_207,['black'],1,0,0,0,0,0
+black_208,['black'],1,0,0,0,0,0
+black_209,['black'],1,0,0,0,0,0
+black_210,['black'],1,0,0,0,0,0
+black_211,['black'],1,0,0,0,0,0
+black_212,['black'],1,0,0,0,0,0
+black_219,['black'],1,0,0,0,0,0
+black_220,['black'],1,0,0,0,0,0
+black_222,['black'],1,0,0,0,0,0
+black_223,['black'],1,0,0,0,0,0
+black_225,['black'],1,0,0,0,0,0
+black_226,['black'],1,0,0,0,0,0
+black_227,['black'],1,0,0,0,0,0
+black_229,['black'],1,0,0,0,0,0
+black_230,['black'],1,0,0,0,0,0
+black_231,['black'],1,0,0,0,0,0
+black_232,['black'],1,0,0,0,0,0
+black_233,['black'],1,0,0,0,0,0
+black_234,['black'],1,0,0,0,0,0
+black_235,['black'],1,0,0,0,0,0
+black_236,['black'],1,0,0,0,0,0
+black_237,['black'],1,0,0,0,0,0
+black_239,['black'],1,0,0,0,0,0
+black_240,['black'],1,0,0,0,0,0
+black_241,['black'],1,0,0,0,0,0
+black_242,['black'],1,0,0,0,0,0
+black_248,['black'],1,0,0,0,0,0
+black_249,['black'],1,0,0,0,0,0
+black_250,['black'],1,0,0,0,0,0
+black_251,['black'],1,0,0,0,0,0
+black_253,['black'],1,0,0,0,0,0
+black_255,['black'],1,0,0,0,0,0
+black_256,['black'],1,0,0,0,0,0
+black_259,['black'],1,0,0,0,0,0
+black_261,['black'],1,0,0,0,0,0
+black_262,['black'],1,0,0,0,0,0
+black_263,['black'],1,0,0,0,0,0
+black_264,['black'],1,0,0,0,0,0
+black_266,['black'],1,0,0,0,0,0
+black_267,['black'],1,0,0,0,0,0
+black_272,['black'],1,0,0,0,0,0
+black_275,['black'],1,0,0,0,0,0
+black_278,['black'],1,0,0,0,0,0
+black_279,['black'],1,0,0,0,0,0
+black_280,['black'],1,0,0,0,0,0
+black_281,['black'],1,0,0,0,0,0
+black_283,['black'],1,0,0,0,0,0
+black_286,['black'],1,0,0,0,0,0
+black_288,['black'],1,0,0,0,0,0
+black_290,['black'],1,0,0,0,0,0
+black_295,['black'],1,0,0,0,0,0
+black_296,['black'],1,0,0,0,0,0
+black_297,['black'],1,0,0,0,0,0
+black_298,['black'],1,0,0,0,0,0
+black_299,['black'],1,0,0,0,0,0
+black_300,['black'],1,0,0,0,0,0
+black_302,['black'],1,0,0,0,0,0
+black_303,['black'],1,0,0,0,0,0
+black_304,['black'],1,0,0,0,0,0
+black_305,['black'],1,0,0,0,0,0
+black_306,['black'],1,0,0,0,0,0
+black_308,['black'],1,0,0,0,0,0
+black_309,['black'],1,0,0,0,0,0
+black_310,['black'],1,0,0,0,0,0
+black_315,['black'],1,0,0,0,0,0
+black_316,['black'],1,0,0,0,0,0
+black_317,['black'],1,0,0,0,0,0
+black_319,['black'],1,0,0,0,0,0
+black_322,['black'],1,0,0,0,0,0
+black_326,['black'],1,0,0,0,0,0
+black_327,['black'],1,0,0,0,0,0
+black_328,['black'],1,0,0,0,0,0
+black_329,['black'],1,0,0,0,0,0
+black_330,['black'],1,0,0,0,0,0
+black_331,['black'],1,0,0,0,0,0
+black_333,['black'],1,0,0,0,0,0
+black_334,['black'],1,0,0,0,0,0
+black_337,['black'],1,0,0,0,0,0
+black_339,['black'],1,0,0,0,0,0
+black_342,['black'],1,0,0,0,0,0
+black_344,['black'],1,0,0,0,0,0
+black_345,['black'],1,0,0,0,0,0
+black_346,['black'],1,0,0,0,0,0
+black_347,['black'],1,0,0,0,0,0
+black_350,['black'],1,0,0,0,0,0
+black_352,['black'],1,0,0,0,0,0
+black_353,['black'],1,0,0,0,0,0
+black_355,['black'],1,0,0,0,0,0
+black_356,['black'],1,0,0,0,0,0
+black_357,['black'],1,0,0,0,0,0
+black_358,['black'],1,0,0,0,0,0
+black_359,['black'],1,0,0,0,0,0
+black_360,['black'],1,0,0,0,0,0
+black_362,['black'],1,0,0,0,0,0
+black_363,['black'],1,0,0,0,0,0
+black_365,['black'],1,0,0,0,0,0
+black_369,['black'],1,0,0,0,0,0
+black_370,['black'],1,0,0,0,0,0
+black_371,['black'],1,0,0,0,0,0
+black_373,['black'],1,0,0,0,0,0
+black_376,['black'],1,0,0,0,0,0
+black_383,['black'],1,0,0,0,0,0
+black_384,['black'],1,0,0,0,0,0
+black_385,['black'],1,0,0,0,0,0
+black_387,['black'],1,0,0,0,0,0
+black_388,['black'],1,0,0,0,0,0
+black_390,['black'],1,0,0,0,0,0
+black_392,['black'],1,0,0,0,0,0
+black_393,['black'],1,0,0,0,0,0
+black_394,['black'],1,0,0,0,0,0
+black_395,['black'],1,0,0,0,0,0
+black_397,['black'],1,0,0,0,0,0
+black_403,['black'],1,0,0,0,0,0
+black_404,['black'],1,0,0,0,0,0
+black_405,['black'],1,0,0,0,0,0
+black_406,['black'],1,0,0,0,0,0
+black_407,['black'],1,0,0,0,0,0
+black_408,['black'],1,0,0,0,0,0
+black_409,['black'],1,0,0,0,0,0
+black_411,['black'],1,0,0,0,0,0
+black_414,['black'],1,0,0,0,0,0
+black_415,['black'],1,0,0,0,0,0
+black_416,['black'],1,0,0,0,0,0
+black_417,['black'],1,0,0,0,0,0
+black_418,['black'],1,0,0,0,0,0
+black_419,['black'],1,0,0,0,0,0
+black_423,['black'],1,0,0,0,0,0
+black_424,['black'],1,0,0,0,0,0
+black_425,['black'],1,0,0,0,0,0
+black_427,['black'],1,0,0,0,0,0
+black_429,['black'],1,0,0,0,0,0
+black_430,['black'],1,0,0,0,0,0
+black_433,['black'],1,0,0,0,0,0
+black_434,['black'],1,0,0,0,0,0
+black_435,['black'],1,0,0,0,0,0
+black_438,['black'],1,0,0,0,0,0
+black_439,['black'],1,0,0,0,0,0
+black_441,['black'],1,0,0,0,0,0
+black_442,['black'],1,0,0,0,0,0
+black_443,['black'],1,0,0,0,0,0
+black_445,['black'],1,0,0,0,0,0
+black_447,['black'],1,0,0,0,0,0
+black_449,['black'],1,0,0,0,0,0
+black_453,['black'],1,0,0,0,0,0
+black_454,['black'],1,0,0,0,0,0
+black_455,['black'],1,0,0,0,0,0
+black_456,['black'],1,0,0,0,0,0
+black_457,['black'],1,0,0,0,0,0
+black_458,['black'],1,0,0,0,0,0
+black_459,['black'],1,0,0,0,0,0
+black_461,['black'],1,0,0,0,0,0
+black_462,['black'],1,0,0,0,0,0
+black_465,['black'],1,0,0,0,0,0
+black_466,['black'],1,0,0,0,0,0
+black_467,['black'],1,0,0,0,0,0
+black_468,['black'],1,0,0,0,0,0
+black_470,['black'],1,0,0,0,0,0
+black_471,['black'],1,0,0,0,0,0
+black_472,['black'],1,0,0,0,0,0
+black_474,['black'],1,0,0,0,0,0
+black_475,['black'],1,0,0,0,0,0
+black_477,['black'],1,0,0,0,0,0
+black_479,['black'],1,0,0,0,0,0
+black_481,['black'],1,0,0,0,0,0
+black_482,['black'],1,0,0,0,0,0
+black_483,['black'],1,0,0,0,0,0
+black_484,['black'],1,0,0,0,0,0
+black_485,['black'],1,0,0,0,0,0
+black_487,['black'],1,0,0,0,0,0
+black_488,['black'],1,0,0,0,0,0
+black_491,['black'],1,0,0,0,0,0
+black_492,['black'],1,0,0,0,0,0
+black_493,['black'],1,0,0,0,0,0
+black_494,['black'],1,0,0,0,0,0
+black_495,['black'],1,0,0,0,0,0
+black_500,['black'],1,0,0,0,0,0
+black_503,['black'],1,0,0,0,0,0
+black_504,['black'],1,0,0,0,0,0
+black_505,['black'],1,0,0,0,0,0
+black_506,['black'],1,0,0,0,0,0
+black_507,['black'],1,0,0,0,0,0
+black_508,['black'],1,0,0,0,0,0
+black_509,['black'],1,0,0,0,0,0
+black_510,['black'],1,0,0,0,0,0
+black_511,['black'],1,0,0,0,0,0
+black_512,['black'],1,0,0,0,0,0
+black_514,['black'],1,0,0,0,0,0
+black_515,['black'],1,0,0,0,0,0
+black_518,['black'],1,0,0,0,0,0
+black_520,['black'],1,0,0,0,0,0
+black_521,['black'],1,0,0,0,0,0
+black_522,['black'],1,0,0,0,0,0
+black_523,['black'],1,0,0,0,0,0
+black_525,['black'],1,0,0,0,0,0
+black_526,['black'],1,0,0,0,0,0
+black_527,['black'],1,0,0,0,0,0
+black_529,['black'],1,0,0,0,0,0
+black_530,['black'],1,0,0,0,0,0
+black_531,['black'],1,0,0,0,0,0
+black_533,['black'],1,0,0,0,0,0
+black_536,['black'],1,0,0,0,0,0
+black_537,['black'],1,0,0,0,0,0
+black_539,['black'],1,0,0,0,0,0
+black_540,['black'],1,0,0,0,0,0
+black_541,['black'],1,0,0,0,0,0
+black_542,['black'],1,0,0,0,0,0
+black_544,['black'],1,0,0,0,0,0
+black_545,['black'],1,0,0,0,0,0
+black_546,['black'],1,0,0,0,0,0
+black_547,['black'],1,0,0,0,0,0
+black_549,['black'],1,0,0,0,0,0
+black_550,['black'],1,0,0,0,0,0
+black_552,['black'],1,0,0,0,0,0
+black_555,['black'],1,0,0,0,0,0
+black_556,['black'],1,0,0,0,0,0
+black_557,['black'],1,0,0,0,0,0
+black_558,['black'],1,0,0,0,0,0
+black_559,['black'],1,0,0,0,0,0
+black_560,['black'],1,0,0,0,0,0
+black_562,['black'],1,0,0,0,0,0
+black_565,['black'],1,0,0,0,0,0
+black_566,['black'],1,0,0,0,0,0
+black_567,['black'],1,0,0,0,0,0
+black_569,['black'],1,0,0,0,0,0
+black_570,['black'],1,0,0,0,0,0
+black_572,['black'],1,0,0,0,0,0
+black_576,['black'],1,0,0,0,0,0
+black_578,['black'],1,0,0,0,0,0
+black_580,['black'],1,0,0,0,0,0
+black_582,['black'],1,0,0,0,0,0
+black_583,['black'],1,0,0,0,0,0
+black_584,['black'],1,0,0,0,0,0
+black_587,['black'],1,0,0,0,0,0
+black_590,['black'],1,0,0,0,0,0
+black_592,['black'],1,0,0,0,0,0
+black_594,['black'],1,0,0,0,0,0
+black_596,['black'],1,0,0,0,0,0
+black_597,['black'],1,0,0,0,0,0
+black_600,['black'],1,0,0,0,0,0
+black_601,['black'],1,0,0,0,0,0
+black_602,['black'],1,0,0,0,0,0
+black_604,['black'],1,0,0,0,0,0
+black_606,['black'],1,0,0,0,0,0
+black_607,['black'],1,0,0,0,0,0
+black_612,['black'],1,0,0,0,0,0
+black_617,['black'],1,0,0,0,0,0
+black_621,['black'],1,0,0,0,0,0
+black_626,['black'],1,0,0,0,0,0
+black_627,['black'],1,0,0,0,0,0
+black_630,['black'],1,0,0,0,0,0
+black_631,['black'],1,0,0,0,0,0
+black_632,['black'],1,0,0,0,0,0
+black_633,['black'],1,0,0,0,0,0
+black_634,['black'],1,0,0,0,0,0
+black_638,['black'],1,0,0,0,0,0
+black_640,['black'],1,0,0,0,0,0
+black_645,['black'],1,0,0,0,0,0
+black_646,['black'],1,0,0,0,0,0
+black_647,['black'],1,0,0,0,0,0
+black_648,['black'],1,0,0,0,0,0
+black_649,['black'],1,0,0,0,0,0
+black_650,['black'],1,0,0,0,0,0
+black_651,['black'],1,0,0,0,0,0
+black_652,['black'],1,0,0,0,0,0
+black_653,['black'],1,0,0,0,0,0
+black_654,['black'],1,0,0,0,0,0
+black_656,['black'],1,0,0,0,0,0
+black_660,['black'],1,0,0,0,0,0
+black_662,['black'],1,0,0,0,0,0
+black_664,['black'],1,0,0,0,0,0
+black_665,['black'],1,0,0,0,0,0
+black_667,['black'],1,0,0,0,0,0
+black_668,['black'],1,0,0,0,0,0
+black_669,['black'],1,0,0,0,0,0
+black_671,['black'],1,0,0,0,0,0
+black_672,['black'],1,0,0,0,0,0
+black_673,['black'],1,0,0,0,0,0
+black_674,['black'],1,0,0,0,0,0
+black_675,['black'],1,0,0,0,0,0
+black_676,['black'],1,0,0,0,0,0
+black_678,['black'],1,0,0,0,0,0
+black_679,['black'],1,0,0,0,0,0
+black_681,['black'],1,0,0,0,0,0
+black_682,['black'],1,0,0,0,0,0
+black_683,['black'],1,0,0,0,0,0
+black_684,['black'],1,0,0,0,0,0
+black_686,['black'],1,0,0,0,0,0
+black_687,['black'],1,0,0,0,0,0
+black_689,['black'],1,0,0,0,0,0
+black_690,['black'],1,0,0,0,0,0
+black_691,['black'],1,0,0,0,0,0
+black_693,['black'],1,0,0,0,0,0
+black_695,['black'],1,0,0,0,0,0
+black_697,['black'],1,0,0,0,0,0
+black_698,['black'],1,0,0,0,0,0
+black_699,['black'],1,0,0,0,0,0
+black_702,['black'],1,0,0,0,0,0
+black_703,['black'],1,0,0,0,0,0
+black_706,['black'],1,0,0,0,0,0
+black_709,['black'],1,0,0,0,0,0
+black_710,['black'],1,0,0,0,0,0
+black_711,['black'],1,0,0,0,0,0
+black_712,['black'],1,0,0,0,0,0
+black_716,['black'],1,0,0,0,0,0
+black_719,['black'],1,0,0,0,0,0
+black_720,['black'],1,0,0,0,0,0
+black_722,['black'],1,0,0,0,0,0
+black_724,['black'],1,0,0,0,0,0
+black_725,['black'],1,0,0,0,0,0
+black_728,['black'],1,0,0,0,0,0
+black_730,['black'],1,0,0,0,0,0
+black_731,['black'],1,0,0,0,0,0
+black_732,['black'],1,0,0,0,0,0
+black_733,['black'],1,0,0,0,0,0
+black_738,['black'],1,0,0,0,0,0
+black_739,['black'],1,0,0,0,0,0
+black_741,['black'],1,0,0,0,0,0
+black_742,['black'],1,0,0,0,0,0
+black_745,['black'],1,0,0,0,0,0
+black_746,['black'],1,0,0,0,0,0
+black_750,['black'],1,0,0,0,0,0
+black_751,['black'],1,0,0,0,0,0
+black_752,['black'],1,0,0,0,0,0
+black_753,['black'],1,0,0,0,0,0
+black_755,['black'],1,0,0,0,0,0
+black_756,['black'],1,0,0,0,0,0
+black_757,['black'],1,0,0,0,0,0
+black_759,['black'],1,0,0,0,0,0
+black_760,['black'],1,0,0,0,0,0
+black_761,['black'],1,0,0,0,0,0
+black_762,['black'],1,0,0,0,0,0
+black_766,['black'],1,0,0,0,0,0
+black_767,['black'],1,0,0,0,0,0
+black_768,['black'],1,0,0,0,0,0
+black_769,['black'],1,0,0,0,0,0
+black_770,['black'],1,0,0,0,0,0
+black_771,['black'],1,0,0,0,0,0
+black_772,['black'],1,0,0,0,0,0
+black_773,['black'],1,0,0,0,0,0
+black_775,['black'],1,0,0,0,0,0
+black_776,['black'],1,0,0,0,0,0
+black_777,['black'],1,0,0,0,0,0
+black_779,['black'],1,0,0,0,0,0
+black_781,['black'],1,0,0,0,0,0
+black_784,['black'],1,0,0,0,0,0
+black_785,['black'],1,0,0,0,0,0
+black_787,['black'],1,0,0,0,0,0
+black_790,['black'],1,0,0,0,0,0
+black_792,['black'],1,0,0,0,0,0
+black_795,['black'],1,0,0,0,0,0
+black_796,['black'],1,0,0,0,0,0
+black_797,['black'],1,0,0,0,0,0
+black_800,['black'],1,0,0,0,0,0
+black_801,['black'],1,0,0,0,0,0
+black_803,['black'],1,0,0,0,0,0
+black_804,['black'],1,0,0,0,0,0
+black_805,['black'],1,0,0,0,0,0
+black_809,['black'],1,0,0,0,0,0
+black_810,['black'],1,0,0,0,0,0
+black_813,['black'],1,0,0,0,0,0
+black_814,['black'],1,0,0,0,0,0
+black_815,['black'],1,0,0,0,0,0
+black_818,['black'],1,0,0,0,0,0
+black_820,['black'],1,0,0,0,0,0
+black_822,['black'],1,0,0,0,0,0
+black_824,['black'],1,0,0,0,0,0
+black_825,['black'],1,0,0,0,0,0
+black_828,['black'],1,0,0,0,0,0
+black_829,['black'],1,0,0,0,0,0
+black_830,['black'],1,0,0,0,0,0
+black_832,['black'],1,0,0,0,0,0
+black_833,['black'],1,0,0,0,0,0
+black_835,['black'],1,0,0,0,0,0
+black_837,['black'],1,0,0,0,0,0
+black_839,['black'],1,0,0,0,0,0
+black_840,['black'],1,0,0,0,0,0
+black_841,['black'],1,0,0,0,0,0
+black_843,['black'],1,0,0,0,0,0
+black_845,['black'],1,0,0,0,0,0
+black_846,['black'],1,0,0,0,0,0
+black_847,['black'],1,0,0,0,0,0
+black_849,['black'],1,0,0,0,0,0
+black_850,['black'],1,0,0,0,0,0
+black_851,['black'],1,0,0,0,0,0
+black_853,['black'],1,0,0,0,0,0
+black_854,['black'],1,0,0,0,0,0
+black_855,['black'],1,0,0,0,0,0
+black_856,['black'],1,0,0,0,0,0
+black_857,['black'],1,0,0,0,0,0
+black_859,['black'],1,0,0,0,0,0
+black_861,['black'],1,0,0,0,0,0
+black_862,['black'],1,0,0,0,0,0
+black_863,['black'],1,0,0,0,0,0
+black_864,['black'],1,0,0,0,0,0
+black_865,['black'],1,0,0,0,0,0
+black_866,['black'],1,0,0,0,0,0
+black_867,['black'],1,0,0,0,0,0
+black_868,['black'],1,0,0,0,0,0
+black_870,['black'],1,0,0,0,0,0
+black_871,['black'],1,0,0,0,0,0
+black_872,['black'],1,0,0,0,0,0
+black_873,['black'],1,0,0,0,0,0
+black_874,['black'],1,0,0,0,0,0
+black_875,['black'],1,0,0,0,0,0
+black_876,['black'],1,0,0,0,0,0
+black_877,['black'],1,0,0,0,0,0
+black_880,['black'],1,0,0,0,0,0
+black_881,['black'],1,0,0,0,0,0
+black_883,['black'],1,0,0,0,0,0
+black_885,['black'],1,0,0,0,0,0
+black_886,['black'],1,0,0,0,0,0
+black_889,['black'],1,0,0,0,0,0
+black_890,['black'],1,0,0,0,0,0
+black_892,['black'],1,0,0,0,0,0
+black_893,['black'],1,0,0,0,0,0
+black_894,['black'],1,0,0,0,0,0
+black_896,['black'],1,0,0,0,0,0
+black_897,['black'],1,0,0,0,0,0
+black_898,['black'],1,0,0,0,0,0
+black_900,['black'],1,0,0,0,0,0
+black_902,['black'],1,0,0,0,0,0
+black_905,['black'],1,0,0,0,0,0
+black_907,['black'],1,0,0,0,0,0
+black_908,['black'],1,0,0,0,0,0
+black_910,['black'],1,0,0,0,0,0
+black_911,['black'],1,0,0,0,0,0
+black_912,['black'],1,0,0,0,0,0
+black_913,['black'],1,0,0,0,0,0
+black_916,['black'],1,0,0,0,0,0
+black_917,['black'],1,0,0,0,0,0
+black_918,['black'],1,0,0,0,0,0
+black_920,['black'],1,0,0,0,0,0
+black_921,['black'],1,0,0,0,0,0
+black_923,['black'],1,0,0,0,0,0
+black_925,['black'],1,0,0,0,0,0
+black_926,['black'],1,0,0,0,0,0
+black_927,['black'],1,0,0,0,0,0
+black_928,['black'],1,0,0,0,0,0
+black_929,['black'],1,0,0,0,0,0
+black_932,['black'],1,0,0,0,0,0
+black_937,['black'],1,0,0,0,0,0
+black_938,['black'],1,0,0,0,0,0
+black_940,['black'],1,0,0,0,0,0
+black_941,['black'],1,0,0,0,0,0
+black_942,['black'],1,0,0,0,0,0
+black_943,['black'],1,0,0,0,0,0
+black_944,['black'],1,0,0,0,0,0
+black_947,['black'],1,0,0,0,0,0
+black_948,['black'],1,0,0,0,0,0
+black_949,['black'],1,0,0,0,0,0
+black_953,['black'],1,0,0,0,0,0
+black_955,['black'],1,0,0,0,0,0
+black_956,['black'],1,0,0,0,0,0
+black_957,['black'],1,0,0,0,0,0
+black_958,['black'],1,0,0,0,0,0
+black_959,['black'],1,0,0,0,0,0
+black_960,['black'],1,0,0,0,0,0
+black_961,['black'],1,0,0,0,0,0
+black_964,['black'],1,0,0,0,0,0
+black_974,['black'],1,0,0,0,0,0
+black_978,['black'],1,0,0,0,0,0
+black_979,['black'],1,0,0,0,0,0
+black_982,['black'],1,0,0,0,0,0
+black_983,['black'],1,0,0,0,0,0
+black_984,['black'],1,0,0,0,0,0
+black_985,['black'],1,0,0,0,0,0
+black_986,['black'],1,0,0,0,0,0
+black_988,['black'],1,0,0,0,0,0
+black_990,['black'],1,0,0,0,0,0
+black_994,['black'],1,0,0,0,0,0
+black_999,['black'],1,0,0,0,0,0
+black_1000,['black'],1,0,0,0,0,0
+black_1004,['black'],1,0,0,0,0,0
+black_1005,['black'],1,0,0,0,0,0
+black_1006,['black'],1,0,0,0,0,0
+black_1009,['black'],1,0,0,0,0,0
+black_1011,['black'],1,0,0,0,0,0
+black_1013,['black'],1,0,0,0,0,0
+black_1014,['black'],1,0,0,0,0,0
+black_1015,['black'],1,0,0,0,0,0
+black_1016,['black'],1,0,0,0,0,0
+black_1019,['black'],1,0,0,0,0,0
+black_1020,['black'],1,0,0,0,0,0
+black_1021,['black'],1,0,0,0,0,0
+black_1022,['black'],1,0,0,0,0,0
+black_1023,['black'],1,0,0,0,0,0
+black_1024,['black'],1,0,0,0,0,0
+black_1025,['black'],1,0,0,0,0,0
+black_1026,['black'],1,0,0,0,0,0
+black_1027,['black'],1,0,0,0,0,0
+black_1028,['black'],1,0,0,0,0,0
+black_1035,['black'],1,0,0,0,0,0
+black_1038,['black'],1,0,0,0,0,0
+black_1040,['black'],1,0,0,0,0,0
+black_1041,['black'],1,0,0,0,0,0
+black_1042,['black'],1,0,0,0,0,0
+black_1043,['black'],1,0,0,0,0,0
+black_1045,['black'],1,0,0,0,0,0
+black_1048,['black'],1,0,0,0,0,0
+black_1049,['black'],1,0,0,0,0,0
+black_1050,['black'],1,0,0,0,0,0
+black_1051,['black'],1,0,0,0,0,0
+black_1054,['black'],1,0,0,0,0,0
+black_1057,['black'],1,0,0,0,0,0
+black_1060,['black'],1,0,0,0,0,0
+black_1061,['black'],1,0,0,0,0,0
+black_1062,['black'],1,0,0,0,0,0
+black_1067,['black'],1,0,0,0,0,0
+black_1069,['black'],1,0,0,0,0,0
+black_1070,['black'],1,0,0,0,0,0
+black_1074,['black'],1,0,0,0,0,0
+black_1075,['black'],1,0,0,0,0,0
+black_1078,['black'],1,0,0,0,0,0
+black_1079,['black'],1,0,0,0,0,0
+black_1080,['black'],1,0,0,0,0,0
+black_1083,['black'],1,0,0,0,0,0
+black_1084,['black'],1,0,0,0,0,0
+black_1085,['black'],1,0,0,0,0,0
+black_1087,['black'],1,0,0,0,0,0
+black_1088,['black'],1,0,0,0,0,0
+black_1091,['black'],1,0,0,0,0,0
+black_1092,['black'],1,0,0,0,0,0
+black_1093,['black'],1,0,0,0,0,0
+black_1096,['black'],1,0,0,0,0,0
+black_1097,['black'],1,0,0,0,0,0
+black_1098,['black'],1,0,0,0,0,0
+black_1099,['black'],1,0,0,0,0,0
+black_1101,['black'],1,0,0,0,0,0
+black_1102,['black'],1,0,0,0,0,0
+black_1103,['black'],1,0,0,0,0,0
+black_1104,['black'],1,0,0,0,0,0
+black_1105,['black'],1,0,0,0,0,0
+black_1107,['black'],1,0,0,0,0,0
+black_1109,['black'],1,0,0,0,0,0
+black_1114,['black'],1,0,0,0,0,0
+black_1115,['black'],1,0,0,0,0,0
+black_1116,['black'],1,0,0,0,0,0
+black_1118,['black'],1,0,0,0,0,0
+black_1119,['black'],1,0,0,0,0,0
+black_1122,['black'],1,0,0,0,0,0
+black_1123,['black'],1,0,0,0,0,0
+black_1124,['black'],1,0,0,0,0,0
+black_1125,['black'],1,0,0,0,0,0
+black_1126,['black'],1,0,0,0,0,0
+black_1127,['black'],1,0,0,0,0,0
+black_1128,['black'],1,0,0,0,0,0
+black_1130,['black'],1,0,0,0,0,0
+black_1131,['black'],1,0,0,0,0,0
+black_1133,['black'],1,0,0,0,0,0
+black_1134,['black'],1,0,0,0,0,0
+black_1135,['black'],1,0,0,0,0,0
+black_1137,['black'],1,0,0,0,0,0
+black_1142,['black'],1,0,0,0,0,0
+black_1144,['black'],1,0,0,0,0,0
+black_1145,['black'],1,0,0,0,0,0
+black_1146,['black'],1,0,0,0,0,0
+black_1153,['black'],1,0,0,0,0,0
+black_1154,['black'],1,0,0,0,0,0
+black_1155,['black'],1,0,0,0,0,0
+black_1156,['black'],1,0,0,0,0,0
+black_1157,['black'],1,0,0,0,0,0
+black_1158,['black'],1,0,0,0,0,0
+black_1163,['black'],1,0,0,0,0,0
+black_1166,['black'],1,0,0,0,0,0
+black_1167,['black'],1,0,0,0,0,0
+black_1168,['black'],1,0,0,0,0,0
+black_1169,['black'],1,0,0,0,0,0
+black_1171,['black'],1,0,0,0,0,0
+black_1172,['black'],1,0,0,0,0,0
+black_1173,['black'],1,0,0,0,0,0
+black_1174,['black'],1,0,0,0,0,0
+black_1175,['black'],1,0,0,0,0,0
+black_1176,['black'],1,0,0,0,0,0
+black_1177,['black'],1,0,0,0,0,0
+black_1179,['black'],1,0,0,0,0,0
+black_1181,['black'],1,0,0,0,0,0
+black_1182,['black'],1,0,0,0,0,0
+black_1183,['black'],1,0,0,0,0,0
+black_1184,['black'],1,0,0,0,0,0
+black_1185,['black'],1,0,0,0,0,0
+black_1186,['black'],1,0,0,0,0,0
+black_1187,['black'],1,0,0,0,0,0
+black_1188,['black'],1,0,0,0,0,0
+black_1189,['black'],1,0,0,0,0,0
+black_1190,['black'],1,0,0,0,0,0
+black_1194,['black'],1,0,0,0,0,0
+black_1195,['black'],1,0,0,0,0,0
+black_1196,['black'],1,0,0,0,0,0
+black_1197,['black'],1,0,0,0,0,0
+black_1199,['black'],1,0,0,0,0,0
+black_1200,['black'],1,0,0,0,0,0
+black_1202,['black'],1,0,0,0,0,0
+black_1205,['black'],1,0,0,0,0,0
+black_1209,['black'],1,0,0,0,0,0
+black_1211,['black'],1,0,0,0,0,0
+black_1212,['black'],1,0,0,0,0,0
+black_1215,['black'],1,0,0,0,0,0
+black_1218,['black'],1,0,0,0,0,0
+black_1219,['black'],1,0,0,0,0,0
+black_1220,['black'],1,0,0,0,0,0
+black_1221,['black'],1,0,0,0,0,0
+black_1222,['black'],1,0,0,0,0,0
+black_1225,['black'],1,0,0,0,0,0
+black_1226,['black'],1,0,0,0,0,0
+black_1230,['black'],1,0,0,0,0,0
+black_1231,['black'],1,0,0,0,0,0
+black_1232,['black'],1,0,0,0,0,0
+black_1233,['black'],1,0,0,0,0,0
+black_1234,['black'],1,0,0,0,0,0
+black_1236,['black'],1,0,0,0,0,0
+black_1237,['black'],1,0,0,0,0,0
+black_1239,['black'],1,0,0,0,0,0
+black_1243,['black'],1,0,0,0,0,0
+black_1246,['black'],1,0,0,0,0,0
+black_1247,['black'],1,0,0,0,0,0
+black_1248,['black'],1,0,0,0,0,0
+black_1249,['black'],1,0,0,0,0,0
+black_1250,['black'],1,0,0,0,0,0
+black_1251,['black'],1,0,0,0,0,0
+black_1252,['black'],1,0,0,0,0,0
+black_1253,['black'],1,0,0,0,0,0
+black_1254,['black'],1,0,0,0,0,0
+black_1255,['black'],1,0,0,0,0,0
+black_1256,['black'],1,0,0,0,0,0
+black_1257,['black'],1,0,0,0,0,0
+black_1258,['black'],1,0,0,0,0,0
+black_1260,['black'],1,0,0,0,0,0
+black_1261,['black'],1,0,0,0,0,0
+black_1262,['black'],1,0,0,0,0,0
+black_1265,['black'],1,0,0,0,0,0
+black_1266,['black'],1,0,0,0,0,0
+black_1267,['black'],1,0,0,0,0,0
+black_1269,['black'],1,0,0,0,0,0
+black_1271,['black'],1,0,0,0,0,0
+black_1273,['black'],1,0,0,0,0,0
+black_1275,['black'],1,0,0,0,0,0
+black_1277,['black'],1,0,0,0,0,0
+black_1278,['black'],1,0,0,0,0,0
+black_1279,['black'],1,0,0,0,0,0
+black_1280,['black'],1,0,0,0,0,0
+black_1283,['black'],1,0,0,0,0,0
+black_1284,['black'],1,0,0,0,0,0
+black_1285,['black'],1,0,0,0,0,0
+black_1287,['black'],1,0,0,0,0,0
+black_1288,['black'],1,0,0,0,0,0
+black_1290,['black'],1,0,0,0,0,0
+black_1293,['black'],1,0,0,0,0,0
+black_1294,['black'],1,0,0,0,0,0
+black_1295,['black'],1,0,0,0,0,0
+black_1297,['black'],1,0,0,0,0,0
+black_1298,['black'],1,0,0,0,0,0
+black_1299,['black'],1,0,0,0,0,0
+black_1302,['black'],1,0,0,0,0,0
+black_1303,['black'],1,0,0,0,0,0
+black_1304,['black'],1,0,0,0,0,0
+black_1305,['black'],1,0,0,0,0,0
+black_1308,['black'],1,0,0,0,0,0
+black_1309,['black'],1,0,0,0,0,0
+black_1311,['black'],1,0,0,0,0,0
+black_1312,['black'],1,0,0,0,0,0
+black_1314,['black'],1,0,0,0,0,0
+black_1315,['black'],1,0,0,0,0,0
+black_1318,['black'],1,0,0,0,0,0
+black_1319,['black'],1,0,0,0,0,0
+black_1323,['black'],1,0,0,0,0,0
+black_1324,['black'],1,0,0,0,0,0
+black_1327,['black'],1,0,0,0,0,0
+black_1329,['black'],1,0,0,0,0,0
+black_1330,['black'],1,0,0,0,0,0
+black_1331,['black'],1,0,0,0,0,0
+black_1333,['black'],1,0,0,0,0,0
+black_1335,['black'],1,0,0,0,0,0
+black_1336,['black'],1,0,0,0,0,0
+black_1339,['black'],1,0,0,0,0,0
+black_1340,['black'],1,0,0,0,0,0
+black_1342,['black'],1,0,0,0,0,0
+black_1343,['black'],1,0,0,0,0,0
+black_1344,['black'],1,0,0,0,0,0
+black_1346,['black'],1,0,0,0,0,0
+black_1348,['black'],1,0,0,0,0,0
+black_1349,['black'],1,0,0,0,0,0
+black_1350,['black'],1,0,0,0,0,0
+black_1352,['black'],1,0,0,0,0,0
+black_1353,['black'],1,0,0,0,0,0
+black_1354,['black'],1,0,0,0,0,0
+black_1355,['black'],1,0,0,0,0,0
+black_1356,['black'],1,0,0,0,0,0
+green_5,['green'],0,1,0,0,0,0
+green_16,['green'],0,1,0,0,0,0
+green_34,['green'],0,1,0,0,0,0
+green_37,['green'],0,1,0,0,0,0
+green_80,['green'],0,1,0,0,0,0
+green_96,['green'],0,1,0,0,0,0
+green_108,['green'],0,1,0,0,0,0
+green_109,['green'],0,1,0,0,0,0
+green_111,['green'],0,1,0,0,0,0
+green_112,['green'],0,1,0,0,0,0
+green_119,['green'],0,1,0,0,0,0
+green_141,['green'],0,1,0,0,0,0
+green_145,['green'],0,1,0,0,0,0
+green_160,['green'],0,1,0,0,0,0
+green_176,['green'],0,1,0,0,0,0
+green_207,['green'],0,1,0,0,0,0
+green_224,['green'],0,1,0,0,0,0
+green_269,['green'],0,1,0,0,0,0
+green_277,['green'],0,1,0,0,0,0
+green_307,['green'],0,1,0,0,0,0
+green_319,['green'],0,1,0,0,0,0
+green_321,['green'],0,1,0,0,0,0
+green_332,['green'],0,1,0,0,0,0
+green_336,['green'],0,1,0,0,0,0
+green_357,['green'],0,1,0,0,0,0
+green_365,['green'],0,1,0,0,0,0
+green_378,['green'],0,1,0,0,0,0
+green_391,['green'],0,1,0,0,0,0
+green_407,['green'],0,1,0,0,0,0
+green_411,['green'],0,1,0,0,0,0
+green_452,['green'],0,1,0,0,0,0
+green_455,['green'],0,1,0,0,0,0
+green_459,['green'],0,1,0,0,0,0
+green_489,['green'],0,1,0,0,0,0
+green_507,['green'],0,1,0,0,0,0
+green_531,['green'],0,1,0,0,0,0
+green_534,['green'],0,1,0,0,0,0
+green_582,['green'],0,1,0,0,0,0
+green_644,['green'],0,1,0,0,0,0
+green_650,['green'],0,1,0,0,0,0
+green_660,['green'],0,1,0,0,0,0
+green_677,['green'],0,1,0,0,0,0
+green_686,['green'],0,1,0,0,0,0
+green_704,['green'],0,1,0,0,0,0
+green_707,['green'],0,1,0,0,0,0
+green_711,['green'],0,1,0,0,0,0
+green_712,['green'],0,1,0,0,0,0
+green_748,['green'],0,1,0,0,0,0
+green_750,['green'],0,1,0,0,0,0
+green_767,['green'],0,1,0,0,0,0
+green_772,['green'],0,1,0,0,0,0
+green_828,['green'],0,1,0,0,0,0
+green_833,['green'],0,1,0,0,0,0
+green_842,['green'],0,1,0,0,0,0
+green_847,['green'],0,1,0,0,0,0
+green_849,['green'],0,1,0,0,0,0
+green_856,['green'],0,1,0,0,0,0
+green_858,['green'],0,1,0,0,0,0
+green_866,['green'],0,1,0,0,0,0
+green_871,['green'],0,1,0,0,0,0
+green_876,['green'],0,1,0,0,0,0
+green_877,['green'],0,1,0,0,0,0
+green_885,['green'],0,1,0,0,0,0
+green_911,['green'],0,1,0,0,0,0
+green_920,['green'],0,1,0,0,0,0
+green_959,['green'],0,1,0,0,0,0
+green_965,['green'],0,1,0,0,0,0
+green_979,['green'],0,1,0,0,0,0
+green_981,['green'],0,1,0,0,0,0
+green_983,['green'],0,1,0,0,0,0
+green_1035,['green'],0,1,0,0,0,0
+green_1039,['green'],0,1,0,0,0,0
+green_1054,['green'],0,1,0,0,0,0
+green_1056,['green'],0,1,0,0,0,0
+green_1060,['green'],0,1,0,0,0,0
+green_1079,['green'],0,1,0,0,0,0
+green_1096,['green'],0,1,0,0,0,0
+green_1099,['green'],0,1,0,0,0,0
+green_1103,['green'],0,1,0,0,0,0
+green_1106,['green'],0,1,0,0,0,0
+green_1113,['green'],0,1,0,0,0,0
+green_1119,['green'],0,1,0,0,0,0
+green_1141,['green'],0,1,0,0,0,0
+green_1149,['green'],0,1,0,0,0,0
+green_1162,['green'],0,1,0,0,0,0
+green_1217,['green'],0,1,0,0,0,0
+green_1225,['green'],0,1,0,0,0,0
+green_1244,['green'],0,1,0,0,0,0
+green_1274,['green'],0,1,0,0,0,0
+green_1317,['green'],0,1,0,0,0,0
+green_1320,['green'],0,1,0,0,0,0
+green_1321,['green'],0,1,0,0,0,0
+green_1325,['green'],0,1,0,0,0,0
+green_1341,['green'],0,1,0,0,0,0
+green_1351,['green'],0,1,0,0,0,0
+green_1353,['green'],0,1,0,0,0,0
+green_1367,['green'],0,1,0,0,0,0
+green_1380,['green'],0,1,0,0,0,0
+green_1384,['green'],0,1,0,0,0,0
+green_1406,['green'],0,1,0,0,0,0
+green_1416,['green'],0,1,0,0,0,0
+green_1429,['green'],0,1,0,0,0,0
+green_1433,['green'],0,1,0,0,0,0
+green_1437,['green'],0,1,0,0,0,0
+green_1476,['green'],0,1,0,0,0,0
+green_1525,['green'],0,1,0,0,0,0
+green_1526,['green'],0,1,0,0,0,0
+green_1552,['green'],0,1,0,0,0,0
+green_1556,['green'],0,1,0,0,0,0
+green_1558,['green'],0,1,0,0,0,0
+green_1566,['green'],0,1,0,0,0,0
+green_1567,['green'],0,1,0,0,0,0
+green_1571,['green'],0,1,0,0,0,0
+green_1574,['green'],0,1,0,0,0,0
+green_1577,['green'],0,1,0,0,0,0
+green_1583,['green'],0,1,0,0,0,0
+green_1595,['green'],0,1,0,0,0,0
+green_1599,['green'],0,1,0,0,0,0
+green_1604,['green'],0,1,0,0,0,0
+green_1647,['green'],0,1,0,0,0,0
+green_1656,['green'],0,1,0,0,0,0
+green_1659,['green'],0,1,0,0,0,0
+green_1693,['green'],0,1,0,0,0,0
+green_1715,['green'],0,1,0,0,0,0
+green_1748,['green'],0,1,0,0,0,0
+green_1781,['green'],0,1,0,0,0,0
+green_1794,['green'],0,1,0,0,0,0
+green_1807,['green'],0,1,0,0,0,0
+green_1814,['green'],0,1,0,0,0,0
+green_1827,['green'],0,1,0,0,0,0
+green_1831,['green'],0,1,0,0,0,0
+green_1846,['green'],0,1,0,0,0,0
+green_1863,['green'],0,1,0,0,0,0
+green_1868,['green'],0,1,0,0,0,0
+green_1871,['green'],0,1,0,0,0,0
+green_1876,['green'],0,1,0,0,0,0
+green_1878,['green'],0,1,0,0,0,0
+green_1931,['green'],0,1,0,0,0,0
+green_1932,['green'],0,1,0,0,0,0
+green_1961,['green'],0,1,0,0,0,0
+green_1972,['green'],0,1,0,0,0,0
+green_1984,['green'],0,1,0,0,0,0
+green_2007,['green'],0,1,0,0,0,0
+green_2071,['green'],0,1,0,0,0,0
+green_2075,['green'],0,1,0,0,0,0
+green_2079,['green'],0,1,0,0,0,0
+green_2113,['green'],0,1,0,0,0,0
+green_2117,['green'],0,1,0,0,0,0
+green_2131,['green'],0,1,0,0,0,0
+green_2153,['green'],0,1,0,0,0,0
+green_2166,['green'],0,1,0,0,0,0
+green_2182,['green'],0,1,0,0,0,0
+green_2195,['green'],0,1,0,0,0,0
+green_2199,['green'],0,1,0,0,0,0
+green_2203,['green'],0,1,0,0,0,0
+green_2228,['green'],0,1,0,0,0,0
+green_2264,['green'],0,1,0,0,0,0
+green_2291,['green'],0,1,0,0,0,0
+green_2297,['green'],0,1,0,0,0,0
+green_2306,['green'],0,1,0,0,0,0
+green_2320,['green'],0,1,0,0,0,0
+green_2324,['green'],0,1,0,0,0,0
+green_2352,['green'],0,1,0,0,0,0
+green_2353,['green'],0,1,0,0,0,0
+green_2369,['green'],0,1,0,0,0,0
+green_2391,['green'],0,1,0,0,0,0
+green_2398,['green'],0,1,0,0,0,0
+green_2418,['green'],0,1,0,0,0,0
+green_2421,['green'],0,1,0,0,0,0
+green_2461,['green'],0,1,0,0,0,0
+green_2473,['green'],0,1,0,0,0,0
+green_2489,['green'],0,1,0,0,0,0
+green_2499,['green'],0,1,0,0,0,0
+green_2518,['green'],0,1,0,0,0,0
+green_2531,['green'],0,1,0,0,0,0
+green_2544,['green'],0,1,0,0,0,0
+green_2559,['green'],0,1,0,0,0,0
+green_2565,['green'],0,1,0,0,0,0
+green_2604,['green'],0,1,0,0,0,0
+green_2617,['green'],0,1,0,0,0,0
+green_2622,['green'],0,1,0,0,0,0
+green_2623,['green'],0,1,0,0,0,0
+green_2663,['green'],0,1,0,0,0,0
+green_2670,['green'],0,1,0,0,0,0
+green_2678,['green'],0,1,0,0,0,0
+green_2708,['green'],0,1,0,0,0,0
+green_2716,['green'],0,1,0,0,0,0
+green_2729,['green'],0,1,0,0,0,0
+green_2766,['green'],0,1,0,0,0,0
+green_2767,['green'],0,1,0,0,0,0
+green_2779,['green'],0,1,0,0,0,0
+green_2782,['green'],0,1,0,0,0,0
+green_2786,['green'],0,1,0,0,0,0
+green_2810,['green'],0,1,0,0,0,0
+green_2819,['green'],0,1,0,0,0,0
+green_2828,['green'],0,1,0,0,0,0
+green_2836,['green'],0,1,0,0,0,0
+green_2841,['green'],0,1,0,0,0,0
+green_2855,['green'],0,1,0,0,0,0
+green_2857,['green'],0,1,0,0,0,0
+green_2957,['green'],0,1,0,0,0,0
+green_2972,['green'],0,1,0,0,0,0
+green_2980,['green'],0,1,0,0,0,0
+green_2984,['green'],0,1,0,0,0,0
+green_2989,['green'],0,1,0,0,0,0
+green_2995,['green'],0,1,0,0,0,0
+green_3010,['green'],0,1,0,0,0,0
+green_3085,['green'],0,1,0,0,0,0
+green_3098,['green'],0,1,0,0,0,0
+green_3103,['green'],0,1,0,0,0,0
+green_3111,['green'],0,1,0,0,0,0
+green_3148,['green'],0,1,0,0,0,0
+green_3153,['green'],0,1,0,0,0,0
+green_3154,['green'],0,1,0,0,0,0
+green_3192,['green'],0,1,0,0,0,0
+green_3201,['green'],0,1,0,0,0,0
+green_3202,['green'],0,1,0,0,0,0
+green_3213,['green'],0,1,0,0,0,0
+green_3214,['green'],0,1,0,0,0,0
+green_3250,['green'],0,1,0,0,0,0
+green_3288,['green'],0,1,0,0,0,0
+green_3291,['green'],0,1,0,0,0,0
+green_3297,['green'],0,1,0,0,0,0
+green_3308,['green'],0,1,0,0,0,0
+green_3312,['green'],0,1,0,0,0,0
+green_3324,['green'],0,1,0,0,0,0
+green_3367,['green'],0,1,0,0,0,0
+green_3373,['green'],0,1,0,0,0,0
+green_3391,['green'],0,1,0,0,0,0
+green_3406,['green'],0,1,0,0,0,0
+green_3462,['green'],0,1,0,0,0,0
+green_3502,['green'],0,1,0,0,0,0
+green_3505,['green'],0,1,0,0,0,0
+green_3537,['green'],0,1,0,0,0,0
+green_3587,['green'],0,1,0,0,0,0
+green_3604,['green'],0,1,0,0,0,0
+green_3615,['green'],0,1,0,0,0,0
+green_3634,['green'],0,1,0,0,0,0
+green_3650,['green'],0,1,0,0,0,0
+green_3653,['green'],0,1,0,0,0,0
+green_3659,['green'],0,1,0,0,0,0
+green_3665,['green'],0,1,0,0,0,0
+green_3709,['green'],0,1,0,0,0,0
+green_3733,['green'],0,1,0,0,0,0
+green_3737,['green'],0,1,0,0,0,0
+green_3745,['green'],0,1,0,0,0,0
+green_3746,['green'],0,1,0,0,0,0
+green_3766,['green'],0,1,0,0,0,0
+green_3784,['green'],0,1,0,0,0,0
+green_3789,['green'],0,1,0,0,0,0
+green_3795,['green'],0,1,0,0,0,0
+green_3799,['green'],0,1,0,0,0,0
+green_3805,['green'],0,1,0,0,0,0
+green_3808,['green'],0,1,0,0,0,0
+green_3809,['green'],0,1,0,0,0,0
+green_3816,['green'],0,1,0,0,0,0
+green_3823,['green'],0,1,0,0,0,0
+green_3824,['green'],0,1,0,0,0,0
+green_3833,['green'],0,1,0,0,0,0
+green_3846,['green'],0,1,0,0,0,0
+green_3865,['green'],0,1,0,0,0,0
+green_3890,['green'],0,1,0,0,0,0
+green_3894,['green'],0,1,0,0,0,0
+green_3899,['green'],0,1,0,0,0,0
+green_3906,['green'],0,1,0,0,0,0
+green_3910,['green'],0,1,0,0,0,0
+green_3915,['green'],0,1,0,0,0,0
+green_3920,['green'],0,1,0,0,0,0
+green_3931,['green'],0,1,0,0,0,0
+green_3943,['green'],0,1,0,0,0,0
+green_3977,['green'],0,1,0,0,0,0
+green_4010,['green'],0,1,0,0,0,0
+green_4044,['green'],0,1,0,0,0,0
+green_4045,['green'],0,1,0,0,0,0
+green_4071,['green'],0,1,0,0,0,0
+green_4088,['green'],0,1,0,0,0,0
+green_4106,['green'],0,1,0,0,0,0
+green_4133,['green'],0,1,0,0,0,0
+green_4151,['green'],0,1,0,0,0,0
+green_4164,['green'],0,1,0,0,0,0
+green_4169,['green'],0,1,0,0,0,0
+green_4178,['green'],0,1,0,0,0,0
+green_4227,['green'],0,1,0,0,0,0
+green_4230,['green'],0,1,0,0,0,0
+green_4281,['green'],0,1,0,0,0,0
+green_4321,['green'],0,1,0,0,0,0
+green_4338,['green'],0,1,0,0,0,0
+green_4411,['green'],0,1,0,0,0,0
+green_4416,['green'],0,1,0,0,0,0
+green_4417,['green'],0,1,0,0,0,0
+green_4444,['green'],0,1,0,0,0,0
+green_4493,['green'],0,1,0,0,0,0
+green_4494,['green'],0,1,0,0,0,0
+green_4499,['green'],0,1,0,0,0,0
+green_4513,['green'],0,1,0,0,0,0
+green_4522,['green'],0,1,0,0,0,0
+green_4546,['green'],0,1,0,0,0,0
+green_4566,['green'],0,1,0,0,0,0
+green_4584,['green'],0,1,0,0,0,0
+green_4588,['green'],0,1,0,0,0,0
+green_4594,['green'],0,1,0,0,0,0
+green_4617,['green'],0,1,0,0,0,0
+green_4639,['green'],0,1,0,0,0,0
+green_4649,['green'],0,1,0,0,0,0
+green_4661,['green'],0,1,0,0,0,0
+green_4676,['green'],0,1,0,0,0,0
+green_4686,['green'],0,1,0,0,0,0
+green_4695,['green'],0,1,0,0,0,0
+green_4703,['green'],0,1,0,0,0,0
+green_4708,['green'],0,1,0,0,0,0
+green_4720,['green'],0,1,0,0,0,0
+green_4724,['green'],0,1,0,0,0,0
+green_4736,['green'],0,1,0,0,0,0
+green_4741,['green'],0,1,0,0,0,0
+green_4781,['green'],0,1,0,0,0,0
+green_4816,['green'],0,1,0,0,0,0
+green_4824,['green'],0,1,0,0,0,0
+green_4826,['green'],0,1,0,0,0,0
+green_4830,['green'],0,1,0,0,0,0
+green_4839,['green'],0,1,0,0,0,0
+green_4868,['green'],0,1,0,0,0,0
+green_4881,['green'],0,1,0,0,0,0
+green_4883,['green'],0,1,0,0,0,0
+green_4896,['green'],0,1,0,0,0,0
+green_4934,['green'],0,1,0,0,0,0
+green_4970,['green'],0,1,0,0,0,0
+green_4990,['green'],0,1,0,0,0,0
+green_4991,['green'],0,1,0,0,0,0
+green_4995,['green'],0,1,0,0,0,0
+green_5030,['green'],0,1,0,0,0,0
+green_5032,['green'],0,1,0,0,0,0
+green_5115,['green'],0,1,0,0,0,0
+green_5167,['green'],0,1,0,0,0,0
+green_5199,['green'],0,1,0,0,0,0
+green_5203,['green'],0,1,0,0,0,0
+green_5226,['green'],0,1,0,0,0,0
+green_5232,['green'],0,1,0,0,0,0
+green_5284,['green'],0,1,0,0,0,0
+green_5323,['green'],0,1,0,0,0,0
+green_5333,['green'],0,1,0,0,0,0
+green_5423,['green'],0,1,0,0,0,0
+green_5425,['green'],0,1,0,0,0,0
+green_5488,['green'],0,1,0,0,0,0
+green_5489,['green'],0,1,0,0,0,0
+green_5511,['green'],0,1,0,0,0,0
+green_5662,['green'],0,1,0,0,0,0
+green_5677,['green'],0,1,0,0,0,0
+green_5684,['green'],0,1,0,0,0,0
+green_5697,['green'],0,1,0,0,0,0
+green_5713,['green'],0,1,0,0,0,0
+green_5727,['green'],0,1,0,0,0,0
+green_5738,['green'],0,1,0,0,0,0
+green_5787,['green'],0,1,0,0,0,0
+green_5806,['green'],0,1,0,0,0,0
+green_5865,['green'],0,1,0,0,0,0
+green_5867,['green'],0,1,0,0,0,0
+green_5869,['green'],0,1,0,0,0,0
+green_5870,['green'],0,1,0,0,0,0
+green_5887,['green'],0,1,0,0,0,0
+green_5939,['green'],0,1,0,0,0,0
+green_5945,['green'],0,1,0,0,0,0
+green_5954,['green'],0,1,0,0,0,0
+green_5989,['green'],0,1,0,0,0,0
+green_6002,['green'],0,1,0,0,0,0
+green_6030,['green'],0,1,0,0,0,0
+green_6038,['green'],0,1,0,0,0,0
+green_6050,['green'],0,1,0,0,0,0
+green_6068,['green'],0,1,0,0,0,0
+green_6070,['green'],0,1,0,0,0,0
+green_6096,['green'],0,1,0,0,0,0
+green_6146,['green'],0,1,0,0,0,0
+green_6147,['green'],0,1,0,0,0,0
+green_6152,['green'],0,1,0,0,0,0
+green_6157,['green'],0,1,0,0,0,0
+green_6169,['green'],0,1,0,0,0,0
+green_6173,['green'],0,1,0,0,0,0
+green_6187,['green'],0,1,0,0,0,0
+green_6191,['green'],0,1,0,0,0,0
+green_6197,['green'],0,1,0,0,0,0
+green_6219,['green'],0,1,0,0,0,0
+green_6224,['green'],0,1,0,0,0,0
+green_6227,['green'],0,1,0,0,0,0
+green_6233,['green'],0,1,0,0,0,0
+green_6239,['green'],0,1,0,0,0,0
+green_6247,['green'],0,1,0,0,0,0
+green_6252,['green'],0,1,0,0,0,0
+green_6260,['green'],0,1,0,0,0,0
+green_6271,['green'],0,1,0,0,0,0
+green_6285,['green'],0,1,0,0,0,0
+green_6289,['green'],0,1,0,0,0,0
+green_6343,['green'],0,1,0,0,0,0
+green_6368,['green'],0,1,0,0,0,0
+green_6381,['green'],0,1,0,0,0,0
+green_6390,['green'],0,1,0,0,0,0
+green_6442,['green'],0,1,0,0,0,0
+green_6495,['green'],0,1,0,0,0,0
+green_6503,['green'],0,1,0,0,0,0
+green_6504,['green'],0,1,0,0,0,0
+green_6507,['green'],0,1,0,0,0,0
+green_6559,['green'],0,1,0,0,0,0
+green_6584,['green'],0,1,0,0,0,0
+green_6590,['green'],0,1,0,0,0,0
+green_6593,['green'],0,1,0,0,0,0
+green_6598,['green'],0,1,0,0,0,0
+green_6615,['green'],0,1,0,0,0,0
+green_6620,['green'],0,1,0,0,0,0
+green_6627,['green'],0,1,0,0,0,0
+green_6661,['green'],0,1,0,0,0,0
+green_6685,['green'],0,1,0,0,0,0
+green_6688,['green'],0,1,0,0,0,0
+green_6710,['green'],0,1,0,0,0,0
+green_6775,['green'],0,1,0,0,0,0
+green_6792,['green'],0,1,0,0,0,0
+green_6794,['green'],0,1,0,0,0,0
+green_6804,['green'],0,1,0,0,0,0
+green_6820,['green'],0,1,0,0,0,0
+green_6825,['green'],0,1,0,0,0,0
+green_6843,['green'],0,1,0,0,0,0
+green_6844,['green'],0,1,0,0,0,0
+green_6850,['green'],0,1,0,0,0,0
+green_6873,['green'],0,1,0,0,0,0
+green_6886,['green'],0,1,0,0,0,0
+green_6889,['green'],0,1,0,0,0,0
+green_6902,['green'],0,1,0,0,0,0
+green_6906,['green'],0,1,0,0,0,0
+green_6933,['green'],0,1,0,0,0,0
+green_6941,['green'],0,1,0,0,0,0
+green_6942,['green'],0,1,0,0,0,0
+green_6949,['green'],0,1,0,0,0,0
+green_6970,['green'],0,1,0,0,0,0
+green_6984,['green'],0,1,0,0,0,0
+green_7010,['green'],0,1,0,0,0,0
+green_7013,['green'],0,1,0,0,0,0
+green_7020,['green'],0,1,0,0,0,0
+green_7045,['green'],0,1,0,0,0,0
+green_7048,['green'],0,1,0,0,0,0
+green_7054,['green'],0,1,0,0,0,0
+green_7086,['green'],0,1,0,0,0,0
+green_7089,['green'],0,1,0,0,0,0
+green_7094,['green'],0,1,0,0,0,0
+green_7103,['green'],0,1,0,0,0,0
+green_7114,['green'],0,1,0,0,0,0
+green_7122,['green'],0,1,0,0,0,0
+green_7127,['green'],0,1,0,0,0,0
+green_7144,['green'],0,1,0,0,0,0
+green_7163,['green'],0,1,0,0,0,0
+green_7166,['green'],0,1,0,0,0,0
+green_7185,['green'],0,1,0,0,0,0
+green_7189,['green'],0,1,0,0,0,0
+green_7221,['green'],0,1,0,0,0,0
+green_7229,['green'],0,1,0,0,0,0
+green_7244,['green'],0,1,0,0,0,0
+green_7246,['green'],0,1,0,0,0,0
+green_7262,['green'],0,1,0,0,0,0
+green_7288,['green'],0,1,0,0,0,0
+green_7289,['green'],0,1,0,0,0,0
+green_7294,['green'],0,1,0,0,0,0
+green_7305,['green'],0,1,0,0,0,0
+green_7316,['green'],0,1,0,0,0,0
+green_7344,['green'],0,1,0,0,0,0
+green_7366,['green'],0,1,0,0,0,0
+green_7368,['green'],0,1,0,0,0,0
+green_7375,['green'],0,1,0,0,0,0
+green_7381,['green'],0,1,0,0,0,0
+green_7414,['green'],0,1,0,0,0,0
+green_7426,['green'],0,1,0,0,0,0
+green_7440,['green'],0,1,0,0,0,0
+green_7442,['green'],0,1,0,0,0,0
+green_7466,['green'],0,1,0,0,0,0
+green_7467,['green'],0,1,0,0,0,0
+green_7476,['green'],0,1,0,0,0,0
+green_7478,['green'],0,1,0,0,0,0
+green_7482,['green'],0,1,0,0,0,0
+green_7512,['green'],0,1,0,0,0,0
+green_7533,['green'],0,1,0,0,0,0
+green_7541,['green'],0,1,0,0,0,0
+green_7545,['green'],0,1,0,0,0,0
+green_7575,['green'],0,1,0,0,0,0
+green_7591,['green'],0,1,0,0,0,0
+green_7598,['green'],0,1,0,0,0,0
+green_7614,['green'],0,1,0,0,0,0
+green_7622,['green'],0,1,0,0,0,0
+green_7648,['green'],0,1,0,0,0,0
+green_7673,['green'],0,1,0,0,0,0
+green_7692,['green'],0,1,0,0,0,0
+green_7755,['green'],0,1,0,0,0,0
+green_7773,['green'],0,1,0,0,0,0
+green_7776,['green'],0,1,0,0,0,0
+green_7820,['green'],0,1,0,0,0,0
+green_7824,['green'],0,1,0,0,0,0
+green_7829,['green'],0,1,0,0,0,0
+green_7836,['green'],0,1,0,0,0,0
+green_7862,['green'],0,1,0,0,0,0
+green_7886,['green'],0,1,0,0,0,0
+green_7905,['green'],0,1,0,0,0,0
+green_7928,['green'],0,1,0,0,0,0
+green_7929,['green'],0,1,0,0,0,0
+green_7932,['green'],0,1,0,0,0,0
+green_7935,['green'],0,1,0,0,0,0
+green_7938,['green'],0,1,0,0,0,0
+green_7989,['green'],0,1,0,0,0,0
+green_7995,['green'],0,1,0,0,0,0
+green_7996,['green'],0,1,0,0,0,0
+green_8001,['green'],0,1,0,0,0,0
+green_8006,['green'],0,1,0,0,0,0
+green_8019,['green'],0,1,0,0,0,0
+green_8025,['green'],0,1,0,0,0,0
+green_8040,['green'],0,1,0,0,0,0
+green_8072,['green'],0,1,0,0,0,0
+green_8082,['green'],0,1,0,0,0,0
+green_8097,['green'],0,1,0,0,0,0
+green_8101,['green'],0,1,0,0,0,0
+green_8107,['green'],0,1,0,0,0,0
+green_8114,['green'],0,1,0,0,0,0
+green_8128,['green'],0,1,0,0,0,0
+green_8146,['green'],0,1,0,0,0,0
+green_8148,['green'],0,1,0,0,0,0
+green_8156,['green'],0,1,0,0,0,0
+green_8203,['green'],0,1,0,0,0,0
+green_8215,['green'],0,1,0,0,0,0
+green_8236,['green'],0,1,0,0,0,0
+green_8263,['green'],0,1,0,0,0,0
+green_8280,['green'],0,1,0,0,0,0
+green_8291,['green'],0,1,0,0,0,0
+green_8331,['green'],0,1,0,0,0,0
+green_8355,['green'],0,1,0,0,0,0
+green_8372,['green'],0,1,0,0,0,0
+green_8374,['green'],0,1,0,0,0,0
+green_8376,['green'],0,1,0,0,0,0
+green_8442,['green'],0,1,0,0,0,0
+green_8474,['green'],0,1,0,0,0,0
+green_8516,['green'],0,1,0,0,0,0
+green_8517,['green'],0,1,0,0,0,0
+green_8520,['green'],0,1,0,0,0,0
+green_8537,['green'],0,1,0,0,0,0
+green_8570,['green'],0,1,0,0,0,0
+green_8575,['green'],0,1,0,0,0,0
+green_8587,['green'],0,1,0,0,0,0
+green_8591,['green'],0,1,0,0,0,0
+green_8596,['green'],0,1,0,0,0,0
+green_8645,['green'],0,1,0,0,0,0
+green_8676,['green'],0,1,0,0,0,0
+green_8691,['green'],0,1,0,0,0,0
+green_8728,['green'],0,1,0,0,0,0
+green_8751,['green'],0,1,0,0,0,0
+green_8767,['green'],0,1,0,0,0,0
+green_8781,['green'],0,1,0,0,0,0
+green_8782,['green'],0,1,0,0,0,0
+green_8791,['green'],0,1,0,0,0,0
+green_8797,['green'],0,1,0,0,0,0
+green_8809,['green'],0,1,0,0,0,0
+green_8822,['green'],0,1,0,0,0,0
+green_8834,['green'],0,1,0,0,0,0
+green_8837,['green'],0,1,0,0,0,0
+green_8841,['green'],0,1,0,0,0,0
+green_8850,['green'],0,1,0,0,0,0
+green_8851,['green'],0,1,0,0,0,0
+green_8861,['green'],0,1,0,0,0,0
+green_8863,['green'],0,1,0,0,0,0
+green_8884,['green'],0,1,0,0,0,0
+green_8885,['green'],0,1,0,0,0,0
+green_8889,['green'],0,1,0,0,0,0
+green_8898,['green'],0,1,0,0,0,0
+green_8901,['green'],0,1,0,0,0,0
+green_8911,['green'],0,1,0,0,0,0
+green_8927,['green'],0,1,0,0,0,0
+green_8931,['green'],0,1,0,0,0,0
+green_8933,['green'],0,1,0,0,0,0
+green_8966,['green'],0,1,0,0,0,0
+green_8968,['green'],0,1,0,0,0,0
+green_8974,['green'],0,1,0,0,0,0
+green_8994,['green'],0,1,0,0,0,0
+green_8999,['green'],0,1,0,0,0,0
+green_9001,['green'],0,1,0,0,0,0
+green_9032,['green'],0,1,0,0,0,0
+green_9059,['green'],0,1,0,0,0,0
+green_9069,['green'],0,1,0,0,0,0
+green_9077,['green'],0,1,0,0,0,0
+green_9078,['green'],0,1,0,0,0,0
+green_9093,['green'],0,1,0,0,0,0
+green_9133,['green'],0,1,0,0,0,0
+green_9138,['green'],0,1,0,0,0,0
+green_9156,['green'],0,1,0,0,0,0
+green_9162,['green'],0,1,0,0,0,0
+green_9188,['green'],0,1,0,0,0,0
+green_9200,['green'],0,1,0,0,0,0
+green_9215,['green'],0,1,0,0,0,0
+green_9218,['green'],0,1,0,0,0,0
+green_9231,['green'],0,1,0,0,0,0
+green_9240,['green'],0,1,0,0,0,0
+green_9242,['green'],0,1,0,0,0,0
+green_9252,['green'],0,1,0,0,0,0
+green_9258,['green'],0,1,0,0,0,0
+green_9259,['green'],0,1,0,0,0,0
+green_9262,['green'],0,1,0,0,0,0
+green_9272,['green'],0,1,0,0,0,0
+green_9281,['green'],0,1,0,0,0,0
+green_9311,['green'],0,1,0,0,0,0
+green_9347,['green'],0,1,0,0,0,0
+green_9352,['green'],0,1,0,0,0,0
+green_9356,['green'],0,1,0,0,0,0
+green_9386,['green'],0,1,0,0,0,0
+green_9389,['green'],0,1,0,0,0,0
+green_9403,['green'],0,1,0,0,0,0
+green_9405,['green'],0,1,0,0,0,0
+green_9418,['green'],0,1,0,0,0,0
+green_9420,['green'],0,1,0,0,0,0
+green_9423,['green'],0,1,0,0,0,0
+green_9465,['green'],0,1,0,0,0,0
+green_9477,['green'],0,1,0,0,0,0
+green_9486,['green'],0,1,0,0,0,0
+green_9532,['green'],0,1,0,0,0,0
+green_9546,['green'],0,1,0,0,0,0
+green_9600,['green'],0,1,0,0,0,0
+green_9604,['green'],0,1,0,0,0,0
+green_9631,['green'],0,1,0,0,0,0
+green_9682,['green'],0,1,0,0,0,0
+green_9701,['green'],0,1,0,0,0,0
+green_9708,['green'],0,1,0,0,0,0
+green_9719,['green'],0,1,0,0,0,0
+green_9726,['green'],0,1,0,0,0,0
+green_9768,['green'],0,1,0,0,0,0
+green_9817,['green'],0,1,0,0,0,0
+green_9819,['green'],0,1,0,0,0,0
+green_9879,['green'],0,1,0,0,0,0
+green_9921,['green'],0,1,0,0,0,0
+green_9984,['green'],0,1,0,0,0,0
+green_10010,['green'],0,1,0,0,0,0
+green_10016,['green'],0,1,0,0,0,0
+green_10032,['green'],0,1,0,0,0,0
+green_10046,['green'],0,1,0,0,0,0
+green_10048,['green'],0,1,0,0,0,0
+green_10090,['green'],0,1,0,0,0,0
+green_10108,['green'],0,1,0,0,0,0
+green_10130,['green'],0,1,0,0,0,0
+green_10181,['green'],0,1,0,0,0,0
+green_10183,['green'],0,1,0,0,0,0
+green_10227,['green'],0,1,0,0,0,0
+green_10262,['green'],0,1,0,0,0,0
+green_10300,['green'],0,1,0,0,0,0
+green_10314,['green'],0,1,0,0,0,0
+green_10316,['green'],0,1,0,0,0,0
+green_10323,['green'],0,1,0,0,0,0
+green_10347,['green'],0,1,0,0,0,0
+green_10353,['green'],0,1,0,0,0,0
+green_10364,['green'],0,1,0,0,0,0
+green_10366,['green'],0,1,0,0,0,0
+green_10400,['green'],0,1,0,0,0,0
+green_10402,['green'],0,1,0,0,0,0
+green_10405,['green'],0,1,0,0,0,0
+green_10406,['green'],0,1,0,0,0,0
+green_10409,['green'],0,1,0,0,0,0
+green_10456,['green'],0,1,0,0,0,0
+green_10472,['green'],0,1,0,0,0,0
+green_10508,['green'],0,1,0,0,0,0
+green_10515,['green'],0,1,0,0,0,0
+green_10517,['green'],0,1,0,0,0,0
+green_10536,['green'],0,1,0,0,0,0
+green_10540,['green'],0,1,0,0,0,0
+green_10563,['green'],0,1,0,0,0,0
+green_10565,['green'],0,1,0,0,0,0
+green_10577,['green'],0,1,0,0,0,0
+green_10589,['green'],0,1,0,0,0,0
+green_10621,['green'],0,1,0,0,0,0
+green_10635,['green'],0,1,0,0,0,0
+green_10644,['green'],0,1,0,0,0,0
+green_10647,['green'],0,1,0,0,0,0
+green_10648,['green'],0,1,0,0,0,0
+green_10657,['green'],0,1,0,0,0,0
+green_10663,['green'],0,1,0,0,0,0
+green_10668,['green'],0,1,0,0,0,0
+green_10753,['green'],0,1,0,0,0,0
+green_10784,['green'],0,1,0,0,0,0
+green_10799,['green'],0,1,0,0,0,0
+green_10825,['green'],0,1,0,0,0,0
+green_10862,['green'],0,1,0,0,0,0
+green_10876,['green'],0,1,0,0,0,0
+green_10879,['green'],0,1,0,0,0,0
+green_10886,['green'],0,1,0,0,0,0
+green_10900,['green'],0,1,0,0,0,0
+green_10929,['green'],0,1,0,0,0,0
+green_10938,['green'],0,1,0,0,0,0
+green_10948,['green'],0,1,0,0,0,0
+green_10961,['green'],0,1,0,0,0,0
+green_10964,['green'],0,1,0,0,0,0
+green_10966,['green'],0,1,0,0,0,0
+green_10968,['green'],0,1,0,0,0,0
+green_10972,['green'],0,1,0,0,0,0
+green_10995,['green'],0,1,0,0,0,0
+green_10996,['green'],0,1,0,0,0,0
+green_10998,['green'],0,1,0,0,0,0
+green_11007,['green'],0,1,0,0,0,0
+green_11010,['green'],0,1,0,0,0,0
+green_11037,['green'],0,1,0,0,0,0
+green_11053,['green'],0,1,0,0,0,0
+green_11071,['green'],0,1,0,0,0,0
+green_11074,['green'],0,1,0,0,0,0
+green_11102,['green'],0,1,0,0,0,0
+green_11145,['green'],0,1,0,0,0,0
+green_11151,['green'],0,1,0,0,0,0
+green_11160,['green'],0,1,0,0,0,0
+green_11180,['green'],0,1,0,0,0,0
+green_11190,['green'],0,1,0,0,0,0
+green_11216,['green'],0,1,0,0,0,0
+green_11218,['green'],0,1,0,0,0,0
+green_11281,['green'],0,1,0,0,0,0
+green_11327,['green'],0,1,0,0,0,0
+green_11329,['green'],0,1,0,0,0,0
+green_11354,['green'],0,1,0,0,0,0
+green_11366,['green'],0,1,0,0,0,0
+green_11387,['green'],0,1,0,0,0,0
+green_11395,['green'],0,1,0,0,0,0
+green_11399,['green'],0,1,0,0,0,0
+green_11419,['green'],0,1,0,0,0,0
+green_11435,['green'],0,1,0,0,0,0
+green_11463,['green'],0,1,0,0,0,0
+green_11473,['green'],0,1,0,0,0,0
+green_11496,['green'],0,1,0,0,0,0
+green_11514,['green'],0,1,0,0,0,0
+green_11515,['green'],0,1,0,0,0,0
+green_11516,['green'],0,1,0,0,0,0
+green_11522,['green'],0,1,0,0,0,0
+green_11531,['green'],0,1,0,0,0,0
+green_11581,['green'],0,1,0,0,0,0
+green_11594,['green'],0,1,0,0,0,0
+green_11619,['green'],0,1,0,0,0,0
+green_11621,['green'],0,1,0,0,0,0
+green_11630,['green'],0,1,0,0,0,0
+green_11650,['green'],0,1,0,0,0,0
+green_11655,['green'],0,1,0,0,0,0
+green_11659,['green'],0,1,0,0,0,0
+green_11673,['green'],0,1,0,0,0,0
+green_11706,['green'],0,1,0,0,0,0
+green_11719,['green'],0,1,0,0,0,0
+green_11755,['green'],0,1,0,0,0,0
+green_11765,['green'],0,1,0,0,0,0
+green_11770,['green'],0,1,0,0,0,0
+green_11773,['green'],0,1,0,0,0,0
+green_11790,['green'],0,1,0,0,0,0
+green_11805,['green'],0,1,0,0,0,0
+green_11816,['green'],0,1,0,0,0,0
+green_11824,['green'],0,1,0,0,0,0
+green_11888,['green'],0,1,0,0,0,0
+green_11894,['green'],0,1,0,0,0,0
+green_11975,['green'],0,1,0,0,0,0
+green_11993,['green'],0,1,0,0,0,0
+green_12039,['green'],0,1,0,0,0,0
+green_12044,['green'],0,1,0,0,0,0
+green_12062,['green'],0,1,0,0,0,0
+green_12065,['green'],0,1,0,0,0,0
+green_12097,['green'],0,1,0,0,0,0
+green_12106,['green'],0,1,0,0,0,0
+green_12140,['green'],0,1,0,0,0,0
+green_12175,['green'],0,1,0,0,0,0
+green_12187,['green'],0,1,0,0,0,0
+green_12204,['green'],0,1,0,0,0,0
+green_12210,['green'],0,1,0,0,0,0
+green_12221,['green'],0,1,0,0,0,0
+green_12257,['green'],0,1,0,0,0,0
+green_12289,['green'],0,1,0,0,0,0
+green_12316,['green'],0,1,0,0,0,0
+green_12328,['green'],0,1,0,0,0,0
+green_12356,['green'],0,1,0,0,0,0
+green_12366,['green'],0,1,0,0,0,0
+green_12371,['green'],0,1,0,0,0,0
+green_12373,['green'],0,1,0,0,0,0
+green_12408,['green'],0,1,0,0,0,0
+green_12425,['green'],0,1,0,0,0,0
+green_12443,['green'],0,1,0,0,0,0
+green_12447,['green'],0,1,0,0,0,0
+green_12483,['green'],0,1,0,0,0,0
+green_12518,['green'],0,1,0,0,0,0
+green_12541,['green'],0,1,0,0,0,0
+green_12558,['green'],0,1,0,0,0,0
+green_12578,['green'],0,1,0,0,0,0
+green_12592,['green'],0,1,0,0,0,0
+green_12601,['green'],0,1,0,0,0,0
+green_12620,['green'],0,1,0,0,0,0
+green_12622,['green'],0,1,0,0,0,0
+green_12626,['green'],0,1,0,0,0,0
+green_12639,['green'],0,1,0,0,0,0
+green_12662,['green'],0,1,0,0,0,0
+green_12699,['green'],0,1,0,0,0,0
+green_12717,['green'],0,1,0,0,0,0
+green_12721,['green'],0,1,0,0,0,0
+green_12730,['green'],0,1,0,0,0,0
+green_12798,['green'],0,1,0,0,0,0
+green_12808,['green'],0,1,0,0,0,0
+green_12811,['green'],0,1,0,0,0,0
+green_12821,['green'],0,1,0,0,0,0
+green_12824,['green'],0,1,0,0,0,0
+green_12828,['green'],0,1,0,0,0,0
+green_12839,['green'],0,1,0,0,0,0
+green_12854,['green'],0,1,0,0,0,0
+green_12859,['green'],0,1,0,0,0,0
+green_12873,['green'],0,1,0,0,0,0
+green_12875,['green'],0,1,0,0,0,0
+green_12948,['green'],0,1,0,0,0,0
+green_12965,['green'],0,1,0,0,0,0
+green_12975,['green'],0,1,0,0,0,0
+green_arrow_2,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_7,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_14,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_18,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_21,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_25,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_31,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_35,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_38,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_40,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_45,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_60,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_64,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_67,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_78,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_91,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_92,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_94,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_97,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_99,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_108,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_121,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_128,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_129,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_140,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_151,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_156,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_163,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_166,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_167,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_168,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_170,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_172,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_177,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_182,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_184,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_192,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_198,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_201,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_202,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_209,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_212,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_214,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_215,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_216,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_220,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_227,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_230,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_236,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_237,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_240,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_241,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_245,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_249,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_251,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_253,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_260,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_267,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_271,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_278,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_279,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_284,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_292,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_293,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_298,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_299,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_300,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_301,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_305,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_308,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_318,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_320,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_330,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_333,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_334,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_339,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_342,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_352,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_353,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_360,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_362,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_373,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_375,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_377,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_378,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_379,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_381,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_383,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_384,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_386,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_391,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_394,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_397,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_399,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_401,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_408,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_410,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_411,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_414,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_415,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_417,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_421,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_422,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_424,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_426,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_429,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_431,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_436,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_440,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_441,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_445,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_447,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_449,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_452,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_454,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_463,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_469,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_470,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_472,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_473,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_478,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_479,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_481,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_492,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_493,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_508,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_513,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_520,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_522,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_523,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_529,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_530,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_533,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_537,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_542,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_552,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_555,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_556,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_558,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_559,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_566,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_567,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_571,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_579,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_583,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_587,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_589,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_596,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_600,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_612,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_625,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_629,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_633,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_635,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_637,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_652,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_664,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_665,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_667,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_671,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_672,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_676,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_679,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_682,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_699,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_702,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_703,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_705,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_713,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_715,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_719,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_729,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_735,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_739,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_740,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_751,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_754,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_757,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_758,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_759,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_764,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_766,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_767,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_769,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_770,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_771,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_774,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_775,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_784,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_785,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_789,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_790,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_795,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_803,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_804,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_810,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_814,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_821,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_824,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_828,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_829,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_830,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_831,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_833,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_843,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_853,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_854,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_857,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_867,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_872,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_873,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_874,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_879,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_880,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_885,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_886,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_889,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_890,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_899,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_902,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_905,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_908,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_911,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_914,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_915,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_924,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_928,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_929,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_935,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_937,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_940,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_945,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_948,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_949,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_963,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_966,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_968,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_975,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_982,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_985,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_988,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_990,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1000,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1005,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1006,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1010,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1013,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1014,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1018,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1019,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1025,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1026,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1027,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1028,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1029,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1033,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1034,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1036,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1042,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1043,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1049,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1050,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1051,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1053,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1054,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1059,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1061,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1062,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1065,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1068,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1071,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1085,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1087,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1092,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1096,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1104,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1105,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1107,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1119,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1127,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1130,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1150,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1152,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1155,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1166,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1168,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1170,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1175,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1181,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1185,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1187,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1190,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1191,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1192,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1195,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1200,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1205,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1207,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1212,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1223,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1225,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1238,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1241,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1247,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1249,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1253,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1254,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1255,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1258,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1261,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1265,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1267,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1268,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1270,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1275,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1278,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1287,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1290,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1291,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1292,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1300,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1302,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1306,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1311,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1314,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1318,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1320,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1324,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1325,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1333,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1334,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1336,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1337,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1341,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1354,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1357,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1361,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1362,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1367,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1368,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1371,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1375,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1379,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1380,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1386,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1391,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1395,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1401,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1409,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1413,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1420,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1421,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1427,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1428,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1433,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1437,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1440,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1444,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1458,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1464,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1465,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1467,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1468,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1471,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1476,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1483,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1484,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1485,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1490,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1491,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1496,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1497,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1503,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1504,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1506,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1509,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1510,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1513,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1515,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1519,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1523,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1530,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1531,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1533,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1537,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1538,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1540,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1542,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1543,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1555,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1556,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1559,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1561,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1562,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1564,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1568,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1570,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1574,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1575,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1580,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1591,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1593,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1601,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1603,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1609,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1611,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1613,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1618,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1622,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1624,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1625,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1631,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1635,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1637,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1640,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1645,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1648,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1659,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1675,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1680,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1684,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1688,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1694,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1699,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1702,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1704,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1705,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1712,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1716,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1731,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1735,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1744,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1749,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1750,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1754,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1758,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1759,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1760,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1761,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1762,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1763,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1766,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1782,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1787,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1792,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1797,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1798,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1799,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1810,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1820,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1822,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1828,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1829,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1831,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1834,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1836,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1841,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1844,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1846,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1847,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1851,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1857,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1859,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1864,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1870,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1884,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1888,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1893,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1896,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1901,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1905,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1907,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1908,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1911,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1916,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1921,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1923,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1924,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1928,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1932,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1935,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1936,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1937,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1940,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1952,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1961,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1968,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1971,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1972,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1974,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1977,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1980,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1983,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1984,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1988,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1991,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1993,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_1994,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2001,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2008,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2010,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2011,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2018,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2021,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2022,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2023,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2027,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2032,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2035,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2038,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2039,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2044,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2052,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2057,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2061,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2064,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2068,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2073,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2076,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2077,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2088,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2089,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2094,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2098,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2105,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2106,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2107,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2109,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2110,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2126,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2130,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2136,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2137,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2145,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2151,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2152,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2159,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2162,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2164,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2171,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2172,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2173,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2175,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2177,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2180,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2181,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2183,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2188,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2190,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2192,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2194,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2198,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2200,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2203,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2215,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2226,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2227,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2230,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2231,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2248,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2251,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2252,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2266,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2272,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2279,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2280,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2288,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2292,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2295,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2296,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2297,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2301,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2304,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2310,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2313,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2317,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2321,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2322,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2324,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2325,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2331,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2333,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2337,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2347,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2360,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2365,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2367,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2370,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2385,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2394,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2399,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2409,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2413,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2416,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2418,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2424,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2435,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2436,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2441,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2445,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2446,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2452,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2460,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2469,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2471,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2473,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2478,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2479,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2480,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2482,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2483,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2485,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2486,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2487,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2491,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2500,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2508,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2510,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2518,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2521,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2523,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2528,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2535,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2536,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2540,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2541,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2543,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2552,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2553,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2555,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2565,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2571,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2572,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2578,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2584,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2587,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2591,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2594,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2596,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2599,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2603,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2608,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2611,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2623,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2628,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2631,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2639,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2641,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2644,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2648,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2652,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2653,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2656,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2657,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2668,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2673,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2678,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2679,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2683,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2685,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2687,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2692,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2693,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2697,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2701,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2720,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2721,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2728,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2731,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2732,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2733,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2735,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2736,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2738,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2742,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2744,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2746,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2751,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2754,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2755,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2757,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2758,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2762,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2766,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2769,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2770,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2773,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2777,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2778,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2779,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2780,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2781,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2785,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2788,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2789,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2793,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2797,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2799,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2801,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2812,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2815,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2817,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2820,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2821,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2831,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2832,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2833,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2837,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2839,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2857,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2863,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2864,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2869,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2870,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2877,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2878,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2886,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2888,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2890,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2891,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2893,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2899,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2902,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2904,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2907,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2908,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2919,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2920,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2928,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2934,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2938,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2940,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2944,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2948,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2950,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2955,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2961,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2964,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2970,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2972,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2975,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2986,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2990,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2991,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2992,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2994,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2995,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_2999,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3008,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3010,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3011,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3012,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3016,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3021,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3029,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3031,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3034,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3036,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3039,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3043,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3044,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3045,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3050,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3053,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3056,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3060,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3067,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3068,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3072,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3074,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3076,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3080,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3086,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3087,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3090,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3093,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3099,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3103,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3112,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3131,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3133,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3141,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3144,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3154,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3157,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3164,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3166,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3170,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3173,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3179,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3180,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3184,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3188,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3193,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3198,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3199,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3200,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3205,"['green', 'arrow']",0,1,1,0,0,0
+green_arrow_3210,"['green', 'arrow']",0,1,1,0,0,0
+green_right_1,"['green', 'right']",0,1,0,0,0,1
+green_right_2,"['green', 'right']",0,1,0,0,0,1
+green_right_3,"['green', 'right']",0,1,0,0,0,1
+green_right_4,"['green', 'right']",0,1,0,0,0,1
+green_right_5,"['green', 'right']",0,1,0,0,0,1
+green_right_6,"['green', 'right']",0,1,0,0,0,1
+green_right_7,"['green', 'right']",0,1,0,0,0,1
+green_right_8,"['green', 'right']",0,1,0,0,0,1
+green_right_9,"['green', 'right']",0,1,0,0,0,1
+green_right_10,"['green', 'right']",0,1,0,0,0,1
+green_right_11,"['green', 'right']",0,1,0,0,0,1
+green_right_12,"['green', 'right']",0,1,0,0,0,1
+green_right_13,"['green', 'right']",0,1,0,0,0,1
+green_right_14,"['green', 'right']",0,1,0,0,0,1
+green_right_15,"['green', 'right']",0,1,0,0,0,1
+green_right_16,"['green', 'right']",0,1,0,0,0,1
+green_right_17,"['green', 'right']",0,1,0,0,0,1
+green_right_18,"['green', 'right']",0,1,0,0,0,1
+green_right_19,"['green', 'right']",0,1,0,0,0,1
+green_right_20,"['green', 'right']",0,1,0,0,0,1
+green_right_21,"['green', 'right']",0,1,0,0,0,1
+green_right_22,"['green', 'right']",0,1,0,0,0,1
+green_right_23,"['green', 'right']",0,1,0,0,0,1
+green_right_24,"['green', 'right']",0,1,0,0,0,1
+green_right_25,"['green', 'right']",0,1,0,0,0,1
+green_right_26,"['green', 'right']",0,1,0,0,0,1
+green_right_27,"['green', 'right']",0,1,0,0,0,1
+green_right_28,"['green', 'right']",0,1,0,0,0,1
+green_right_29,"['green', 'right']",0,1,0,0,0,1
+green_right_30,"['green', 'right']",0,1,0,0,0,1
+green_right_31,"['green', 'right']",0,1,0,0,0,1
+green_right_32,"['green', 'right']",0,1,0,0,0,1
+green_right_33,"['green', 'right']",0,1,0,0,0,1
+green_right_34,"['green', 'right']",0,1,0,0,0,1
+green_right_35,"['green', 'right']",0,1,0,0,0,1
+green_right_36,"['green', 'right']",0,1,0,0,0,1
+green_right_37,"['green', 'right']",0,1,0,0,0,1
+green_right_38,"['green', 'right']",0,1,0,0,0,1
+green_right_39,"['green', 'right']",0,1,0,0,0,1
+green_right_40,"['green', 'right']",0,1,0,0,0,1
+green_right_41,"['green', 'right']",0,1,0,0,0,1
+green_right_42,"['green', 'right']",0,1,0,0,0,1
+green_right_43,"['green', 'right']",0,1,0,0,0,1
+green_right_44,"['green', 'right']",0,1,0,0,0,1
+green_right_45,"['green', 'right']",0,1,0,0,0,1
+green_right_46,"['green', 'right']",0,1,0,0,0,1
+green_right_47,"['green', 'right']",0,1,0,0,0,1
+green_right_48,"['green', 'right']",0,1,0,0,0,1
+green_right_49,"['green', 'right']",0,1,0,0,0,1
+green_right_50,"['green', 'right']",0,1,0,0,0,1
+green_right_51,"['green', 'right']",0,1,0,0,0,1
+green_right_52,"['green', 'right']",0,1,0,0,0,1
+green_right_53,"['green', 'right']",0,1,0,0,0,1
+green_right_54,"['green', 'right']",0,1,0,0,0,1
+green_right_55,"['green', 'right']",0,1,0,0,0,1
+green_right_56,"['green', 'right']",0,1,0,0,0,1
+green_right_57,"['green', 'right']",0,1,0,0,0,1
+green_yellow_1,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_2,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_3,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_4,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_5,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_6,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_7,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_8,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_9,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_10,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_11,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_12,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_13,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_14,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_15,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_16,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_17,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_18,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_19,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_20,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_21,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_22,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_23,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_24,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_25,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_26,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_27,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_28,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_29,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_30,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_31,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_32,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_33,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_34,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_35,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_36,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_37,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_38,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_39,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_40,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_41,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_42,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_43,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_44,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_45,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_46,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_47,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_48,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_49,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_50,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_51,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_52,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_53,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_54,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_55,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_56,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_57,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_58,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_59,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_60,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_61,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_62,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_63,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_64,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_65,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_66,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_67,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_68,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_69,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_70,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_71,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_72,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_73,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_74,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_75,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_76,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_77,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_78,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_79,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_80,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_81,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_82,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_83,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_84,"['green', 'yellow']",0,1,0,0,1,0
+green_yellow_85,"['green', 'yellow']",0,1,0,0,1,0
+red_53,['red'],0,0,0,1,0,0
+red_76,['red'],0,0,0,1,0,0
+red_115,['red'],0,0,0,1,0,0
+red_141,['red'],0,0,0,1,0,0
+red_181,['red'],0,0,0,1,0,0
+red_229,['red'],0,0,0,1,0,0
+red_239,['red'],0,0,0,1,0,0
+red_294,['red'],0,0,0,1,0,0
+red_299,['red'],0,0,0,1,0,0
+red_326,['red'],0,0,0,1,0,0
+red_335,['red'],0,0,0,1,0,0
+red_371,['red'],0,0,0,1,0,0
+red_373,['red'],0,0,0,1,0,0
+red_409,['red'],0,0,0,1,0,0
+red_413,['red'],0,0,0,1,0,0
+red_428,['red'],0,0,0,1,0,0
+red_431,['red'],0,0,0,1,0,0
+red_436,['red'],0,0,0,1,0,0
+red_453,['red'],0,0,0,1,0,0
+red_482,['red'],0,0,0,1,0,0
+red_486,['red'],0,0,0,1,0,0
+red_524,['red'],0,0,0,1,0,0
+red_535,['red'],0,0,0,1,0,0
+red_536,['red'],0,0,0,1,0,0
+red_586,['red'],0,0,0,1,0,0
+red_606,['red'],0,0,0,1,0,0
+red_620,['red'],0,0,0,1,0,0
+red_664,['red'],0,0,0,1,0,0
+red_688,['red'],0,0,0,1,0,0
+red_752,['red'],0,0,0,1,0,0
+red_801,['red'],0,0,0,1,0,0
+red_814,['red'],0,0,0,1,0,0
+red_847,['red'],0,0,0,1,0,0
+red_850,['red'],0,0,0,1,0,0
+red_851,['red'],0,0,0,1,0,0
+red_873,['red'],0,0,0,1,0,0
+red_876,['red'],0,0,0,1,0,0
+red_888,['red'],0,0,0,1,0,0
+red_927,['red'],0,0,0,1,0,0
+red_935,['red'],0,0,0,1,0,0
+red_953,['red'],0,0,0,1,0,0
+red_996,['red'],0,0,0,1,0,0
+red_1045,['red'],0,0,0,1,0,0
+red_1064,['red'],0,0,0,1,0,0
+red_1072,['red'],0,0,0,1,0,0
+red_1074,['red'],0,0,0,1,0,0
+red_1119,['red'],0,0,0,1,0,0
+red_1129,['red'],0,0,0,1,0,0
+red_1135,['red'],0,0,0,1,0,0
+red_1188,['red'],0,0,0,1,0,0
+red_1194,['red'],0,0,0,1,0,0
+red_1209,['red'],0,0,0,1,0,0
+red_1218,['red'],0,0,0,1,0,0
+red_1274,['red'],0,0,0,1,0,0
+red_1287,['red'],0,0,0,1,0,0
+red_1318,['red'],0,0,0,1,0,0
+red_1326,['red'],0,0,0,1,0,0
+red_1350,['red'],0,0,0,1,0,0
+red_1354,['red'],0,0,0,1,0,0
+red_1368,['red'],0,0,0,1,0,0
+red_1428,['red'],0,0,0,1,0,0
+red_1430,['red'],0,0,0,1,0,0
+red_1439,['red'],0,0,0,1,0,0
+red_1445,['red'],0,0,0,1,0,0
+red_1448,['red'],0,0,0,1,0,0
+red_1477,['red'],0,0,0,1,0,0
+red_1479,['red'],0,0,0,1,0,0
+red_1486,['red'],0,0,0,1,0,0
+red_1500,['red'],0,0,0,1,0,0
+red_1541,['red'],0,0,0,1,0,0
+red_1554,['red'],0,0,0,1,0,0
+red_1572,['red'],0,0,0,1,0,0
+red_1579,['red'],0,0,0,1,0,0
+red_1622,['red'],0,0,0,1,0,0
+red_1637,['red'],0,0,0,1,0,0
+red_1654,['red'],0,0,0,1,0,0
+red_1655,['red'],0,0,0,1,0,0
+red_1657,['red'],0,0,0,1,0,0
+red_1711,['red'],0,0,0,1,0,0
+red_1766,['red'],0,0,0,1,0,0
+red_1793,['red'],0,0,0,1,0,0
+red_1799,['red'],0,0,0,1,0,0
+red_1802,['red'],0,0,0,1,0,0
+red_1809,['red'],0,0,0,1,0,0
+red_1904,['red'],0,0,0,1,0,0
+red_1916,['red'],0,0,0,1,0,0
+red_1944,['red'],0,0,0,1,0,0
+red_1970,['red'],0,0,0,1,0,0
+red_1977,['red'],0,0,0,1,0,0
+red_2003,['red'],0,0,0,1,0,0
+red_2059,['red'],0,0,0,1,0,0
+red_2065,['red'],0,0,0,1,0,0
+red_2066,['red'],0,0,0,1,0,0
+red_2078,['red'],0,0,0,1,0,0
+red_2097,['red'],0,0,0,1,0,0
+red_2108,['red'],0,0,0,1,0,0
+red_2109,['red'],0,0,0,1,0,0
+red_2130,['red'],0,0,0,1,0,0
+red_2225,['red'],0,0,0,1,0,0
+red_2274,['red'],0,0,0,1,0,0
+red_2278,['red'],0,0,0,1,0,0
+red_2280,['red'],0,0,0,1,0,0
+red_2292,['red'],0,0,0,1,0,0
+red_2308,['red'],0,0,0,1,0,0
+red_2309,['red'],0,0,0,1,0,0
+red_2324,['red'],0,0,0,1,0,0
+red_2332,['red'],0,0,0,1,0,0
+red_2370,['red'],0,0,0,1,0,0
+red_2372,['red'],0,0,0,1,0,0
+red_2441,['red'],0,0,0,1,0,0
+red_2496,['red'],0,0,0,1,0,0
+red_2502,['red'],0,0,0,1,0,0
+red_2520,['red'],0,0,0,1,0,0
+red_2523,['red'],0,0,0,1,0,0
+red_2557,['red'],0,0,0,1,0,0
+red_2562,['red'],0,0,0,1,0,0
+red_2563,['red'],0,0,0,1,0,0
+red_2595,['red'],0,0,0,1,0,0
+red_2613,['red'],0,0,0,1,0,0
+red_2622,['red'],0,0,0,1,0,0
+red_2653,['red'],0,0,0,1,0,0
+red_2654,['red'],0,0,0,1,0,0
+red_2681,['red'],0,0,0,1,0,0
+red_2711,['red'],0,0,0,1,0,0
+red_2776,['red'],0,0,0,1,0,0
+red_2815,['red'],0,0,0,1,0,0
+red_2837,['red'],0,0,0,1,0,0
+red_2856,['red'],0,0,0,1,0,0
+red_2861,['red'],0,0,0,1,0,0
+red_2877,['red'],0,0,0,1,0,0
+red_2890,['red'],0,0,0,1,0,0
+red_2943,['red'],0,0,0,1,0,0
+red_2949,['red'],0,0,0,1,0,0
+red_2964,['red'],0,0,0,1,0,0
+red_3052,['red'],0,0,0,1,0,0
+red_3070,['red'],0,0,0,1,0,0
+red_3092,['red'],0,0,0,1,0,0
+red_3097,['red'],0,0,0,1,0,0
+red_3102,['red'],0,0,0,1,0,0
+red_3106,['red'],0,0,0,1,0,0
+red_3128,['red'],0,0,0,1,0,0
+red_3133,['red'],0,0,0,1,0,0
+red_3150,['red'],0,0,0,1,0,0
+red_3224,['red'],0,0,0,1,0,0
+red_3236,['red'],0,0,0,1,0,0
+red_3249,['red'],0,0,0,1,0,0
+red_3259,['red'],0,0,0,1,0,0
+red_3280,['red'],0,0,0,1,0,0
+red_3282,['red'],0,0,0,1,0,0
+red_3348,['red'],0,0,0,1,0,0
+red_3376,['red'],0,0,0,1,0,0
+red_3383,['red'],0,0,0,1,0,0
+red_3399,['red'],0,0,0,1,0,0
+red_3409,['red'],0,0,0,1,0,0
+red_3444,['red'],0,0,0,1,0,0
+red_3449,['red'],0,0,0,1,0,0
+red_3472,['red'],0,0,0,1,0,0
+red_3473,['red'],0,0,0,1,0,0
+red_3487,['red'],0,0,0,1,0,0
+red_3504,['red'],0,0,0,1,0,0
+red_3509,['red'],0,0,0,1,0,0
+red_3537,['red'],0,0,0,1,0,0
+red_3547,['red'],0,0,0,1,0,0
+red_3578,['red'],0,0,0,1,0,0
+red_3622,['red'],0,0,0,1,0,0
+red_3666,['red'],0,0,0,1,0,0
+red_3670,['red'],0,0,0,1,0,0
+red_3680,['red'],0,0,0,1,0,0
+red_3692,['red'],0,0,0,1,0,0
+red_3695,['red'],0,0,0,1,0,0
+red_3696,['red'],0,0,0,1,0,0
+red_3728,['red'],0,0,0,1,0,0
+red_3777,['red'],0,0,0,1,0,0
+red_3812,['red'],0,0,0,1,0,0
+red_3825,['red'],0,0,0,1,0,0
+red_3830,['red'],0,0,0,1,0,0
+red_3879,['red'],0,0,0,1,0,0
+red_3887,['red'],0,0,0,1,0,0
+red_3888,['red'],0,0,0,1,0,0
+red_3897,['red'],0,0,0,1,0,0
+red_3899,['red'],0,0,0,1,0,0
+red_3910,['red'],0,0,0,1,0,0
+red_3941,['red'],0,0,0,1,0,0
+red_3966,['red'],0,0,0,1,0,0
+red_3997,['red'],0,0,0,1,0,0
+red_4004,['red'],0,0,0,1,0,0
+red_4036,['red'],0,0,0,1,0,0
+red_4055,['red'],0,0,0,1,0,0
+red_4056,['red'],0,0,0,1,0,0
+red_4058,['red'],0,0,0,1,0,0
+red_4120,['red'],0,0,0,1,0,0
+red_4129,['red'],0,0,0,1,0,0
+red_4133,['red'],0,0,0,1,0,0
+red_4141,['red'],0,0,0,1,0,0
+red_4191,['red'],0,0,0,1,0,0
+red_4201,['red'],0,0,0,1,0,0
+red_4212,['red'],0,0,0,1,0,0
+red_4213,['red'],0,0,0,1,0,0
+red_4233,['red'],0,0,0,1,0,0
+red_4270,['red'],0,0,0,1,0,0
+red_4290,['red'],0,0,0,1,0,0
+red_4291,['red'],0,0,0,1,0,0
+red_4351,['red'],0,0,0,1,0,0
+red_4356,['red'],0,0,0,1,0,0
+red_4367,['red'],0,0,0,1,0,0
+red_4372,['red'],0,0,0,1,0,0
+red_4392,['red'],0,0,0,1,0,0
+red_4396,['red'],0,0,0,1,0,0
+red_4447,['red'],0,0,0,1,0,0
+red_4460,['red'],0,0,0,1,0,0
+red_4470,['red'],0,0,0,1,0,0
+red_4488,['red'],0,0,0,1,0,0
+red_4489,['red'],0,0,0,1,0,0
+red_4490,['red'],0,0,0,1,0,0
+red_4498,['red'],0,0,0,1,0,0
+red_4520,['red'],0,0,0,1,0,0
+red_4528,['red'],0,0,0,1,0,0
+red_4557,['red'],0,0,0,1,0,0
+red_4582,['red'],0,0,0,1,0,0
+red_4598,['red'],0,0,0,1,0,0
+red_4605,['red'],0,0,0,1,0,0
+red_4607,['red'],0,0,0,1,0,0
+red_4624,['red'],0,0,0,1,0,0
+red_4648,['red'],0,0,0,1,0,0
+red_4653,['red'],0,0,0,1,0,0
+red_4694,['red'],0,0,0,1,0,0
+red_4710,['red'],0,0,0,1,0,0
+red_4720,['red'],0,0,0,1,0,0
+red_4759,['red'],0,0,0,1,0,0
+red_4770,['red'],0,0,0,1,0,0
+red_4777,['red'],0,0,0,1,0,0
+red_4847,['red'],0,0,0,1,0,0
+red_4865,['red'],0,0,0,1,0,0
+red_4888,['red'],0,0,0,1,0,0
+red_4916,['red'],0,0,0,1,0,0
+red_4920,['red'],0,0,0,1,0,0
+red_4930,['red'],0,0,0,1,0,0
+red_4944,['red'],0,0,0,1,0,0
+red_4970,['red'],0,0,0,1,0,0
+red_4972,['red'],0,0,0,1,0,0
+red_4973,['red'],0,0,0,1,0,0
+red_4978,['red'],0,0,0,1,0,0
+red_4981,['red'],0,0,0,1,0,0
+red_4990,['red'],0,0,0,1,0,0
+red_4999,['red'],0,0,0,1,0,0
+red_5049,['red'],0,0,0,1,0,0
+red_5061,['red'],0,0,0,1,0,0
+red_5085,['red'],0,0,0,1,0,0
+red_5103,['red'],0,0,0,1,0,0
+red_5144,['red'],0,0,0,1,0,0
+red_5187,['red'],0,0,0,1,0,0
+red_5188,['red'],0,0,0,1,0,0
+red_5193,['red'],0,0,0,1,0,0
+red_5194,['red'],0,0,0,1,0,0
+red_5207,['red'],0,0,0,1,0,0
+red_5222,['red'],0,0,0,1,0,0
+red_5233,['red'],0,0,0,1,0,0
+red_5235,['red'],0,0,0,1,0,0
+red_5240,['red'],0,0,0,1,0,0
+red_5250,['red'],0,0,0,1,0,0
+red_5284,['red'],0,0,0,1,0,0
+red_5299,['red'],0,0,0,1,0,0
+red_5313,['red'],0,0,0,1,0,0
+red_5320,['red'],0,0,0,1,0,0
+red_5348,['red'],0,0,0,1,0,0
+red_5380,['red'],0,0,0,1,0,0
+red_5398,['red'],0,0,0,1,0,0
+red_5408,['red'],0,0,0,1,0,0
+red_5415,['red'],0,0,0,1,0,0
+red_5456,['red'],0,0,0,1,0,0
+red_5466,['red'],0,0,0,1,0,0
+red_5468,['red'],0,0,0,1,0,0
+red_5496,['red'],0,0,0,1,0,0
+red_5503,['red'],0,0,0,1,0,0
+red_5569,['red'],0,0,0,1,0,0
+red_5585,['red'],0,0,0,1,0,0
+red_5596,['red'],0,0,0,1,0,0
+red_5601,['red'],0,0,0,1,0,0
+red_5609,['red'],0,0,0,1,0,0
+red_5655,['red'],0,0,0,1,0,0
+red_5666,['red'],0,0,0,1,0,0
+red_5718,['red'],0,0,0,1,0,0
+red_5750,['red'],0,0,0,1,0,0
+red_5774,['red'],0,0,0,1,0,0
+red_5788,['red'],0,0,0,1,0,0
+red_5830,['red'],0,0,0,1,0,0
+red_5833,['red'],0,0,0,1,0,0
+red_5838,['red'],0,0,0,1,0,0
+red_5847,['red'],0,0,0,1,0,0
+red_5854,['red'],0,0,0,1,0,0
+red_5867,['red'],0,0,0,1,0,0
+red_5871,['red'],0,0,0,1,0,0
+red_5918,['red'],0,0,0,1,0,0
+red_5922,['red'],0,0,0,1,0,0
+red_5968,['red'],0,0,0,1,0,0
+red_5973,['red'],0,0,0,1,0,0
+red_5999,['red'],0,0,0,1,0,0
+red_6000,['red'],0,0,0,1,0,0
+red_6019,['red'],0,0,0,1,0,0
+red_6027,['red'],0,0,0,1,0,0
+red_6032,['red'],0,0,0,1,0,0
+red_6037,['red'],0,0,0,1,0,0
+red_6067,['red'],0,0,0,1,0,0
+red_6074,['red'],0,0,0,1,0,0
+red_6079,['red'],0,0,0,1,0,0
+red_6095,['red'],0,0,0,1,0,0
+red_6097,['red'],0,0,0,1,0,0
+red_6114,['red'],0,0,0,1,0,0
+red_6140,['red'],0,0,0,1,0,0
+red_6148,['red'],0,0,0,1,0,0
+red_6161,['red'],0,0,0,1,0,0
+red_6191,['red'],0,0,0,1,0,0
+red_6200,['red'],0,0,0,1,0,0
+red_6208,['red'],0,0,0,1,0,0
+red_6231,['red'],0,0,0,1,0,0
+red_6232,['red'],0,0,0,1,0,0
+red_6256,['red'],0,0,0,1,0,0
+red_6267,['red'],0,0,0,1,0,0
+red_6279,['red'],0,0,0,1,0,0
+red_6314,['red'],0,0,0,1,0,0
+red_6354,['red'],0,0,0,1,0,0
+red_6385,['red'],0,0,0,1,0,0
+red_6399,['red'],0,0,0,1,0,0
+red_6422,['red'],0,0,0,1,0,0
+red_6452,['red'],0,0,0,1,0,0
+red_6455,['red'],0,0,0,1,0,0
+red_6492,['red'],0,0,0,1,0,0
+red_6493,['red'],0,0,0,1,0,0
+red_6497,['red'],0,0,0,1,0,0
+red_6534,['red'],0,0,0,1,0,0
+red_6546,['red'],0,0,0,1,0,0
+red_6548,['red'],0,0,0,1,0,0
+red_6556,['red'],0,0,0,1,0,0
+red_6578,['red'],0,0,0,1,0,0
+red_6600,['red'],0,0,0,1,0,0
+red_6616,['red'],0,0,0,1,0,0
+red_6630,['red'],0,0,0,1,0,0
+red_6635,['red'],0,0,0,1,0,0
+red_6637,['red'],0,0,0,1,0,0
+red_6639,['red'],0,0,0,1,0,0
+red_6725,['red'],0,0,0,1,0,0
+red_6747,['red'],0,0,0,1,0,0
+red_6802,['red'],0,0,0,1,0,0
+red_6821,['red'],0,0,0,1,0,0
+red_6843,['red'],0,0,0,1,0,0
+red_6845,['red'],0,0,0,1,0,0
+red_6846,['red'],0,0,0,1,0,0
+red_6887,['red'],0,0,0,1,0,0
+red_6920,['red'],0,0,0,1,0,0
+red_6921,['red'],0,0,0,1,0,0
+red_6928,['red'],0,0,0,1,0,0
+red_6940,['red'],0,0,0,1,0,0
+red_6954,['red'],0,0,0,1,0,0
+red_6982,['red'],0,0,0,1,0,0
+red_6983,['red'],0,0,0,1,0,0
+red_6988,['red'],0,0,0,1,0,0
+red_7003,['red'],0,0,0,1,0,0
+red_7005,['red'],0,0,0,1,0,0
+red_7029,['red'],0,0,0,1,0,0
+red_7030,['red'],0,0,0,1,0,0
+red_7102,['red'],0,0,0,1,0,0
+red_7104,['red'],0,0,0,1,0,0
+red_7110,['red'],0,0,0,1,0,0
+red_7155,['red'],0,0,0,1,0,0
+red_7184,['red'],0,0,0,1,0,0
+red_7196,['red'],0,0,0,1,0,0
+red_7225,['red'],0,0,0,1,0,0
+red_7250,['red'],0,0,0,1,0,0
+red_7262,['red'],0,0,0,1,0,0
+red_7323,['red'],0,0,0,1,0,0
+red_7334,['red'],0,0,0,1,0,0
+red_7339,['red'],0,0,0,1,0,0
+red_7340,['red'],0,0,0,1,0,0
+red_7351,['red'],0,0,0,1,0,0
+red_7369,['red'],0,0,0,1,0,0
+red_7380,['red'],0,0,0,1,0,0
+red_7426,['red'],0,0,0,1,0,0
+red_7429,['red'],0,0,0,1,0,0
+red_7516,['red'],0,0,0,1,0,0
+red_7538,['red'],0,0,0,1,0,0
+red_7539,['red'],0,0,0,1,0,0
+red_7547,['red'],0,0,0,1,0,0
+red_7616,['red'],0,0,0,1,0,0
+red_7617,['red'],0,0,0,1,0,0
+red_7651,['red'],0,0,0,1,0,0
+red_7662,['red'],0,0,0,1,0,0
+red_7680,['red'],0,0,0,1,0,0
+red_7713,['red'],0,0,0,1,0,0
+red_7715,['red'],0,0,0,1,0,0
+red_7732,['red'],0,0,0,1,0,0
+red_7738,['red'],0,0,0,1,0,0
+red_7766,['red'],0,0,0,1,0,0
+red_7777,['red'],0,0,0,1,0,0
+red_7787,['red'],0,0,0,1,0,0
+red_7805,['red'],0,0,0,1,0,0
+red_7816,['red'],0,0,0,1,0,0
+red_7832,['red'],0,0,0,1,0,0
+red_7836,['red'],0,0,0,1,0,0
+red_7861,['red'],0,0,0,1,0,0
+red_7869,['red'],0,0,0,1,0,0
+red_7878,['red'],0,0,0,1,0,0
+red_7880,['red'],0,0,0,1,0,0
+red_7922,['red'],0,0,0,1,0,0
+red_7927,['red'],0,0,0,1,0,0
+red_7933,['red'],0,0,0,1,0,0
+red_7937,['red'],0,0,0,1,0,0
+red_7960,['red'],0,0,0,1,0,0
+red_7976,['red'],0,0,0,1,0,0
+red_8000,['red'],0,0,0,1,0,0
+red_8002,['red'],0,0,0,1,0,0
+red_8038,['red'],0,0,0,1,0,0
+red_8056,['red'],0,0,0,1,0,0
+red_8061,['red'],0,0,0,1,0,0
+red_8106,['red'],0,0,0,1,0,0
+red_8132,['red'],0,0,0,1,0,0
+red_8140,['red'],0,0,0,1,0,0
+red_8142,['red'],0,0,0,1,0,0
+red_8148,['red'],0,0,0,1,0,0
+red_8170,['red'],0,0,0,1,0,0
+red_8183,['red'],0,0,0,1,0,0
+red_8212,['red'],0,0,0,1,0,0
+red_8219,['red'],0,0,0,1,0,0
+red_8223,['red'],0,0,0,1,0,0
+red_8249,['red'],0,0,0,1,0,0
+red_8277,['red'],0,0,0,1,0,0
+red_8296,['red'],0,0,0,1,0,0
+red_8299,['red'],0,0,0,1,0,0
+red_8309,['red'],0,0,0,1,0,0
+red_8338,['red'],0,0,0,1,0,0
+red_8347,['red'],0,0,0,1,0,0
+red_8353,['red'],0,0,0,1,0,0
+red_8367,['red'],0,0,0,1,0,0
+red_8389,['red'],0,0,0,1,0,0
+red_8406,['red'],0,0,0,1,0,0
+red_8425,['red'],0,0,0,1,0,0
+red_8433,['red'],0,0,0,1,0,0
+red_8444,['red'],0,0,0,1,0,0
+red_8513,['red'],0,0,0,1,0,0
+red_8542,['red'],0,0,0,1,0,0
+red_8608,['red'],0,0,0,1,0,0
+red_8609,['red'],0,0,0,1,0,0
+red_8611,['red'],0,0,0,1,0,0
+red_8618,['red'],0,0,0,1,0,0
+red_8641,['red'],0,0,0,1,0,0
+red_8646,['red'],0,0,0,1,0,0
+red_8685,['red'],0,0,0,1,0,0
+red_8761,['red'],0,0,0,1,0,0
+red_8786,['red'],0,0,0,1,0,0
+red_8813,['red'],0,0,0,1,0,0
+red_8852,['red'],0,0,0,1,0,0
+red_8863,['red'],0,0,0,1,0,0
+red_8900,['red'],0,0,0,1,0,0
+red_8913,['red'],0,0,0,1,0,0
+red_8915,['red'],0,0,0,1,0,0
+red_8926,['red'],0,0,0,1,0,0
+red_8936,['red'],0,0,0,1,0,0
+red_8954,['red'],0,0,0,1,0,0
+red_8958,['red'],0,0,0,1,0,0
+red_8993,['red'],0,0,0,1,0,0
+red_8997,['red'],0,0,0,1,0,0
+red_9006,['red'],0,0,0,1,0,0
+red_9025,['red'],0,0,0,1,0,0
+red_9032,['red'],0,0,0,1,0,0
+red_9039,['red'],0,0,0,1,0,0
+red_9050,['red'],0,0,0,1,0,0
+red_9080,['red'],0,0,0,1,0,0
+red_9102,['red'],0,0,0,1,0,0
+red_9176,['red'],0,0,0,1,0,0
+red_9212,['red'],0,0,0,1,0,0
+red_9213,['red'],0,0,0,1,0,0
+red_9218,['red'],0,0,0,1,0,0
+red_9241,['red'],0,0,0,1,0,0
+red_9252,['red'],0,0,0,1,0,0
+red_9268,['red'],0,0,0,1,0,0
+red_9280,['red'],0,0,0,1,0,0
+red_9286,['red'],0,0,0,1,0,0
+red_9296,['red'],0,0,0,1,0,0
+red_9301,['red'],0,0,0,1,0,0
+red_9312,['red'],0,0,0,1,0,0
+red_9321,['red'],0,0,0,1,0,0
+red_9330,['red'],0,0,0,1,0,0
+red_9374,['red'],0,0,0,1,0,0
+red_9400,['red'],0,0,0,1,0,0
+red_9425,['red'],0,0,0,1,0,0
+red_9461,['red'],0,0,0,1,0,0
+red_9463,['red'],0,0,0,1,0,0
+red_9464,['red'],0,0,0,1,0,0
+red_9501,['red'],0,0,0,1,0,0
+red_9504,['red'],0,0,0,1,0,0
+red_9536,['red'],0,0,0,1,0,0
+red_9576,['red'],0,0,0,1,0,0
+red_9600,['red'],0,0,0,1,0,0
+red_9605,['red'],0,0,0,1,0,0
+red_9616,['red'],0,0,0,1,0,0
+red_9651,['red'],0,0,0,1,0,0
+red_9696,['red'],0,0,0,1,0,0
+red_9757,['red'],0,0,0,1,0,0
+red_9803,['red'],0,0,0,1,0,0
+red_9835,['red'],0,0,0,1,0,0
+red_9840,['red'],0,0,0,1,0,0
+red_9877,['red'],0,0,0,1,0,0
+red_9901,['red'],0,0,0,1,0,0
+red_9936,['red'],0,0,0,1,0,0
+red_9940,['red'],0,0,0,1,0,0
+red_9944,['red'],0,0,0,1,0,0
+red_10017,['red'],0,0,0,1,0,0
+red_10021,['red'],0,0,0,1,0,0
+red_10024,['red'],0,0,0,1,0,0
+red_10038,['red'],0,0,0,1,0,0
+red_10043,['red'],0,0,0,1,0,0
+red_10062,['red'],0,0,0,1,0,0
+red_10097,['red'],0,0,0,1,0,0
+red_10120,['red'],0,0,0,1,0,0
+red_10133,['red'],0,0,0,1,0,0
+red_10146,['red'],0,0,0,1,0,0
+red_10217,['red'],0,0,0,1,0,0
+red_10310,['red'],0,0,0,1,0,0
+red_10362,['red'],0,0,0,1,0,0
+red_10399,['red'],0,0,0,1,0,0
+red_10500,['red'],0,0,0,1,0,0
+red_10584,['red'],0,0,0,1,0,0
+red_10608,['red'],0,0,0,1,0,0
+red_10618,['red'],0,0,0,1,0,0
+red_10628,['red'],0,0,0,1,0,0
+red_10641,['red'],0,0,0,1,0,0
+red_10663,['red'],0,0,0,1,0,0
+red_10664,['red'],0,0,0,1,0,0
+red_10672,['red'],0,0,0,1,0,0
+red_10689,['red'],0,0,0,1,0,0
+red_10693,['red'],0,0,0,1,0,0
+red_10697,['red'],0,0,0,1,0,0
+red_10720,['red'],0,0,0,1,0,0
+red_10733,['red'],0,0,0,1,0,0
+red_10771,['red'],0,0,0,1,0,0
+red_10772,['red'],0,0,0,1,0,0
+red_10775,['red'],0,0,0,1,0,0
+red_10799,['red'],0,0,0,1,0,0
+red_10812,['red'],0,0,0,1,0,0
+red_10837,['red'],0,0,0,1,0,0
+red_10844,['red'],0,0,0,1,0,0
+red_10848,['red'],0,0,0,1,0,0
+red_10888,['red'],0,0,0,1,0,0
+red_10911,['red'],0,0,0,1,0,0
+red_10920,['red'],0,0,0,1,0,0
+red_10966,['red'],0,0,0,1,0,0
+red_11012,['red'],0,0,0,1,0,0
+red_11029,['red'],0,0,0,1,0,0
+red_11037,['red'],0,0,0,1,0,0
+red_11061,['red'],0,0,0,1,0,0
+red_11065,['red'],0,0,0,1,0,0
+red_11075,['red'],0,0,0,1,0,0
+red_11094,['red'],0,0,0,1,0,0
+red_11106,['red'],0,0,0,1,0,0
+red_11119,['red'],0,0,0,1,0,0
+red_11131,['red'],0,0,0,1,0,0
+red_11138,['red'],0,0,0,1,0,0
+red_11146,['red'],0,0,0,1,0,0
+red_11147,['red'],0,0,0,1,0,0
+red_11191,['red'],0,0,0,1,0,0
+red_11198,['red'],0,0,0,1,0,0
+red_11235,['red'],0,0,0,1,0,0
+red_11271,['red'],0,0,0,1,0,0
+red_11293,['red'],0,0,0,1,0,0
+red_11304,['red'],0,0,0,1,0,0
+red_11313,['red'],0,0,0,1,0,0
+red_11368,['red'],0,0,0,1,0,0
+red_11373,['red'],0,0,0,1,0,0
+red_11378,['red'],0,0,0,1,0,0
+red_11397,['red'],0,0,0,1,0,0
+red_11398,['red'],0,0,0,1,0,0
+red_11436,['red'],0,0,0,1,0,0
+red_11446,['red'],0,0,0,1,0,0
+red_11469,['red'],0,0,0,1,0,0
+red_11470,['red'],0,0,0,1,0,0
+red_11473,['red'],0,0,0,1,0,0
+red_11474,['red'],0,0,0,1,0,0
+red_11511,['red'],0,0,0,1,0,0
+red_11516,['red'],0,0,0,1,0,0
+red_11549,['red'],0,0,0,1,0,0
+red_11630,['red'],0,0,0,1,0,0
+red_11638,['red'],0,0,0,1,0,0
+red_11645,['red'],0,0,0,1,0,0
+red_11663,['red'],0,0,0,1,0,0
+red_11714,['red'],0,0,0,1,0,0
+red_11726,['red'],0,0,0,1,0,0
+red_11752,['red'],0,0,0,1,0,0
+red_11769,['red'],0,0,0,1,0,0
+red_11791,['red'],0,0,0,1,0,0
+red_11792,['red'],0,0,0,1,0,0
+red_11795,['red'],0,0,0,1,0,0
+red_11803,['red'],0,0,0,1,0,0
+red_11831,['red'],0,0,0,1,0,0
+red_11888,['red'],0,0,0,1,0,0
+red_11893,['red'],0,0,0,1,0,0
+red_11899,['red'],0,0,0,1,0,0
+red_11917,['red'],0,0,0,1,0,0
+red_11932,['red'],0,0,0,1,0,0
+red_11947,['red'],0,0,0,1,0,0
+red_11963,['red'],0,0,0,1,0,0
+red_11976,['red'],0,0,0,1,0,0
+red_11979,['red'],0,0,0,1,0,0
+red_12005,['red'],0,0,0,1,0,0
+red_12014,['red'],0,0,0,1,0,0
+red_12093,['red'],0,0,0,1,0,0
+red_12110,['red'],0,0,0,1,0,0
+red_12180,['red'],0,0,0,1,0,0
+red_12184,['red'],0,0,0,1,0,0
+red_12192,['red'],0,0,0,1,0,0
+red_12233,['red'],0,0,0,1,0,0
+red_12242,['red'],0,0,0,1,0,0
+red_12267,['red'],0,0,0,1,0,0
+red_12278,['red'],0,0,0,1,0,0
+red_12299,['red'],0,0,0,1,0,0
+red_12321,['red'],0,0,0,1,0,0
+red_12329,['red'],0,0,0,1,0,0
+red_12338,['red'],0,0,0,1,0,0
+red_12339,['red'],0,0,0,1,0,0
+red_12348,['red'],0,0,0,1,0,0
+red_12355,['red'],0,0,0,1,0,0
+red_12374,['red'],0,0,0,1,0,0
+red_12394,['red'],0,0,0,1,0,0
+red_12422,['red'],0,0,0,1,0,0
+red_12434,['red'],0,0,0,1,0,0
+red_12443,['red'],0,0,0,1,0,0
+red_12504,['red'],0,0,0,1,0,0
+red_12521,['red'],0,0,0,1,0,0
+red_12559,['red'],0,0,0,1,0,0
+red_12592,['red'],0,0,0,1,0,0
+red_12623,['red'],0,0,0,1,0,0
+red_12636,['red'],0,0,0,1,0,0
+red_12658,['red'],0,0,0,1,0,0
+red_12706,['red'],0,0,0,1,0,0
+red_12712,['red'],0,0,0,1,0,0
+red_12727,['red'],0,0,0,1,0,0
+red_12736,['red'],0,0,0,1,0,0
+red_12756,['red'],0,0,0,1,0,0
+red_12773,['red'],0,0,0,1,0,0
+red_12774,['red'],0,0,0,1,0,0
+red_12792,['red'],0,0,0,1,0,0
+red_12806,['red'],0,0,0,1,0,0
+red_12828,['red'],0,0,0,1,0,0
+red_12874,['red'],0,0,0,1,0,0
+red_12914,['red'],0,0,0,1,0,0
+red_12964,['red'],0,0,0,1,0,0
+red_12965,['red'],0,0,0,1,0,0
+red_13018,['red'],0,0,0,1,0,0
+red_13030,['red'],0,0,0,1,0,0
+red_13051,['red'],0,0,0,1,0,0
+red_13059,['red'],0,0,0,1,0,0
+red_13060,['red'],0,0,0,1,0,0
+red_13065,['red'],0,0,0,1,0,0
+red_13076,['red'],0,0,0,1,0,0
+red_13081,['red'],0,0,0,1,0,0
+red_13085,['red'],0,0,0,1,0,0
+red_13114,['red'],0,0,0,1,0,0
+red_13131,['red'],0,0,0,1,0,0
+red_13135,['red'],0,0,0,1,0,0
+red_13147,['red'],0,0,0,1,0,0
+red_13153,['red'],0,0,0,1,0,0
+red_13165,['red'],0,0,0,1,0,0
+red_13181,['red'],0,0,0,1,0,0
+red_13230,['red'],0,0,0,1,0,0
+red_13235,['red'],0,0,0,1,0,0
+red_13240,['red'],0,0,0,1,0,0
+red_13275,['red'],0,0,0,1,0,0
+red_13290,['red'],0,0,0,1,0,0
+red_13297,['red'],0,0,0,1,0,0
+red_13303,['red'],0,0,0,1,0,0
+red_13317,['red'],0,0,0,1,0,0
+red_13336,['red'],0,0,0,1,0,0
+red_13356,['red'],0,0,0,1,0,0
+red_13361,['red'],0,0,0,1,0,0
+red_13382,['red'],0,0,0,1,0,0
+red_13405,['red'],0,0,0,1,0,0
+red_13426,['red'],0,0,0,1,0,0
+red_13454,['red'],0,0,0,1,0,0
+red_13455,['red'],0,0,0,1,0,0
+red_13457,['red'],0,0,0,1,0,0
+red_13469,['red'],0,0,0,1,0,0
+red_13470,['red'],0,0,0,1,0,0
+red_13490,['red'],0,0,0,1,0,0
+red_13516,['red'],0,0,0,1,0,0
+red_13524,['red'],0,0,0,1,0,0
+red_13537,['red'],0,0,0,1,0,0
+red_13562,['red'],0,0,0,1,0,0
+red_13583,['red'],0,0,0,1,0,0
+red_13594,['red'],0,0,0,1,0,0
+red_13607,['red'],0,0,0,1,0,0
+red_13635,['red'],0,0,0,1,0,0
+red_13647,['red'],0,0,0,1,0,0
+red_13650,['red'],0,0,0,1,0,0
+red_13666,['red'],0,0,0,1,0,0
+red_13674,['red'],0,0,0,1,0,0
+red_13678,['red'],0,0,0,1,0,0
+red_13722,['red'],0,0,0,1,0,0
+red_13743,['red'],0,0,0,1,0,0
+red_13766,['red'],0,0,0,1,0,0
+red_13770,['red'],0,0,0,1,0,0
+red_13792,['red'],0,0,0,1,0,0
+red_13816,['red'],0,0,0,1,0,0
+red_13833,['red'],0,0,0,1,0,0
+red_13839,['red'],0,0,0,1,0,0
+red_13840,['red'],0,0,0,1,0,0
+red_13853,['red'],0,0,0,1,0,0
+red_13882,['red'],0,0,0,1,0,0
+red_13915,['red'],0,0,0,1,0,0
+red_14004,['red'],0,0,0,1,0,0
+red_14020,['red'],0,0,0,1,0,0
+red_14043,['red'],0,0,0,1,0,0
+red_14045,['red'],0,0,0,1,0,0
+red_14055,['red'],0,0,0,1,0,0
+red_14070,['red'],0,0,0,1,0,0
+red_14096,['red'],0,0,0,1,0,0
+red_14099,['red'],0,0,0,1,0,0
+red_14121,['red'],0,0,0,1,0,0
+red_14125,['red'],0,0,0,1,0,0
+red_14190,['red'],0,0,0,1,0,0
+red_14193,['red'],0,0,0,1,0,0
+red_14209,['red'],0,0,0,1,0,0
+red_14215,['red'],0,0,0,1,0,0
+red_14232,['red'],0,0,0,1,0,0
+red_14265,['red'],0,0,0,1,0,0
+red_14282,['red'],0,0,0,1,0,0
+red_14316,['red'],0,0,0,1,0,0
+red_14319,['red'],0,0,0,1,0,0
+red_14321,['red'],0,0,0,1,0,0
+red_14329,['red'],0,0,0,1,0,0
+red_14371,['red'],0,0,0,1,0,0
+red_14372,['red'],0,0,0,1,0,0
+red_14380,['red'],0,0,0,1,0,0
+red_14386,['red'],0,0,0,1,0,0
+red_14388,['red'],0,0,0,1,0,0
+red_14390,['red'],0,0,0,1,0,0
+red_14416,['red'],0,0,0,1,0,0
+red_14459,['red'],0,0,0,1,0,0
+red_14486,['red'],0,0,0,1,0,0
+red_14509,['red'],0,0,0,1,0,0
+red_14525,['red'],0,0,0,1,0,0
+red_14551,['red'],0,0,0,1,0,0
+red_14606,['red'],0,0,0,1,0,0
+red_14639,['red'],0,0,0,1,0,0
+red_14662,['red'],0,0,0,1,0,0
+red_14665,['red'],0,0,0,1,0,0
+red_14667,['red'],0,0,0,1,0,0
+red_14695,['red'],0,0,0,1,0,0
+red_14708,['red'],0,0,0,1,0,0
+red_14713,['red'],0,0,0,1,0,0
+red_14720,['red'],0,0,0,1,0,0
+red_14724,['red'],0,0,0,1,0,0
+red_14744,['red'],0,0,0,1,0,0
+red_14749,['red'],0,0,0,1,0,0
+red_14750,['red'],0,0,0,1,0,0
+red_14782,['red'],0,0,0,1,0,0
+red_14793,['red'],0,0,0,1,0,0
+red_14801,['red'],0,0,0,1,0,0
+red_14829,['red'],0,0,0,1,0,0
+red_14847,['red'],0,0,0,1,0,0
+red_14876,['red'],0,0,0,1,0,0
+red_14878,['red'],0,0,0,1,0,0
+red_14887,['red'],0,0,0,1,0,0
+red_14902,['red'],0,0,0,1,0,0
+red_14911,['red'],0,0,0,1,0,0
+red_14933,['red'],0,0,0,1,0,0
+red_14941,['red'],0,0,0,1,0,0
+red_14951,['red'],0,0,0,1,0,0
+red_14967,['red'],0,0,0,1,0,0
+red_14975,['red'],0,0,0,1,0,0
+red_14980,['red'],0,0,0,1,0,0
+red_15005,['red'],0,0,0,1,0,0
+red_15006,['red'],0,0,0,1,0,0
+red_15012,['red'],0,0,0,1,0,0
+red_15032,['red'],0,0,0,1,0,0
+red_15041,['red'],0,0,0,1,0,0
+red_15072,['red'],0,0,0,1,0,0
+red_15075,['red'],0,0,0,1,0,0
+red_15096,['red'],0,0,0,1,0,0
+red_15127,['red'],0,0,0,1,0,0
+red_15171,['red'],0,0,0,1,0,0
+red_15195,['red'],0,0,0,1,0,0
+red_15205,['red'],0,0,0,1,0,0
+red_15215,['red'],0,0,0,1,0,0
+red_15236,['red'],0,0,0,1,0,0
+red_15257,['red'],0,0,0,1,0,0
+red_15271,['red'],0,0,0,1,0,0
+red_15301,['red'],0,0,0,1,0,0
+red_15303,['red'],0,0,0,1,0,0
+red_15309,['red'],0,0,0,1,0,0
+red_15331,['red'],0,0,0,1,0,0
+red_15393,['red'],0,0,0,1,0,0
+red_15397,['red'],0,0,0,1,0,0
+red_15444,['red'],0,0,0,1,0,0
+red_15451,['red'],0,0,0,1,0,0
+red_15476,['red'],0,0,0,1,0,0
+red_15490,['red'],0,0,0,1,0,0
+red_15516,['red'],0,0,0,1,0,0
+red_15520,['red'],0,0,0,1,0,0
+red_15535,['red'],0,0,0,1,0,0
+red_15537,['red'],0,0,0,1,0,0
+red_15538,['red'],0,0,0,1,0,0
+red_15564,['red'],0,0,0,1,0,0
+red_arrow_1,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_2,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_4,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_5,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_6,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_7,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_8,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_9,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_12,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_14,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_15,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_16,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_17,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_18,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_19,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_20,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_21,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_22,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_23,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_24,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_25,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_26,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_27,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_29,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_30,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_31,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_32,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_33,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_34,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_35,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_36,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_37,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_39,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_40,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_41,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_42,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_43,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_44,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_45,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_46,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_47,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_48,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_49,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_50,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_51,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_52,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_53,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_54,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_55,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_57,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_58,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_59,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_60,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_61,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_62,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_64,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_65,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_66,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_67,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_68,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_69,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_70,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_71,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_72,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_73,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_74,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_75,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_76,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_77,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_78,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_79,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_81,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_82,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_83,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_84,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_85,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_86,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_87,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_89,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_90,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_91,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_92,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_94,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_95,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_96,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_97,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_98,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_99,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_100,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_101,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_102,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_103,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_104,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_105,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_106,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_107,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_108,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_109,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_110,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_111,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_113,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_114,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_115,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_116,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_117,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_118,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_119,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_120,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_121,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_122,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_123,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_124,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_125,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_126,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_127,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_128,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_129,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_130,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_131,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_132,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_133,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_134,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_135,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_138,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_139,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_140,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_141,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_142,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_143,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_144,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_145,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_146,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_148,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_149,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_150,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_151,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_152,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_153,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_154,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_155,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_156,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_157,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_159,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_160,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_161,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_162,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_164,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_165,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_166,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_167,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_168,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_169,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_170,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_171,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_173,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_174,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_175,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_176,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_177,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_178,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_179,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_181,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_183,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_184,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_185,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_186,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_187,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_188,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_189,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_190,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_191,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_192,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_193,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_194,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_195,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_196,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_197,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_198,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_199,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_200,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_201,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_203,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_204,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_205,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_206,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_207,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_208,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_209,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_210,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_211,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_212,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_213,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_214,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_215,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_218,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_219,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_220,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_221,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_222,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_223,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_224,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_225,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_226,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_227,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_228,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_229,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_230,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_231,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_232,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_233,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_234,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_235,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_236,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_237,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_238,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_240,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_241,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_242,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_243,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_244,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_245,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_247,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_248,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_249,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_251,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_252,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_253,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_254,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_255,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_256,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_257,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_259,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_260,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_261,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_263,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_264,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_265,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_266,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_267,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_268,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_269,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_271,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_272,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_273,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_274,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_277,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_278,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_279,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_280,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_281,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_282,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_283,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_284,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_285,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_286,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_288,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_289,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_290,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_292,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_293,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_294,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_295,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_296,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_297,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_298,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_299,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_300,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_301,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_302,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_304,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_306,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_307,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_308,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_309,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_310,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_313,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_314,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_315,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_316,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_317,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_318,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_319,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_320,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_321,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_322,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_323,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_324,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_325,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_326,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_327,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_328,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_329,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_330,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_332,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_333,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_334,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_336,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_337,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_338,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_339,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_340,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_342,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_343,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_344,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_345,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_346,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_347,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_348,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_349,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_350,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_351,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_353,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_354,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_355,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_356,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_357,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_358,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_359,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_360,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_362,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_363,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_364,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_365,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_367,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_370,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_371,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_373,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_374,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_375,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_376,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_377,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_378,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_379,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_380,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_382,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_383,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_384,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_385,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_386,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_388,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_389,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_390,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_391,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_392,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_393,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_394,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_395,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_397,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_399,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_400,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_401,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_402,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_403,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_404,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_405,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_406,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_407,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_408,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_410,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_411,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_412,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_413,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_416,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_417,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_418,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_419,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_420,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_421,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_422,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_423,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_424,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_425,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_426,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_427,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_428,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_429,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_430,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_431,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_432,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_433,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_434,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_435,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_436,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_437,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_438,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_439,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_440,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_441,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_443,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_444,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_445,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_446,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_447,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_448,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_449,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_451,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_452,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_453,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_454,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_455,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_456,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_457,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_458,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_459,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_460,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_461,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_462,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_463,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_465,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_466,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_468,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_469,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_471,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_472,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_473,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_474,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_475,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_476,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_477,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_478,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_479,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_480,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_481,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_482,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_483,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_484,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_485,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_486,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_487,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_489,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_490,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_491,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_492,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_493,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_494,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_495,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_496,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_497,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_498,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_499,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_500,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_501,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_502,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_503,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_504,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_506,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_507,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_508,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_510,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_511,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_512,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_513,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_514,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_515,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_516,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_517,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_518,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_519,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_521,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_524,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_527,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_528,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_529,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_530,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_531,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_532,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_533,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_534,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_536,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_537,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_538,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_539,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_540,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_541,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_542,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_543,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_545,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_546,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_547,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_548,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_549,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_550,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_551,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_552,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_554,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_555,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_556,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_557,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_558,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_560,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_561,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_562,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_563,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_564,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_565,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_566,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_567,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_568,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_570,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_573,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_574,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_575,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_576,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_577,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_578,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_580,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_581,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_582,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_583,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_584,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_585,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_587,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_589,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_590,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_591,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_592,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_594,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_595,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_596,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_597,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_598,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_600,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_601,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_602,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_603,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_604,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_606,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_607,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_608,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_610,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_611,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_612,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_613,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_614,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_615,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_616,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_617,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_618,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_620,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_621,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_622,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_623,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_624,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_625,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_626,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_627,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_628,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_629,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_630,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_631,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_632,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_633,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_634,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_635,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_636,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_637,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_638,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_639,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_640,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_642,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_643,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_644,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_645,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_647,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_648,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_649,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_651,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_653,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_655,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_656,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_657,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_658,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_659,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_662,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_663,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_664,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_665,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_666,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_668,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_669,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_670,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_671,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_672,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_673,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_674,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_675,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_676,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_677,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_678,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_679,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_680,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_681,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_682,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_683,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_684,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_685,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_686,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_687,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_688,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_689,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_690,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_691,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_692,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_693,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_694,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_695,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_700,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_701,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_702,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_703,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_704,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_706,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_707,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_709,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_710,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_712,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_713,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_714,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_715,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_716,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_717,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_720,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_721,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_722,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_723,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_724,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_725,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_728,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_729,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_730,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_732,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_733,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_734,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_735,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_736,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_737,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_738,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_740,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_741,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_742,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_743,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_745,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_746,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_747,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_749,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_750,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_751,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_753,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_754,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_755,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_756,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_757,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_758,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_759,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_760,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_761,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_762,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_763,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_764,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_765,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_767,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_768,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_769,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_770,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_772,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_773,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_774,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_775,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_776,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_777,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_778,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_779,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_781,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_782,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_783,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_785,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_786,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_787,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_788,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_789,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_790,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_792,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_793,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_794,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_795,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_797,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_798,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_800,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_801,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_803,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_805,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_806,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_807,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_808,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_810,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_811,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_813,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_814,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_815,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_816,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_817,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_818,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_820,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_821,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_822,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_824,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_825,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_826,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_827,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_828,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_830,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_831,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_832,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_836,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_837,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_838,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_839,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_840,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_842,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_843,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_844,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_845,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_846,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_847,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_848,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_849,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_850,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_851,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_852,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_853,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_854,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_855,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_856,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_857,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_858,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_859,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_860,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_861,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_862,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_863,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_864,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_865,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_867,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_868,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_869,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_870,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_871,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_872,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_873,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_874,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_876,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_877,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_878,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_879,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_880,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_881,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_882,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_884,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_887,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_888,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_890,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_891,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_892,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_893,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_894,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_895,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_896,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_897,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_898,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_899,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_900,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_901,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_902,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_904,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_905,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_906,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_907,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_908,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_909,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_910,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_911,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_912,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_913,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_914,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_915,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_916,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_917,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_919,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_920,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_921,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_922,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_923,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_925,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_926,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_927,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_928,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_929,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_930,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_931,"['red', 'arrow']",0,0,1,1,0,0
+red_arrow_932,"['red', 'arrow']",0,0,1,1,0,0
+red_yellow_1,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_2,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_3,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_4,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_5,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_6,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_7,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_8,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_9,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_10,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_11,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_12,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_13,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_14,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_15,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_16,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_17,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_18,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_19,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_20,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_21,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_22,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_23,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_24,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_25,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_26,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_27,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_28,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_29,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_30,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_31,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_32,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_33,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_34,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_35,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_36,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_37,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_38,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_39,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_40,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_41,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_42,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_43,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_44,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_45,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_46,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_47,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_48,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_49,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_50,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_51,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_52,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_53,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_54,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_55,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_56,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_57,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_58,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_59,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_60,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_61,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_62,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_63,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_64,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_65,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_66,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_67,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_68,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_69,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_70,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_71,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_72,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_73,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_74,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_75,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_76,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_77,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_78,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_79,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_80,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_81,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_82,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_83,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_84,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_85,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_86,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_87,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_88,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_89,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_90,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_91,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_92,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_93,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_94,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_95,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_96,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_97,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_98,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_99,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_100,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_101,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_102,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_103,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_104,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_105,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_106,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_107,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_108,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_109,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_110,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_111,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_112,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_113,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_114,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_115,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_116,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_117,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_118,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_119,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_120,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_121,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_122,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_123,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_124,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_125,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_126,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_127,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_128,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_129,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_130,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_131,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_132,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_133,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_134,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_135,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_136,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_137,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_138,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_139,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_140,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_141,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_142,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_143,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_144,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_145,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_146,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_147,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_148,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_149,"['red', 'yellow']",0,0,0,1,1,0
+red_yellow_150,"['red', 'yellow']",0,0,0,1,1,0
+yellow_1,['yellow'],0,0,0,0,1,0
+yellow_2,['yellow'],0,0,0,0,1,0
+yellow_3,['yellow'],0,0,0,0,1,0
+yellow_4,['yellow'],0,0,0,0,1,0
+yellow_5,['yellow'],0,0,0,0,1,0
+yellow_6,['yellow'],0,0,0,0,1,0
+yellow_7,['yellow'],0,0,0,0,1,0
+yellow_8,['yellow'],0,0,0,0,1,0
+yellow_9,['yellow'],0,0,0,0,1,0
+yellow_10,['yellow'],0,0,0,0,1,0
+yellow_11,['yellow'],0,0,0,0,1,0
+yellow_12,['yellow'],0,0,0,0,1,0
+yellow_13,['yellow'],0,0,0,0,1,0
+yellow_14,['yellow'],0,0,0,0,1,0
+yellow_15,['yellow'],0,0,0,0,1,0
+yellow_16,['yellow'],0,0,0,0,1,0
+yellow_17,['yellow'],0,0,0,0,1,0
+yellow_18,['yellow'],0,0,0,0,1,0
+yellow_19,['yellow'],0,0,0,0,1,0
+yellow_20,['yellow'],0,0,0,0,1,0
+yellow_21,['yellow'],0,0,0,0,1,0
+yellow_22,['yellow'],0,0,0,0,1,0
+yellow_23,['yellow'],0,0,0,0,1,0
+yellow_24,['yellow'],0,0,0,0,1,0
+yellow_25,['yellow'],0,0,0,0,1,0
+yellow_26,['yellow'],0,0,0,0,1,0
+yellow_27,['yellow'],0,0,0,0,1,0
+yellow_28,['yellow'],0,0,0,0,1,0
+yellow_29,['yellow'],0,0,0,0,1,0
+yellow_30,['yellow'],0,0,0,0,1,0
+yellow_31,['yellow'],0,0,0,0,1,0
+yellow_32,['yellow'],0,0,0,0,1,0
+yellow_33,['yellow'],0,0,0,0,1,0
+yellow_34,['yellow'],0,0,0,0,1,0
+yellow_35,['yellow'],0,0,0,0,1,0
+yellow_36,['yellow'],0,0,0,0,1,0
+yellow_37,['yellow'],0,0,0,0,1,0
+yellow_38,['yellow'],0,0,0,0,1,0
+yellow_39,['yellow'],0,0,0,0,1,0
+yellow_40,['yellow'],0,0,0,0,1,0
+yellow_41,['yellow'],0,0,0,0,1,0
+yellow_42,['yellow'],0,0,0,0,1,0
+yellow_43,['yellow'],0,0,0,0,1,0
+yellow_44,['yellow'],0,0,0,0,1,0
+yellow_45,['yellow'],0,0,0,0,1,0
+yellow_46,['yellow'],0,0,0,0,1,0
+yellow_47,['yellow'],0,0,0,0,1,0
+yellow_48,['yellow'],0,0,0,0,1,0
+yellow_49,['yellow'],0,0,0,0,1,0
+yellow_50,['yellow'],0,0,0,0,1,0
+yellow_51,['yellow'],0,0,0,0,1,0
+yellow_52,['yellow'],0,0,0,0,1,0
+yellow_53,['yellow'],0,0,0,0,1,0
+yellow_54,['yellow'],0,0,0,0,1,0
+yellow_55,['yellow'],0,0,0,0,1,0
+yellow_56,['yellow'],0,0,0,0,1,0
+yellow_57,['yellow'],0,0,0,0,1,0
+yellow_58,['yellow'],0,0,0,0,1,0
+yellow_59,['yellow'],0,0,0,0,1,0
+yellow_60,['yellow'],0,0,0,0,1,0
+yellow_61,['yellow'],0,0,0,0,1,0
+yellow_62,['yellow'],0,0,0,0,1,0
+yellow_63,['yellow'],0,0,0,0,1,0
+yellow_64,['yellow'],0,0,0,0,1,0
+yellow_65,['yellow'],0,0,0,0,1,0
+yellow_66,['yellow'],0,0,0,0,1,0
+yellow_67,['yellow'],0,0,0,0,1,0
+yellow_68,['yellow'],0,0,0,0,1,0
+yellow_69,['yellow'],0,0,0,0,1,0
+yellow_70,['yellow'],0,0,0,0,1,0
+yellow_71,['yellow'],0,0,0,0,1,0
+yellow_72,['yellow'],0,0,0,0,1,0
+yellow_73,['yellow'],0,0,0,0,1,0
+yellow_74,['yellow'],0,0,0,0,1,0
+yellow_75,['yellow'],0,0,0,0,1,0
+yellow_76,['yellow'],0,0,0,0,1,0
+yellow_77,['yellow'],0,0,0,0,1,0
+yellow_78,['yellow'],0,0,0,0,1,0
+yellow_79,['yellow'],0,0,0,0,1,0
+yellow_80,['yellow'],0,0,0,0,1,0
+yellow_81,['yellow'],0,0,0,0,1,0
+yellow_82,['yellow'],0,0,0,0,1,0
+yellow_83,['yellow'],0,0,0,0,1,0
+yellow_84,['yellow'],0,0,0,0,1,0
+yellow_85,['yellow'],0,0,0,0,1,0
+yellow_86,['yellow'],0,0,0,0,1,0
+yellow_87,['yellow'],0,0,0,0,1,0
+yellow_88,['yellow'],0,0,0,0,1,0
+yellow_89,['yellow'],0,0,0,0,1,0
+yellow_90,['yellow'],0,0,0,0,1,0
+yellow_91,['yellow'],0,0,0,0,1,0
+yellow_92,['yellow'],0,0,0,0,1,0
+yellow_93,['yellow'],0,0,0,0,1,0
+yellow_94,['yellow'],0,0,0,0,1,0
+yellow_95,['yellow'],0,0,0,0,1,0
+yellow_96,['yellow'],0,0,0,0,1,0
+yellow_97,['yellow'],0,0,0,0,1,0
+yellow_98,['yellow'],0,0,0,0,1,0
+yellow_99,['yellow'],0,0,0,0,1,0
+yellow_100,['yellow'],0,0,0,0,1,0
+yellow_101,['yellow'],0,0,0,0,1,0
+yellow_102,['yellow'],0,0,0,0,1,0
+yellow_103,['yellow'],0,0,0,0,1,0
+yellow_104,['yellow'],0,0,0,0,1,0
+yellow_105,['yellow'],0,0,0,0,1,0
+yellow_106,['yellow'],0,0,0,0,1,0
+yellow_107,['yellow'],0,0,0,0,1,0
+yellow_108,['yellow'],0,0,0,0,1,0
+yellow_109,['yellow'],0,0,0,0,1,0
+yellow_110,['yellow'],0,0,0,0,1,0
+yellow_111,['yellow'],0,0,0,0,1,0
+yellow_112,['yellow'],0,0,0,0,1,0
+yellow_113,['yellow'],0,0,0,0,1,0
+yellow_114,['yellow'],0,0,0,0,1,0
+yellow_115,['yellow'],0,0,0,0,1,0
+yellow_116,['yellow'],0,0,0,0,1,0
+yellow_117,['yellow'],0,0,0,0,1,0
+yellow_118,['yellow'],0,0,0,0,1,0
+yellow_119,['yellow'],0,0,0,0,1,0
+yellow_120,['yellow'],0,0,0,0,1,0
+yellow_121,['yellow'],0,0,0,0,1,0
+yellow_122,['yellow'],0,0,0,0,1,0
+yellow_123,['yellow'],0,0,0,0,1,0
+yellow_124,['yellow'],0,0,0,0,1,0
+yellow_125,['yellow'],0,0,0,0,1,0
+yellow_126,['yellow'],0,0,0,0,1,0
+yellow_127,['yellow'],0,0,0,0,1,0
+yellow_128,['yellow'],0,0,0,0,1,0
+yellow_129,['yellow'],0,0,0,0,1,0
+yellow_130,['yellow'],0,0,0,0,1,0
+yellow_131,['yellow'],0,0,0,0,1,0
+yellow_132,['yellow'],0,0,0,0,1,0
+yellow_133,['yellow'],0,0,0,0,1,0
+yellow_134,['yellow'],0,0,0,0,1,0
+yellow_135,['yellow'],0,0,0,0,1,0
+yellow_136,['yellow'],0,0,0,0,1,0
+yellow_137,['yellow'],0,0,0,0,1,0
+yellow_138,['yellow'],0,0,0,0,1,0
+yellow_139,['yellow'],0,0,0,0,1,0
+yellow_140,['yellow'],0,0,0,0,1,0
+yellow_141,['yellow'],0,0,0,0,1,0
+yellow_142,['yellow'],0,0,0,0,1,0
+yellow_143,['yellow'],0,0,0,0,1,0
+yellow_144,['yellow'],0,0,0,0,1,0
+yellow_145,['yellow'],0,0,0,0,1,0
+yellow_146,['yellow'],0,0,0,0,1,0
+yellow_147,['yellow'],0,0,0,0,1,0
+yellow_148,['yellow'],0,0,0,0,1,0
+yellow_149,['yellow'],0,0,0,0,1,0
+yellow_150,['yellow'],0,0,0,0,1,0
+yellow_151,['yellow'],0,0,0,0,1,0
+yellow_152,['yellow'],0,0,0,0,1,0
+yellow_153,['yellow'],0,0,0,0,1,0
+yellow_154,['yellow'],0,0,0,0,1,0
+yellow_155,['yellow'],0,0,0,0,1,0
+yellow_156,['yellow'],0,0,0,0,1,0
+yellow_157,['yellow'],0,0,0,0,1,0
+yellow_158,['yellow'],0,0,0,0,1,0
+yellow_159,['yellow'],0,0,0,0,1,0
+yellow_160,['yellow'],0,0,0,0,1,0
+yellow_161,['yellow'],0,0,0,0,1,0
+yellow_162,['yellow'],0,0,0,0,1,0
+yellow_163,['yellow'],0,0,0,0,1,0
+yellow_164,['yellow'],0,0,0,0,1,0
+yellow_165,['yellow'],0,0,0,0,1,0
+yellow_166,['yellow'],0,0,0,0,1,0
+yellow_167,['yellow'],0,0,0,0,1,0
+yellow_168,['yellow'],0,0,0,0,1,0
+yellow_169,['yellow'],0,0,0,0,1,0
+yellow_170,['yellow'],0,0,0,0,1,0
+yellow_171,['yellow'],0,0,0,0,1,0
+yellow_172,['yellow'],0,0,0,0,1,0
+yellow_173,['yellow'],0,0,0,0,1,0
+yellow_174,['yellow'],0,0,0,0,1,0
+yellow_175,['yellow'],0,0,0,0,1,0
+yellow_176,['yellow'],0,0,0,0,1,0
+yellow_177,['yellow'],0,0,0,0,1,0
+yellow_178,['yellow'],0,0,0,0,1,0
+yellow_179,['yellow'],0,0,0,0,1,0
+yellow_180,['yellow'],0,0,0,0,1,0
+yellow_181,['yellow'],0,0,0,0,1,0
+yellow_182,['yellow'],0,0,0,0,1,0
+yellow_183,['yellow'],0,0,0,0,1,0
+yellow_184,['yellow'],0,0,0,0,1,0
+yellow_185,['yellow'],0,0,0,0,1,0
+yellow_186,['yellow'],0,0,0,0,1,0
+yellow_187,['yellow'],0,0,0,0,1,0
+yellow_188,['yellow'],0,0,0,0,1,0
+yellow_189,['yellow'],0,0,0,0,1,0
+yellow_190,['yellow'],0,0,0,0,1,0
+yellow_191,['yellow'],0,0,0,0,1,0
+yellow_192,['yellow'],0,0,0,0,1,0
+yellow_193,['yellow'],0,0,0,0,1,0
+yellow_194,['yellow'],0,0,0,0,1,0
+yellow_195,['yellow'],0,0,0,0,1,0
+yellow_196,['yellow'],0,0,0,0,1,0
+yellow_197,['yellow'],0,0,0,0,1,0
+yellow_198,['yellow'],0,0,0,0,1,0
+yellow_199,['yellow'],0,0,0,0,1,0
+yellow_200,['yellow'],0,0,0,0,1,0
+yellow_201,['yellow'],0,0,0,0,1,0
+yellow_202,['yellow'],0,0,0,0,1,0
+yellow_203,['yellow'],0,0,0,0,1,0
+yellow_204,['yellow'],0,0,0,0,1,0
+yellow_205,['yellow'],0,0,0,0,1,0
+yellow_206,['yellow'],0,0,0,0,1,0
+yellow_207,['yellow'],0,0,0,0,1,0
+yellow_208,['yellow'],0,0,0,0,1,0
+yellow_209,['yellow'],0,0,0,0,1,0
+yellow_210,['yellow'],0,0,0,0,1,0
+yellow_211,['yellow'],0,0,0,0,1,0
+yellow_212,['yellow'],0,0,0,0,1,0
+yellow_213,['yellow'],0,0,0,0,1,0
+yellow_214,['yellow'],0,0,0,0,1,0
+yellow_215,['yellow'],0,0,0,0,1,0
+yellow_216,['yellow'],0,0,0,0,1,0
+yellow_217,['yellow'],0,0,0,0,1,0
+yellow_218,['yellow'],0,0,0,0,1,0
+yellow_219,['yellow'],0,0,0,0,1,0
+yellow_220,['yellow'],0,0,0,0,1,0
+yellow_221,['yellow'],0,0,0,0,1,0
+yellow_222,['yellow'],0,0,0,0,1,0
+yellow_223,['yellow'],0,0,0,0,1,0
+yellow_224,['yellow'],0,0,0,0,1,0
+yellow_225,['yellow'],0,0,0,0,1,0
+yellow_226,['yellow'],0,0,0,0,1,0
+yellow_227,['yellow'],0,0,0,0,1,0
+yellow_228,['yellow'],0,0,0,0,1,0
+yellow_229,['yellow'],0,0,0,0,1,0
+yellow_230,['yellow'],0,0,0,0,1,0
+yellow_231,['yellow'],0,0,0,0,1,0
+yellow_232,['yellow'],0,0,0,0,1,0
+yellow_233,['yellow'],0,0,0,0,1,0
+yellow_234,['yellow'],0,0,0,0,1,0
+yellow_235,['yellow'],0,0,0,0,1,0
+yellow_236,['yellow'],0,0,0,0,1,0
+yellow_237,['yellow'],0,0,0,0,1,0
+yellow_238,['yellow'],0,0,0,0,1,0
+yellow_239,['yellow'],0,0,0,0,1,0
+yellow_240,['yellow'],0,0,0,0,1,0
+yellow_241,['yellow'],0,0,0,0,1,0
+yellow_242,['yellow'],0,0,0,0,1,0
+yellow_243,['yellow'],0,0,0,0,1,0
+yellow_244,['yellow'],0,0,0,0,1,0
+yellow_245,['yellow'],0,0,0,0,1,0
+yellow_246,['yellow'],0,0,0,0,1,0
+yellow_247,['yellow'],0,0,0,0,1,0
+yellow_248,['yellow'],0,0,0,0,1,0
+yellow_249,['yellow'],0,0,0,0,1,0
+yellow_250,['yellow'],0,0,0,0,1,0
+yellow_251,['yellow'],0,0,0,0,1,0
+yellow_252,['yellow'],0,0,0,0,1,0
+yellow_253,['yellow'],0,0,0,0,1,0
+yellow_254,['yellow'],0,0,0,0,1,0
+yellow_255,['yellow'],0,0,0,0,1,0
+yellow_256,['yellow'],0,0,0,0,1,0
+yellow_257,['yellow'],0,0,0,0,1,0
+yellow_258,['yellow'],0,0,0,0,1,0
+yellow_259,['yellow'],0,0,0,0,1,0
+yellow_260,['yellow'],0,0,0,0,1,0
+yellow_261,['yellow'],0,0,0,0,1,0
+yellow_262,['yellow'],0,0,0,0,1,0
+yellow_263,['yellow'],0,0,0,0,1,0
+yellow_264,['yellow'],0,0,0,0,1,0
+yellow_265,['yellow'],0,0,0,0,1,0
+yellow_266,['yellow'],0,0,0,0,1,0
+yellow_267,['yellow'],0,0,0,0,1,0
+yellow_268,['yellow'],0,0,0,0,1,0
+yellow_269,['yellow'],0,0,0,0,1,0
+yellow_270,['yellow'],0,0,0,0,1,0
+yellow_271,['yellow'],0,0,0,0,1,0
+yellow_272,['yellow'],0,0,0,0,1,0
+yellow_273,['yellow'],0,0,0,0,1,0
+yellow_274,['yellow'],0,0,0,0,1,0
+yellow_275,['yellow'],0,0,0,0,1,0
+yellow_276,['yellow'],0,0,0,0,1,0
+yellow_277,['yellow'],0,0,0,0,1,0
+yellow_278,['yellow'],0,0,0,0,1,0
+yellow_279,['yellow'],0,0,0,0,1,0
+yellow_280,['yellow'],0,0,0,0,1,0
+yellow_281,['yellow'],0,0,0,0,1,0
+yellow_282,['yellow'],0,0,0,0,1,0
+yellow_283,['yellow'],0,0,0,0,1,0
+yellow_284,['yellow'],0,0,0,0,1,0
+yellow_285,['yellow'],0,0,0,0,1,0
+yellow_286,['yellow'],0,0,0,0,1,0
+yellow_287,['yellow'],0,0,0,0,1,0
+yellow_288,['yellow'],0,0,0,0,1,0
+yellow_289,['yellow'],0,0,0,0,1,0
+yellow_290,['yellow'],0,0,0,0,1,0
+yellow_291,['yellow'],0,0,0,0,1,0
+yellow_292,['yellow'],0,0,0,0,1,0
+yellow_293,['yellow'],0,0,0,0,1,0
+yellow_294,['yellow'],0,0,0,0,1,0
+yellow_295,['yellow'],0,0,0,0,1,0
+yellow_296,['yellow'],0,0,0,0,1,0
+yellow_297,['yellow'],0,0,0,0,1,0
+yellow_298,['yellow'],0,0,0,0,1,0
+yellow_299,['yellow'],0,0,0,0,1,0
+yellow_300,['yellow'],0,0,0,0,1,0
+yellow_301,['yellow'],0,0,0,0,1,0
+yellow_302,['yellow'],0,0,0,0,1,0
+yellow_303,['yellow'],0,0,0,0,1,0
+yellow_304,['yellow'],0,0,0,0,1,0
+yellow_305,['yellow'],0,0,0,0,1,0
+yellow_306,['yellow'],0,0,0,0,1,0
+yellow_307,['yellow'],0,0,0,0,1,0
+yellow_308,['yellow'],0,0,0,0,1,0
+yellow_309,['yellow'],0,0,0,0,1,0
+yellow_310,['yellow'],0,0,0,0,1,0
+yellow_311,['yellow'],0,0,0,0,1,0
+yellow_312,['yellow'],0,0,0,0,1,0
+yellow_313,['yellow'],0,0,0,0,1,0
+yellow_314,['yellow'],0,0,0,0,1,0
+yellow_315,['yellow'],0,0,0,0,1,0
+yellow_316,['yellow'],0,0,0,0,1,0
+yellow_317,['yellow'],0,0,0,0,1,0
+yellow_318,['yellow'],0,0,0,0,1,0
+yellow_319,['yellow'],0,0,0,0,1,0
+yellow_320,['yellow'],0,0,0,0,1,0
+yellow_321,['yellow'],0,0,0,0,1,0
+yellow_322,['yellow'],0,0,0,0,1,0
+yellow_323,['yellow'],0,0,0,0,1,0
+yellow_324,['yellow'],0,0,0,0,1,0
+yellow_325,['yellow'],0,0,0,0,1,0
+yellow_326,['yellow'],0,0,0,0,1,0
+yellow_327,['yellow'],0,0,0,0,1,0
+yellow_328,['yellow'],0,0,0,0,1,0
+yellow_329,['yellow'],0,0,0,0,1,0
+yellow_330,['yellow'],0,0,0,0,1,0
+yellow_331,['yellow'],0,0,0,0,1,0
+yellow_332,['yellow'],0,0,0,0,1,0
+yellow_333,['yellow'],0,0,0,0,1,0
+yellow_334,['yellow'],0,0,0,0,1,0
+yellow_335,['yellow'],0,0,0,0,1,0
+yellow_336,['yellow'],0,0,0,0,1,0
+yellow_337,['yellow'],0,0,0,0,1,0
+yellow_338,['yellow'],0,0,0,0,1,0
+yellow_339,['yellow'],0,0,0,0,1,0
+yellow_340,['yellow'],0,0,0,0,1,0
+yellow_341,['yellow'],0,0,0,0,1,0
+yellow_342,['yellow'],0,0,0,0,1,0
+yellow_343,['yellow'],0,0,0,0,1,0
+yellow_344,['yellow'],0,0,0,0,1,0
+yellow_345,['yellow'],0,0,0,0,1,0
+yellow_346,['yellow'],0,0,0,0,1,0
+yellow_347,['yellow'],0,0,0,0,1,0
+yellow_348,['yellow'],0,0,0,0,1,0
+yellow_349,['yellow'],0,0,0,0,1,0
+yellow_350,['yellow'],0,0,0,0,1,0
+yellow_351,['yellow'],0,0,0,0,1,0
+yellow_352,['yellow'],0,0,0,0,1,0
+yellow_353,['yellow'],0,0,0,0,1,0
+yellow_354,['yellow'],0,0,0,0,1,0
+yellow_355,['yellow'],0,0,0,0,1,0
+yellow_356,['yellow'],0,0,0,0,1,0
+yellow_357,['yellow'],0,0,0,0,1,0
+yellow_358,['yellow'],0,0,0,0,1,0
+yellow_359,['yellow'],0,0,0,0,1,0
+yellow_360,['yellow'],0,0,0,0,1,0
+yellow_361,['yellow'],0,0,0,0,1,0
+yellow_362,['yellow'],0,0,0,0,1,0
+yellow_363,['yellow'],0,0,0,0,1,0
+yellow_364,['yellow'],0,0,0,0,1,0
+yellow_365,['yellow'],0,0,0,0,1,0
+yellow_366,['yellow'],0,0,0,0,1,0
+yellow_367,['yellow'],0,0,0,0,1,0
+yellow_368,['yellow'],0,0,0,0,1,0
+yellow_369,['yellow'],0,0,0,0,1,0
+yellow_370,['yellow'],0,0,0,0,1,0
+yellow_371,['yellow'],0,0,0,0,1,0
+yellow_372,['yellow'],0,0,0,0,1,0
+yellow_373,['yellow'],0,0,0,0,1,0
+yellow_374,['yellow'],0,0,0,0,1,0
+yellow_375,['yellow'],0,0,0,0,1,0
+yellow_376,['yellow'],0,0,0,0,1,0
+yellow_377,['yellow'],0,0,0,0,1,0
+yellow_378,['yellow'],0,0,0,0,1,0
+yellow_379,['yellow'],0,0,0,0,1,0
+yellow_380,['yellow'],0,0,0,0,1,0
+yellow_381,['yellow'],0,0,0,0,1,0
+yellow_382,['yellow'],0,0,0,0,1,0
+yellow_383,['yellow'],0,0,0,0,1,0
+yellow_384,['yellow'],0,0,0,0,1,0
+yellow_385,['yellow'],0,0,0,0,1,0
+yellow_386,['yellow'],0,0,0,0,1,0
+yellow_387,['yellow'],0,0,0,0,1,0
+yellow_388,['yellow'],0,0,0,0,1,0
+yellow_389,['yellow'],0,0,0,0,1,0
+yellow_390,['yellow'],0,0,0,0,1,0
+yellow_391,['yellow'],0,0,0,0,1,0
+yellow_392,['yellow'],0,0,0,0,1,0
+yellow_393,['yellow'],0,0,0,0,1,0
+yellow_394,['yellow'],0,0,0,0,1,0
+yellow_395,['yellow'],0,0,0,0,1,0
+yellow_396,['yellow'],0,0,0,0,1,0
+yellow_397,['yellow'],0,0,0,0,1,0
+yellow_398,['yellow'],0,0,0,0,1,0
+yellow_399,['yellow'],0,0,0,0,1,0
+yellow_400,['yellow'],0,0,0,0,1,0
+yellow_401,['yellow'],0,0,0,0,1,0
+yellow_402,['yellow'],0,0,0,0,1,0
+yellow_403,['yellow'],0,0,0,0,1,0
+yellow_404,['yellow'],0,0,0,0,1,0
+yellow_405,['yellow'],0,0,0,0,1,0
+yellow_406,['yellow'],0,0,0,0,1,0
+yellow_407,['yellow'],0,0,0,0,1,0
+yellow_408,['yellow'],0,0,0,0,1,0
+yellow_409,['yellow'],0,0,0,0,1,0
+yellow_410,['yellow'],0,0,0,0,1,0
+yellow_411,['yellow'],0,0,0,0,1,0
+yellow_412,['yellow'],0,0,0,0,1,0
+yellow_413,['yellow'],0,0,0,0,1,0
+yellow_414,['yellow'],0,0,0,0,1,0
+yellow_415,['yellow'],0,0,0,0,1,0
+yellow_416,['yellow'],0,0,0,0,1,0
+yellow_417,['yellow'],0,0,0,0,1,0
+yellow_418,['yellow'],0,0,0,0,1,0
+yellow_419,['yellow'],0,0,0,0,1,0
+yellow_420,['yellow'],0,0,0,0,1,0
+yellow_421,['yellow'],0,0,0,0,1,0
+yellow_422,['yellow'],0,0,0,0,1,0
+yellow_423,['yellow'],0,0,0,0,1,0
+yellow_424,['yellow'],0,0,0,0,1,0
+yellow_425,['yellow'],0,0,0,0,1,0
+yellow_426,['yellow'],0,0,0,0,1,0
+yellow_427,['yellow'],0,0,0,0,1,0
+yellow_428,['yellow'],0,0,0,0,1,0
+yellow_429,['yellow'],0,0,0,0,1,0
+yellow_430,['yellow'],0,0,0,0,1,0
+yellow_431,['yellow'],0,0,0,0,1,0
+yellow_432,['yellow'],0,0,0,0,1,0
+yellow_433,['yellow'],0,0,0,0,1,0
+yellow_434,['yellow'],0,0,0,0,1,0
+yellow_435,['yellow'],0,0,0,0,1,0
+yellow_436,['yellow'],0,0,0,0,1,0
+yellow_437,['yellow'],0,0,0,0,1,0
+yellow_438,['yellow'],0,0,0,0,1,0
+yellow_439,['yellow'],0,0,0,0,1,0
+yellow_440,['yellow'],0,0,0,0,1,0
+yellow_441,['yellow'],0,0,0,0,1,0
+yellow_442,['yellow'],0,0,0,0,1,0
+yellow_443,['yellow'],0,0,0,0,1,0
+yellow_444,['yellow'],0,0,0,0,1,0
+yellow_445,['yellow'],0,0,0,0,1,0
+yellow_446,['yellow'],0,0,0,0,1,0
+yellow_447,['yellow'],0,0,0,0,1,0
+yellow_448,['yellow'],0,0,0,0,1,0
+yellow_449,['yellow'],0,0,0,0,1,0
+yellow_450,['yellow'],0,0,0,0,1,0
+yellow_451,['yellow'],0,0,0,0,1,0
+yellow_452,['yellow'],0,0,0,0,1,0
+yellow_453,['yellow'],0,0,0,0,1,0
+yellow_454,['yellow'],0,0,0,0,1,0
+yellow_455,['yellow'],0,0,0,0,1,0
+yellow_456,['yellow'],0,0,0,0,1,0
+yellow_457,['yellow'],0,0,0,0,1,0
+yellow_458,['yellow'],0,0,0,0,1,0
+yellow_459,['yellow'],0,0,0,0,1,0
+yellow_460,['yellow'],0,0,0,0,1,0
+yellow_461,['yellow'],0,0,0,0,1,0
+yellow_462,['yellow'],0,0,0,0,1,0
+yellow_463,['yellow'],0,0,0,0,1,0
+yellow_464,['yellow'],0,0,0,0,1,0
+yellow_465,['yellow'],0,0,0,0,1,0
+yellow_466,['yellow'],0,0,0,0,1,0
+yellow_467,['yellow'],0,0,0,0,1,0
+yellow_468,['yellow'],0,0,0,0,1,0
+yellow_469,['yellow'],0,0,0,0,1,0
+yellow_470,['yellow'],0,0,0,0,1,0
+yellow_471,['yellow'],0,0,0,0,1,0
+yellow_472,['yellow'],0,0,0,0,1,0
+yellow_473,['yellow'],0,0,0,0,1,0
+yellow_474,['yellow'],0,0,0,0,1,0
+yellow_475,['yellow'],0,0,0,0,1,0
+yellow_476,['yellow'],0,0,0,0,1,0
+yellow_477,['yellow'],0,0,0,0,1,0
+yellow_478,['yellow'],0,0,0,0,1,0
+yellow_479,['yellow'],0,0,0,0,1,0
+yellow_480,['yellow'],0,0,0,0,1,0
+yellow_481,['yellow'],0,0,0,0,1,0
+yellow_482,['yellow'],0,0,0,0,1,0
+yellow_483,['yellow'],0,0,0,0,1,0
+yellow_484,['yellow'],0,0,0,0,1,0
+yellow_485,['yellow'],0,0,0,0,1,0
+yellow_486,['yellow'],0,0,0,0,1,0
+yellow_487,['yellow'],0,0,0,0,1,0
+yellow_488,['yellow'],0,0,0,0,1,0
+yellow_489,['yellow'],0,0,0,0,1,0
+yellow_490,['yellow'],0,0,0,0,1,0
+yellow_491,['yellow'],0,0,0,0,1,0
+yellow_492,['yellow'],0,0,0,0,1,0
+yellow_493,['yellow'],0,0,0,0,1,0
+yellow_494,['yellow'],0,0,0,0,1,0
+yellow_495,['yellow'],0,0,0,0,1,0
+yellow_496,['yellow'],0,0,0,0,1,0
+yellow_497,['yellow'],0,0,0,0,1,0
+yellow_498,['yellow'],0,0,0,0,1,0
+yellow_499,['yellow'],0,0,0,0,1,0
+yellow_500,['yellow'],0,0,0,0,1,0
+yellow_501,['yellow'],0,0,0,0,1,0
+yellow_502,['yellow'],0,0,0,0,1,0
+yellow_503,['yellow'],0,0,0,0,1,0
+yellow_504,['yellow'],0,0,0,0,1,0
+yellow_505,['yellow'],0,0,0,0,1,0
+yellow_506,['yellow'],0,0,0,0,1,0
+yellow_507,['yellow'],0,0,0,0,1,0
+yellow_508,['yellow'],0,0,0,0,1,0
+yellow_509,['yellow'],0,0,0,0,1,0
+yellow_510,['yellow'],0,0,0,0,1,0
+yellow_511,['yellow'],0,0,0,0,1,0
+yellow_512,['yellow'],0,0,0,0,1,0
+yellow_513,['yellow'],0,0,0,0,1,0
+yellow_514,['yellow'],0,0,0,0,1,0
+yellow_515,['yellow'],0,0,0,0,1,0
+yellow_516,['yellow'],0,0,0,0,1,0
+yellow_517,['yellow'],0,0,0,0,1,0
+yellow_518,['yellow'],0,0,0,0,1,0
+yellow_519,['yellow'],0,0,0,0,1,0
+yellow_520,['yellow'],0,0,0,0,1,0
+yellow_521,['yellow'],0,0,0,0,1,0
+yellow_522,['yellow'],0,0,0,0,1,0
+yellow_523,['yellow'],0,0,0,0,1,0
+yellow_524,['yellow'],0,0,0,0,1,0
+yellow_525,['yellow'],0,0,0,0,1,0
+yellow_526,['yellow'],0,0,0,0,1,0
+yellow_527,['yellow'],0,0,0,0,1,0
+yellow_528,['yellow'],0,0,0,0,1,0
+yellow_529,['yellow'],0,0,0,0,1,0
+yellow_530,['yellow'],0,0,0,0,1,0
+yellow_531,['yellow'],0,0,0,0,1,0
+yellow_532,['yellow'],0,0,0,0,1,0
+yellow_533,['yellow'],0,0,0,0,1,0
+yellow_534,['yellow'],0,0,0,0,1,0
+yellow_535,['yellow'],0,0,0,0,1,0
+yellow_536,['yellow'],0,0,0,0,1,0
+yellow_537,['yellow'],0,0,0,0,1,0
+yellow_538,['yellow'],0,0,0,0,1,0
+yellow_539,['yellow'],0,0,0,0,1,0
+yellow_540,['yellow'],0,0,0,0,1,0
+yellow_541,['yellow'],0,0,0,0,1,0
+yellow_542,['yellow'],0,0,0,0,1,0
+yellow_543,['yellow'],0,0,0,0,1,0
+yellow_544,['yellow'],0,0,0,0,1,0
+yellow_545,['yellow'],0,0,0,0,1,0
+yellow_546,['yellow'],0,0,0,0,1,0
+yellow_547,['yellow'],0,0,0,0,1,0
+yellow_548,['yellow'],0,0,0,0,1,0
+yellow_549,['yellow'],0,0,0,0,1,0
+yellow_550,['yellow'],0,0,0,0,1,0
+yellow_551,['yellow'],0,0,0,0,1,0
+yellow_552,['yellow'],0,0,0,0,1,0
+yellow_553,['yellow'],0,0,0,0,1,0
+yellow_554,['yellow'],0,0,0,0,1,0
+yellow_555,['yellow'],0,0,0,0,1,0
+yellow_556,['yellow'],0,0,0,0,1,0
+yellow_557,['yellow'],0,0,0,0,1,0
+yellow_558,['yellow'],0,0,0,0,1,0
+yellow_559,['yellow'],0,0,0,0,1,0
+yellow_560,['yellow'],0,0,0,0,1,0
+yellow_561,['yellow'],0,0,0,0,1,0
+yellow_562,['yellow'],0,0,0,0,1,0
+yellow_563,['yellow'],0,0,0,0,1,0
+yellow_564,['yellow'],0,0,0,0,1,0
+yellow_565,['yellow'],0,0,0,0,1,0
+yellow_566,['yellow'],0,0,0,0,1,0
+yellow_567,['yellow'],0,0,0,0,1,0
+yellow_568,['yellow'],0,0,0,0,1,0
+yellow_569,['yellow'],0,0,0,0,1,0
+yellow_570,['yellow'],0,0,0,0,1,0
+yellow_571,['yellow'],0,0,0,0,1,0
+yellow_572,['yellow'],0,0,0,0,1,0
+yellow_573,['yellow'],0,0,0,0,1,0
+yellow_574,['yellow'],0,0,0,0,1,0
+yellow_575,['yellow'],0,0,0,0,1,0
+yellow_576,['yellow'],0,0,0,0,1,0
+yellow_577,['yellow'],0,0,0,0,1,0
+yellow_578,['yellow'],0,0,0,0,1,0
+yellow_579,['yellow'],0,0,0,0,1,0
+yellow_580,['yellow'],0,0,0,0,1,0
+yellow_581,['yellow'],0,0,0,0,1,0
+yellow_582,['yellow'],0,0,0,0,1,0
+yellow_583,['yellow'],0,0,0,0,1,0
+yellow_584,['yellow'],0,0,0,0,1,0
+yellow_585,['yellow'],0,0,0,0,1,0
+yellow_586,['yellow'],0,0,0,0,1,0
+yellow_587,['yellow'],0,0,0,0,1,0
+yellow_588,['yellow'],0,0,0,0,1,0
+yellow_589,['yellow'],0,0,0,0,1,0
+yellow_590,['yellow'],0,0,0,0,1,0
+yellow_591,['yellow'],0,0,0,0,1,0
+yellow_592,['yellow'],0,0,0,0,1,0
+yellow_593,['yellow'],0,0,0,0,1,0
+yellow_594,['yellow'],0,0,0,0,1,0
+yellow_595,['yellow'],0,0,0,0,1,0
+yellow_596,['yellow'],0,0,0,0,1,0
+yellow_597,['yellow'],0,0,0,0,1,0
+yellow_598,['yellow'],0,0,0,0,1,0
+yellow_599,['yellow'],0,0,0,0,1,0
+yellow_600,['yellow'],0,0,0,0,1,0
+yellow_601,['yellow'],0,0,0,0,1,0
+yellow_602,['yellow'],0,0,0,0,1,0
+yellow_603,['yellow'],0,0,0,0,1,0
+yellow_604,['yellow'],0,0,0,0,1,0
+yellow_605,['yellow'],0,0,0,0,1,0
+yellow_606,['yellow'],0,0,0,0,1,0
+yellow_607,['yellow'],0,0,0,0,1,0
+yellow_608,['yellow'],0,0,0,0,1,0
+yellow_609,['yellow'],0,0,0,0,1,0
+yellow_610,['yellow'],0,0,0,0,1,0
+yellow_611,['yellow'],0,0,0,0,1,0
+yellow_612,['yellow'],0,0,0,0,1,0
+yellow_613,['yellow'],0,0,0,0,1,0
+yellow_614,['yellow'],0,0,0,0,1,0
+yellow_615,['yellow'],0,0,0,0,1,0
+yellow_616,['yellow'],0,0,0,0,1,0
+yellow_617,['yellow'],0,0,0,0,1,0
+yellow_618,['yellow'],0,0,0,0,1,0
+yellow_619,['yellow'],0,0,0,0,1,0
+yellow_620,['yellow'],0,0,0,0,1,0
+yellow_621,['yellow'],0,0,0,0,1,0
+yellow_622,['yellow'],0,0,0,0,1,0
+yellow_623,['yellow'],0,0,0,0,1,0
+yellow_624,['yellow'],0,0,0,0,1,0
+yellow_625,['yellow'],0,0,0,0,1,0
+yellow_626,['yellow'],0,0,0,0,1,0
+yellow_627,['yellow'],0,0,0,0,1,0
+yellow_628,['yellow'],0,0,0,0,1,0
+yellow_629,['yellow'],0,0,0,0,1,0
+yellow_630,['yellow'],0,0,0,0,1,0
+yellow_631,['yellow'],0,0,0,0,1,0
+yellow_632,['yellow'],0,0,0,0,1,0
+yellow_633,['yellow'],0,0,0,0,1,0
+yellow_634,['yellow'],0,0,0,0,1,0
+yellow_635,['yellow'],0,0,0,0,1,0
+yellow_636,['yellow'],0,0,0,0,1,0
+yellow_637,['yellow'],0,0,0,0,1,0
+yellow_638,['yellow'],0,0,0,0,1,0
+yellow_639,['yellow'],0,0,0,0,1,0
+yellow_640,['yellow'],0,0,0,0,1,0
+yellow_641,['yellow'],0,0,0,0,1,0
+yellow_642,['yellow'],0,0,0,0,1,0
+yellow_643,['yellow'],0,0,0,0,1,0
+yellow_644,['yellow'],0,0,0,0,1,0
+yellow_645,['yellow'],0,0,0,0,1,0
+yellow_646,['yellow'],0,0,0,0,1,0
+yellow_647,['yellow'],0,0,0,0,1,0
+yellow_648,['yellow'],0,0,0,0,1,0
+yellow_649,['yellow'],0,0,0,0,1,0
+yellow_650,['yellow'],0,0,0,0,1,0
+yellow_651,['yellow'],0,0,0,0,1,0
+yellow_652,['yellow'],0,0,0,0,1,0
+yellow_653,['yellow'],0,0,0,0,1,0
+yellow_654,['yellow'],0,0,0,0,1,0
+yellow_655,['yellow'],0,0,0,0,1,0
+yellow_656,['yellow'],0,0,0,0,1,0
+yellow_657,['yellow'],0,0,0,0,1,0
+yellow_658,['yellow'],0,0,0,0,1,0
+yellow_659,['yellow'],0,0,0,0,1,0
+yellow_660,['yellow'],0,0,0,0,1,0
+yellow_661,['yellow'],0,0,0,0,1,0
+yellow_662,['yellow'],0,0,0,0,1,0
+yellow_663,['yellow'],0,0,0,0,1,0
+yellow_664,['yellow'],0,0,0,0,1,0
+yellow_665,['yellow'],0,0,0,0,1,0
+yellow_666,['yellow'],0,0,0,0,1,0
+yellow_667,['yellow'],0,0,0,0,1,0
+yellow_668,['yellow'],0,0,0,0,1,0
+yellow_669,['yellow'],0,0,0,0,1,0
+yellow_670,['yellow'],0,0,0,0,1,0
+yellow_671,['yellow'],0,0,0,0,1,0
+yellow_672,['yellow'],0,0,0,0,1,0
+yellow_673,['yellow'],0,0,0,0,1,0
+yellow_674,['yellow'],0,0,0,0,1,0
+yellow_675,['yellow'],0,0,0,0,1,0
+yellow_676,['yellow'],0,0,0,0,1,0
+yellow_677,['yellow'],0,0,0,0,1,0
+yellow_678,['yellow'],0,0,0,0,1,0
+yellow_679,['yellow'],0,0,0,0,1,0
+yellow_680,['yellow'],0,0,0,0,1,0
+yellow_681,['yellow'],0,0,0,0,1,0
+yellow_682,['yellow'],0,0,0,0,1,0
+yellow_683,['yellow'],0,0,0,0,1,0
+yellow_684,['yellow'],0,0,0,0,1,0
+yellow_685,['yellow'],0,0,0,0,1,0
+yellow_686,['yellow'],0,0,0,0,1,0
+yellow_687,['yellow'],0,0,0,0,1,0
+yellow_688,['yellow'],0,0,0,0,1,0
+yellow_689,['yellow'],0,0,0,0,1,0
+yellow_690,['yellow'],0,0,0,0,1,0
+yellow_691,['yellow'],0,0,0,0,1,0
+yellow_692,['yellow'],0,0,0,0,1,0
+yellow_693,['yellow'],0,0,0,0,1,0
+yellow_694,['yellow'],0,0,0,0,1,0
+yellow_695,['yellow'],0,0,0,0,1,0
+yellow_696,['yellow'],0,0,0,0,1,0
+yellow_697,['yellow'],0,0,0,0,1,0
+yellow_698,['yellow'],0,0,0,0,1,0
+yellow_699,['yellow'],0,0,0,0,1,0
+yellow_700,['yellow'],0,0,0,0,1,0
+yellow_701,['yellow'],0,0,0,0,1,0
+yellow_702,['yellow'],0,0,0,0,1,0
+yellow_703,['yellow'],0,0,0,0,1,0
+yellow_704,['yellow'],0,0,0,0,1,0
+yellow_705,['yellow'],0,0,0,0,1,0
+yellow_706,['yellow'],0,0,0,0,1,0
+yellow_707,['yellow'],0,0,0,0,1,0
+yellow_708,['yellow'],0,0,0,0,1,0
+yellow_709,['yellow'],0,0,0,0,1,0
+yellow_710,['yellow'],0,0,0,0,1,0
+yellow_711,['yellow'],0,0,0,0,1,0
+yellow_712,['yellow'],0,0,0,0,1,0
+yellow_713,['yellow'],0,0,0,0,1,0
+yellow_714,['yellow'],0,0,0,0,1,0
+yellow_715,['yellow'],0,0,0,0,1,0
+yellow_716,['yellow'],0,0,0,0,1,0
+yellow_717,['yellow'],0,0,0,0,1,0
+yellow_718,['yellow'],0,0,0,0,1,0
+yellow_719,['yellow'],0,0,0,0,1,0
+yellow_720,['yellow'],0,0,0,0,1,0
+yellow_721,['yellow'],0,0,0,0,1,0
+yellow_722,['yellow'],0,0,0,0,1,0
+yellow_723,['yellow'],0,0,0,0,1,0
+yellow_724,['yellow'],0,0,0,0,1,0
+yellow_725,['yellow'],0,0,0,0,1,0
+yellow_726,['yellow'],0,0,0,0,1,0
+yellow_727,['yellow'],0,0,0,0,1,0
+yellow_728,['yellow'],0,0,0,0,1,0
+yellow_729,['yellow'],0,0,0,0,1,0
+yellow_730,['yellow'],0,0,0,0,1,0
+yellow_731,['yellow'],0,0,0,0,1,0
+yellow_732,['yellow'],0,0,0,0,1,0
+yellow_733,['yellow'],0,0,0,0,1,0
+yellow_734,['yellow'],0,0,0,0,1,0
+yellow_735,['yellow'],0,0,0,0,1,0
+yellow_736,['yellow'],0,0,0,0,1,0
+yellow_737,['yellow'],0,0,0,0,1,0
+yellow_738,['yellow'],0,0,0,0,1,0
+yellow_739,['yellow'],0,0,0,0,1,0
+yellow_740,['yellow'],0,0,0,0,1,0
+yellow_741,['yellow'],0,0,0,0,1,0
+yellow_742,['yellow'],0,0,0,0,1,0
+yellow_743,['yellow'],0,0,0,0,1,0
+yellow_744,['yellow'],0,0,0,0,1,0
+yellow_745,['yellow'],0,0,0,0,1,0
+yellow_746,['yellow'],0,0,0,0,1,0
+yellow_747,['yellow'],0,0,0,0,1,0
+yellow_748,['yellow'],0,0,0,0,1,0
+yellow_749,['yellow'],0,0,0,0,1,0
+yellow_750,['yellow'],0,0,0,0,1,0
+yellow_751,['yellow'],0,0,0,0,1,0
+yellow_752,['yellow'],0,0,0,0,1,0
+yellow_753,['yellow'],0,0,0,0,1,0
+yellow_754,['yellow'],0,0,0,0,1,0
+yellow_755,['yellow'],0,0,0,0,1,0
+yellow_756,['yellow'],0,0,0,0,1,0
+yellow_757,['yellow'],0,0,0,0,1,0
+yellow_758,['yellow'],0,0,0,0,1,0
+yellow_759,['yellow'],0,0,0,0,1,0
+yellow_760,['yellow'],0,0,0,0,1,0
+yellow_761,['yellow'],0,0,0,0,1,0
+yellow_762,['yellow'],0,0,0,0,1,0
+yellow_763,['yellow'],0,0,0,0,1,0
+yellow_764,['yellow'],0,0,0,0,1,0
+yellow_765,['yellow'],0,0,0,0,1,0
+yellow_766,['yellow'],0,0,0,0,1,0
+yellow_767,['yellow'],0,0,0,0,1,0
+yellow_768,['yellow'],0,0,0,0,1,0
+yellow_769,['yellow'],0,0,0,0,1,0
+yellow_770,['yellow'],0,0,0,0,1,0
+yellow_771,['yellow'],0,0,0,0,1,0
+yellow_772,['yellow'],0,0,0,0,1,0
+yellow_773,['yellow'],0,0,0,0,1,0

@@ -23,7 +23,6 @@ python change_name.py
 ``` shell
 python random_pick_pic.py
 ```
-아직 여러클래스겹치는 부분 수정 필요
 
 ## 6. Training for Multi-Label Classification(MLC)
 
@@ -39,6 +38,17 @@ TODO : MLC 결과의 컨피던스를 설정하는 부분 추가
 ``` shell
 python detect_with_MLC.py --weights weights/onlytl.pt --conf 0.25 --save-txt --save-conf --img-size 640 --source inference/testset
 ```
+
+검출한 라벨 결과는 ./runs/detect/exp 에서 볼수 있음
+images : 원본이미지
+labels : MLC 결과 라벨
+
+만약 이미지위에 visualize해서 보고싶다면 아래코드를 돌리면 pviz라는 폴더안에 생성됨.
+
+``` shell
+python pviz.py 
+```
+
 
 ## 8. Testing for MLC
 

@@ -7,7 +7,7 @@ import re
 def natural_sort_key(s):
     return [int(text) if text.isdigit() else text.lower() for text in re.split('([0-9]+)', s)]
 
-def copy_or_select_images(source_folder, target_folder, num_images=150):
+def copy_or_select_images(source_folder, target_folder, num_images=1000):
     if not os.path.exists(target_folder):
         os.makedirs(target_folder)
 
@@ -44,8 +44,8 @@ def save_to_csv(target_folder, csv_file):
             row = [image[:-4], state_formatted] + [1 if state in states else 0 for state in headers[2:]]
             writer.writerow(row) 
 
-source_folder = 'croped'
-target_folder = 'pick_150'
+source_folder = 'inference/croped'
+target_folder = 'inference/pick_1000'
 copy_or_select_images(source_folder, target_folder)
-csv_file = 'selected_images.csv'
+csv_file = 'inference/1000_selected_images.csv'
 save_to_csv(target_folder, csv_file)
