@@ -160,13 +160,6 @@ def detect(save_img=False):
             txt_path = str(save_dir / 'labels' / p.stem) + ('' if dataset.mode == 'image' else f'_{frame}')  # img.txt
             gn = torch.tensor(im0.shape)[[1, 0, 1, 0]]  # normalization gain whwh
             
-            #  # 기존 레이블 파일을 읽어서 리스트로 저장
-            # if os.path.isfile(txt_path):
-            #     with open(txt_path, 'r') as file:
-            #         old_labels = [x.split() for x in file.read().strip().splitlines()]
-            # else:
-            #     print(f"No label file found for {txt_path}, skipping update.")
-            #     continue
             old_labels = []
             if len(det):
                 # Rescale boxes from img_size to im0 size
@@ -240,10 +233,6 @@ def detect(save_img=False):
                             save_path += '.mp4'
                         vid_writer = cv2.VideoWriter(save_path, cv2.VideoWriter_fourcc(*'mp4v'), fps, (w, h))
                     vid_writer.write(im0)
-
-#    if save_txt or save_img:
-#        s = f"\n{len(list(save_dir.glob('labels/*.txt')))} labels saved to {save_dir / 'labels'}" if save_txt else ''
-#         print(f"Results saved to {save_dir}{s}")
 
     print(f'Done. ({time.time() - t0:.3f}s)')
 

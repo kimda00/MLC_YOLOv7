@@ -1,4 +1,4 @@
-## 1. Training (labeled data)
+## 1. Training TL Detector (labeled data)
 
 ``` shell
 # train p5 models
@@ -12,15 +12,27 @@ On image:
 ``` shell
 python tl_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source inference/testset
 ```
+## 3. 클래스 폴더를 만들고 거기에 이미지 분류해서 넣기
 
-## 3. Training for Multi-Label Classification(MLC)
+## 4. 클래스별로 이름 변경하기
+``` shell
+python change_name.py
+```
+
+## 5. MLC training 이미지폴더와 CVS 파일 만들기
+``` shell
+python random_pick_pic.py
+```
+아직 여러클래스겹치는 부분 수정 필요
+
+## 6. Training for Multi-Label Classification(MLC)
 
 ``` shell
 python train_mlc.py --workers 8 --device 0 --batch-size 4 --data data/coco.yaml --img 640 640 --cfg cfg/training/yolov7.yaml --weights '' --name yolov7 --hyp data/hyp.scratch.p5.yaml
 
 ```
 
-## 4. Get results MLC
+## 7. Get results MLC
 
 TODO : MLC 결과의 컨피던스를 설정하는 부분 추가 
 
@@ -28,7 +40,7 @@ TODO : MLC 결과의 컨피던스를 설정하는 부분 추가
 python detect_with_MLC.py --weights weights/onlytl.pt --conf 0.25 --save-txt --save-conf --img-size 640 --source inference/testset
 ```
 
-## 5. Testing for MLC
+## 8. Testing for MLC
 
 ``` shell
 python test_for_MLC.py --device cpu 
