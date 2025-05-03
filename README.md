@@ -9,7 +9,7 @@
 
 ---
 
-## 🚩 **주요 기능**
+## **주요 기능**
 - YOLOv7 기반 객체 탐지
 - **다중 레이블(Multi-Label) 분류 기능 추가**
 - 교통신호등 이미지 학습/탐지 파이프라인 구축
@@ -18,21 +18,21 @@
 
 ---
 
-## 🔧 **개발 환경**
+## **개발 환경**
 - Python 3.x
 - PyTorch
 - YOLOv7 (커스텀)
 
 ---
 
-## 📐 **프로젝트 실행 순서**
+## **프로젝트 실행 순서**
 
-### 1️⃣ Training TL Detector (labeled data)
+### 1. Training TL Detector (labeled data)
 ```bash
 python train.py --workers 8 --device 0 --batch-size 4 --data data/coco.yaml --img 640 640 --cfg cfg/training/yolov7.yaml --weights '' --name yolov7 --hyp data/hyp.scratch.p5.yaml
 ```
 
-### 2️⃣ Crop the traffic light images
+### 2. Crop the traffic light images
 ```bash
 python tl_crop.py --weights weights/onlytl.pt --conf 0.25 --img-size 640 --source inference/testset
 ```
@@ -75,7 +75,7 @@ labels/: MLC 결과 라벨
 python pviz.py 
 ```
 
-📦 기타 기능
+- 기타 기능
 YOLOv7 테스트
 
 bash
